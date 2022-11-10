@@ -1,1 +1,21 @@
-site_name: My Docs
+site_name: Grasshopper
+
+repo_name: "2022.2-Grasshopper"
+repo_url: "https://github.com/Requisitos-de-Software/2022.2-Grasshopper"
+
+theme:
+  name: material
+  logo: assets/grasshopper.svg
+  favicon: assets/fav.png
+  palette:
+    primary: indigo
+    accent: light green
+  features:
+    - navigation.tabs
+nav:
+  - Inicio: index.md
+  - Planejamento:
+      - Heatmap: planning/heatmap.md
+      - Apresentação: planning/apresentation.md
+  - Pré-rastreabilidade:
+      - Rich picture: pre-traceability/richpicture.md
