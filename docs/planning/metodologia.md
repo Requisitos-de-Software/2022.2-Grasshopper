@@ -9,10 +9,8 @@ O Scrum é um framework para desenvolvimento ágil tanto de software como de out
 
 ### Fluxo do Scrum
 
-<div style="text-align:center">
-<img src="./assets/scrumFluxo.png">
-Fluxo do Scrum - retirado do site <a href="metodologiaagil.com/scrum">metodologias ágeis</a>
-</div>
+![scrum Fluxo](./assets/scrumFluxo.png)
+Fluxo do scrum - retirado do site [metodologias ágeis](metodologiaagil.com/scrum)
 
 </br>
 
@@ -31,6 +29,12 @@ Caso seja nescessário usar co-authored, será utilizado normalmente sem nenhuma
 ## Política de revisão
 Para que nenhum arquivo fique com alguma informação faltando ou errada, foi definido que a cada nova modificação feita nos arquivos, será escolhido pelo autor um outro membro da equipe para executar a revisão e apontar os pontos que precisarão serem modificados caso nescessário. Se tornando obrigatório a requisição de um revisador desde a sprint 1 onde foi acordado tal exigência.
 
+## Bibliografia
+- Site metodologias ágeis - [link](metodologiaagil.com)  
+
+</br>
+
 | Versão | Data | Descrição  | Autor        | Revisor |
 | :-----: | :----: | :----------: | :------------: | :--------: |
 | 0.1 | 15/11/2022 | Criado arquivo sobre metodologias | Wildemberg Sales | João Pedro Alves |
+| 0.2 | 15/11/2022 | Resolvido bug de não aparecer imagem e adicionado bibliografias | Wildemberg Sales | João Pedro Alves |
