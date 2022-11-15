@@ -15,7 +15,7 @@ theme:
 nav:
   - Inicio: index.md
   - Planejamento:
-      - Heatmap: planning/heatmap.md
-      - Apresentação: planning/apresentation.md
+      - Reuniões: planning/reunioes.md
+      - Metodologia: planning/metodologia.md
   - Pré-rastreabilidade:
       - Rich picture: pre-traceability/richpicture.md
