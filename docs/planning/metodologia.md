@@ -30,7 +30,7 @@ Caso seja nescessário usar co-authored, será utilizado normalmente sem nenhuma
 Para que nenhum arquivo fique com alguma informação faltando ou errada, foi definido que a cada nova modificação feita nos arquivos, será escolhido pelo autor um outro membro da equipe para executar a revisão e apontar os pontos que precisarão serem modificados caso nescessário. Se tornando obrigatório a requisição de um revisador desde a sprint 1 onde foi acordado tal exigência.
 
 ## Bibliografia
-- Site metodologias ágeis - [link](metodologiaagil.com)  
+- Site metodologias ágeis - www.metodologiaagil.com
 
 </br>
 
