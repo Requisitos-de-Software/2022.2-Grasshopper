@@ -5,7 +5,7 @@ Estudamos os horários dos integrantes da equipe através de um mapa de calor, p
 A seguir temos uma imagem de como ficou nosso mapa de calor:
 
 <div style="text-align:center">
-<img src="../assets/heatmap.png">
+<img src="assets/heatmap.png">
 Imagem 1 - Mapa de calor(Heatmap)
 </div>
 
@@ -16,3 +16,4 @@ Logo, através do estudo deste mapa, a equipe então definiu que os melhores hor
 | Versão | Data | Descrição  | Autor        | Revisor |
 | :-----: | :----: | :----------: | :------------: | :--------: |
 | 0.1 | 15/11/2022 | Criado arquivo sobre reuniões | Wildemberg Sales | Hellen Fernanda |
+| 0.2 | 15/11/2022 | Corrigido bug de não aparecer a imagem | Hellen Fernanda |
