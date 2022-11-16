@@ -12,10 +12,14 @@ theme:
     accent: light green
   features:
     - navigation.tabs
+
 nav:
   - Inicio: index.md
   - Planejamento:
-      - Reuniões: planning/reunioes.md
-      - Metodologia: planning/metodologia.md
+      - Reuniões: planejamento/reunioes.md
+      - Metodologia: planejamento/metodologia.md
+      - Cronograma: planejamento/cronograma.md
   - Pré-rastreabilidade:
       - Rich picture: pre-traceability/richpicture.md
+  - Atas das Reuniões:
+    - Reunião 1 - 15/11/2022: atas-das-reunioes/reuniao1.md
