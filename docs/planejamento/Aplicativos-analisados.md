@@ -30,6 +30,13 @@
 ### 1.3 MochiMochi
 <p align="justify">&emsp;&emsp;MochiMochi é o aplicativo de aprendizado de Kanji. O algoritmo do MochiMochi ajuda você a saber exatamente qual Kanji você precisa revisar e garantirá que o Kanji esteja constantemente fresco em sua mente antes que você esteja prestes a esquecê-lo.</p>
 
+![RP_wil](./assets/RP_phil.png)
+
+   **Autor:** Philipe de Sousa </br>
+   **Descrição:** RichPicture do Fluxo Geral </br>
+   **Data:** 5 de novembro de 2022 </br>
+   **Versão:** 0.1
+   
 ### 1.4  Pardal
 <p align="justify">&emsp;&emsp;Pardal é um aplicativo oficial da Justiça Eleitoral para  denúncias eleitorais, possibilitando o envio de denúncias com indícios de práticas indevidas ou ilegais no âmbito da Justiça Eleitoral. Alguns usuários reportam problemas com a usabilidade pela dificuldade de preencher todos os campos e anexar arquivos.</p>
 
