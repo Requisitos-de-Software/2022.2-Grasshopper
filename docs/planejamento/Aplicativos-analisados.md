@@ -48,7 +48,7 @@
    **Versão:** 0.1
 
 ## 1.5 Grasshopper 
-<p align="justify">&emsp;&emsp; Grasshopper é uma maneira de começar seus estudos na área de programação, com jogos divertidos e rápidos em seu celular que te ensinam a escrever JavaScript voltados para iniciantes. O usuário passa por níveis de desafios progressivamente, à medida que desenvolve suas habilidades. Cada membro da equipe instalou e utilizou os aplicativos dessa lista. Depois de uma breve análise foi decidido pela equipe que o Grasshopper seria o aplicativo escolhido pelos seguintes aspectos:
+<p align="justify">&emsp;&emsp; Grasshopper é uma maneira de começar seus estudos na área de programação, com jogos divertidos e rápidos em seu celular que te ensinam a escrever JavaScript voltados para iniciantes. O usuário passa por níveis de desafios progressivamente, à medida que desenvolve suas habilidades. Cada membro da equipe instalou e utilizou os aplicativos dessa lista. Depois de uma breve análise foi decidido pela equipe que o Grasshopper seria o aplicativo escolhido pelos seguintes aspectos:</p>
 
    - O aplicativo possui diversas funcionalidades, com interface intuitiva.
    - Tem um escopo que não é tão grande.
@@ -65,7 +65,8 @@
 
 
 ## 3. Histórico de Versão
+
 | Versão | Data | Descrição  | Autor        | Revisor |
 | :-----: | :----: | :----------: | :------------: | :--------: |
-| 0.1 | 16/11/2022 | Criado arquivo dos aplicativos analisados | Philipe de Sousa | - |
-| 0.2 | 16/11/2022 | Adiconando os Rich Pictures | Philipe de Sousa | - |
+| 0.1 | 16/11/2022 | Criado arquivo dos aplicativos analisados | Philipe de Sousa | -- |
+| 0.2 | 16/11/2022 | Adiconando os Rich Pictures | Philipe de Sousa | -- |
