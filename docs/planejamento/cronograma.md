@@ -22,13 +22,13 @@ O cronograma é uma ferramenta que tem como objetivo organizar as atividades, os
 | Tarefa | Autor | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
 | :----: | :---: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
 | Criação da Wiki | Hellen Fernanda | 11/11 | Lucas Lopes | 11/11 | 10/11 | 10/11 |
-| Página Inicial | Hellen Fernanda | 19/11 | --- | 20/11 | 10/11 | --- |
-| Planejamento | Wildemberg Sales | 19/11 | --- | 20/11 | 15/11 | 15/11 |
-| Cronograma | Lucas Lopes | 19/11 | --- | 20/11 | 15/11 | 16/11 |
-| Lista de Apps | Philipe de Sousa | 19/11 | --- | 20/11 | --- | --- |
-| Ferramentas | João Pedro | 19/11 | --- | 20/11 | 15/11 | --- |
-| Rich Picture | Hellen Fernanda, Caio Vitor | 19/11 | --- | 20/11 | 06/11 | --- |
-| Atas das Reuniões | Lucas Lopes | 20/11 | --- | 20/11 | --- | --- |
+| Página Inicial | Hellen Fernanda | 19/11 | Caio Vitor | 19/11 | 10/11 | 17/11 |
+| Planejamento | Wildemberg Sales | 19/11 | Hellen Fernanda, João Pedro | 19/11 | 15/11 | 15/11 |
+| Cronograma | Lucas Lopes | 19/11 | Hellen Fernanda | 19/11 | 15/11 | 16/11 |
+| Lista de Apps | Philipe de Sousa | 19/11 | Wildemberg Sales | 19/11 | 15/11 | 17/11 |
+| Ferramentas | João Pedro | 19/11 | Wildemberg Sales | 19/11 | 15/11 | 15/11 |
+| Rich Picture | Hellen Fernanda, Caio Vitor | 19/11 | Lucas Lopes | 19/11 | 06/11 | --- |
+| Atas das Reuniões | Lucas Lopes | 19/11 | Philipe de Sousa | 19/11 | 15/11 | 17/11 |
 
 <figcaption align="center">Tabela 2: Atividades específicas referentes à etapa 1.</figcaption>
 
@@ -86,6 +86,7 @@ O cronograma é uma ferramenta que tem como objetivo organizar as atividades, os
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 0.1 | 15/11/2022 | Criação dos cronogramas iniciais | Lucas Lopes | - |
+| 0.2 | 17/11/2022 | Adição dos revisores e datas de realização | Lucas Lopes | - |
 
 
 ## Referências
