@@ -35,5 +35,5 @@ Os padrões de desenvolvimento dos documentos foram discutidos e os integrantes 
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 0.1 | 15/11/2022 | Criação da ata de reunião | Lucas Lopes | - |
-| 0.2 | 16/11/2022 | Adição da gravação | Lucas Lopes | - |
+| 0.1 | 15/11/2022 | Criação da ata de reunião | Lucas Lopes | Philipe |
+| 0.2 | 16/11/2022 | Adição da gravação | Lucas Lopes | Philipe |
