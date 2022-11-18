@@ -41,4 +41,4 @@ As atividades que já foram desenvolvidas receberam feedback breves e serão mel
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 0.1 | 17/11/2022 | Criação da ata de reunião | Lucas Lopes | - |
+| 0.1 | 17/11/2022 | Criação da ata de reunião | Lucas Lopes | Philipe |
