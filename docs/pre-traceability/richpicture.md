@@ -44,7 +44,7 @@
 | Versão |    Data    |                 Descrição                 |      Autor      | Revisor |
 | :----: | :--------: | :---------------------------------------: | :-------------: | :-----: |
 |  0.1   | 18/11/2022 | o que é? e prototipos de baixa fidelidade | Hellen Fernanda |  Caio   |
-|  1.0   | 10/11/2022 | o que é? e prototipos de baixa fidelidade | Caio |  Hellen Fernanda   |
+|  1.0   | 19/11/2022 | o que é? e prototipos de baixa fidelidade | Caio |  Hellen Fernanda   |
 ---
 
 ## Referências
