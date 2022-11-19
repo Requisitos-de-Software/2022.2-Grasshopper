@@ -17,6 +17,7 @@ nav:
   - Inicio: index.md
   - Planejamento:
       - Reuniões: planejamento/reunioes.md
+      - Ferramentas: planejamento/ferramentas.md
       - Metodologia: planejamento/metodologia.md
       - Cronograma: planejamento/cronograma.md
       - Aplicativos analisados: planejamento/aplicativos-analisados.md

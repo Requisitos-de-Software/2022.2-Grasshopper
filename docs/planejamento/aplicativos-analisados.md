@@ -83,6 +83,6 @@
 
 | Versão | Data | Descrição  | Autor        | Revisor |
 | :-----: | :----: | :----------: | :------------: | :--------: |
-| 0.1 | 16/11/2022 | Criado arquivo dos aplicativos analisados | Philipe de Sousa | -- |
-| 0.2 | 16/11/2022 | Adiconando os Rich Pictures | Philipe de Sousa | -- |
-| 0.3 | 17/11/2022 | Editando o rich picture da caixa | Philipe de Sousa | -- |
+| 0.1 | 16/11/2022 | Criado arquivo dos aplicativos analisados | Philipe de Sousa | Wildemberg Sales |
+| 0.2 | 16/11/2022 | Adiconando os Rich Pictures | Philipe de Sousa | Wildemberg Sales |
+| 0.3 | 17/11/2022 | Editando o rich picture da caixa | Philipe de Sousa | Wildemberg Sales |
