@@ -5,6 +5,7 @@ repo_url: "https://github.com/Requisitos-de-Software/2022.2-Grasshopper"
 
 theme:
   name: material
+  language: "pt"
   logo: assets/grasshopper.svg
   favicon: assets/fav.png
   palette:
@@ -17,8 +18,8 @@ nav:
   - Inicio: index.md
   - Planejamento:
       - Reuniões: planejamento/reunioes.md
-      - Ferramentas: planejamento/ferramentas.md
       - Metodologia: planejamento/metodologia.md
+      - Ferramentas: planejamento/ferramentas.md
       - Cronograma: planejamento/cronograma.md
       - Aplicativos analisados: planejamento/aplicativos-analisados.md
   - Pré-rastreabilidade:
