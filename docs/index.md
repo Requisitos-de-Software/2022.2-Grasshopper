@@ -1,6 +1,7 @@
 # Início
 
 <div style="text-align:center"><img src= "assets/inicio.png"/></div>
+<figcaption>Imagem 1: Apresentação do Aplicativo GrassHopper  </figcaption>
 
 ---
 
@@ -44,7 +45,7 @@
 
 | Versão |    Data    |            Descrição            |      Autor      | Revisor |
 | :----: | :--------: | :-----------------------------: | :-------------: | :-----: |
-|  0.1   | 17/11/2022 | Criação e organização do início | Hellen Fernanda |    -    |
+|  0.1   | 17/11/2022 | Criação e organização do início | Hellen Fernanda | Caio Vitor|
 
 ---
 
