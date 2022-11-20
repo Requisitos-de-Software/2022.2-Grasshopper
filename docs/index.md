@@ -4,7 +4,7 @@
 
 ---
 
-## Sobre
+## Sobre a disciplina
 
 <p style="text-align: justify;">Documentação reservada à disciplina de Requisitos de Software da Universidade de Brasília, lecionado pelo professor André Barros, sobre os requisitos do aplicativo Grasshopper. Neste documento está o armazenamento e a apresentação de artefatos e processos desenvolvidos na disciplina.</p>
 
