@@ -61,7 +61,7 @@
 | :----: | :--------: | :---------------------------------------: | :-------------: | :-----: |
 |  0.1   | 18/11/2022 | o que é? e prototipos de baixa fidelidade | Hellen Fernanda |  Caio, Lucas Lopes   |
 |  0.2   | 19/11/2022 | Inclusão do RichPicture digital | Caio |  Hellen Fernanda, Lucas Lopes |
-|  0.3   | 19/11/2022 | Mudanças e adição do RP final | Lucas Lopes | - |
+|  0.3   | 20/11/2022 | Mudanças e adição do RP final | Lucas Lopes | - |
 
 ## Referências
 
