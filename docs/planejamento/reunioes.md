@@ -2,7 +2,7 @@
 
 ## Introdução
 Estudamos os horários dos integrantes da equipe através de um mapa de calor, para termos uma noção de como organizariamos as atividades do grupo, e qual seria os melhores horários para as reuniões.
-A seguir temos uma imagem de como ficou nosso mapa de calor:
+A seguir temos a <i>imagem 1</i> de como ficou nosso mapa de calor:
 
 ![](./assets/heatmap.png)
 <figcaption align="center">Imagem 1 - Mapa de calor(Heatmap)</figcaption>
