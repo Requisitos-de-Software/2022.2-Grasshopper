@@ -18,6 +18,7 @@ O cronograma é uma ferramenta que tem como objetivo organizar as atividades, os
 |   7   |      Conclusão do Projeto      |             Apresentação do Projeto final             |  01/02  |      -       |
 
 <figcaption align="center">Tabela 1: Cronograma geral das entregas.</figcaption>
+OBS.: as gravações das apresentações ocorrerão sempre 1 dia antes da data de entrega de cada etapa.
 
 ### Etapa 1 - Planejamento
 
