@@ -30,7 +30,7 @@ OBS.: as gravações das apresentações ocorrerão sempre 1 dia antes da data d
 |    Cronograma     |         Lucas Lopes         |  19/11  |       Hellen Fernanda       |  19/11  |        15/11         |       16/11       |
 |   Lista de Apps   |      Philipe de Sousa       |  19/11  |      Wildemberg Sales       |  19/11  |        15/11         |       17/11       |
 |    Ferramentas    |         João Pedro          |  19/11  |      Wildemberg Sales       |  19/11  |        15/11         |       15/11       |
-|   Rich Picture    | Hellen Fernanda, Caio Vitor |  19/11  |         Lucas Lopes         |  19/11  |        06/11         |        ---        |
+|   Rich Picture    | Hellen Fernanda, Caio Vitor |  19/11  |         Lucas Lopes         |  19/11  |        06/11         |        19/11        |
 | Atas das Reuniões |         Lucas Lopes         |  19/11  |      Philipe de Sousa       |  19/11  |        15/11         |       17/11       |
 
 <figcaption align="center">Tabela 2: Atividades específicas referentes à etapa 1.</figcaption>
