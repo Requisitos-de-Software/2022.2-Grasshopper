@@ -12,15 +12,14 @@ O cronograma é uma ferramenta que tem como objetivo organizar as atividades, os
 |   2   |    Elicitação de Requisitos    |                Técnicas e Priorização                 |  30/11  |    01/12     |
 |   3   |    Modelagem de Requisitos     | Cenários, Léxico, Use Case, Especificação Suplementar |  12/12  |    13/12     |
 |   4   | Modelagem de Requisitos - Ágil |     Histórias de Usuário, Backlog e NFR Framework     |  04/01  |    05/01     |
-|  5.1  |    Análise de Requisitos I     |                Verificação e Validação                |  09/01  |    10/01     |
-|  5.2  |    Análise de Requisitos II    |                Verificação e Validação                |  16/01  |    17/01     |
+|  5  |    Análise de Requisitos     |                Verificação e Validação                |  09/01 e 16/01  |    10/01 e 17/01     |
 |   6   |      Pós-Rastreabilidade       |        Gerência de Desenvolvimento de Software        |  23/01  |    24/01     |
 |   7   |      Conclusão do Projeto      |             Apresentação do Projeto final             |  01/02  |      -       |
 
 <figcaption align="center">Tabela 1: Cronograma geral das entregas.</figcaption>
 OBS.: as gravações das apresentações ocorrerão sempre 1 dia antes da data de entrega de cada etapa.
 
-### Etapa 1 - Planejamento
+08/01 Etapa 1 - Planejamento
 
 |      Tarefa       |            Autor            | Entrega |           Revisor           | Revisão | Início da Realização | Fim da Realização |
 | :---------------: | :-------------------------: | :-----: | :-------------------------: | :-----: | :------------------: | :---------------: |
@@ -35,61 +34,75 @@ OBS.: as gravações das apresentações ocorrerão sempre 1 dia antes da data d
 
 <figcaption align="center">Tabela 2: Atividades específicas referentes à etapa 1.</figcaption>
 
-### Etapa 2 - Elicitação de Requisitos
+08/01 Etapa 2 - Elicitação de Requisitos
 
 | Tarefa | Autor | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
 | :----: | :---: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
-|  XXXX  | XXXX  |  XXXX   |  XXXX   |  XXXX   |         XXXX         |       XXXX        |
+| Personas | Wildemberg Sales, Philipe de Sousa | 25/11 | Lucas Lopes |  25/11   | - | - |
+| Elicitação - Storytelling | Wildemberg Sales, Philipe de Sousa | 25/11 | Caio Vitor |  25/11   | - | - |
+| Elicitação - Observação | Lucas Lopes, Caio Vito | 25/11 | João Pedro |  25/11   | - | - |
+| Elicitação - Brainstorming | Hellen Fernanda, João Pedro | 25/11 | Philipe de Sousa |  25/11   | - | - |
+| Priorização - In or Out | Caio, João, Hellen | 26/11 | Wildemberg Sales |  26/11   | - | - |
+| Priorização - Three Level-Scale | Lucas, Wildemberg, Philipe | 26/11 | Hellen Fernanda |  26/11   | - | - |
+| Atas das Reuniões | Lucas Lopes | 26/11 | Wildemberg Sales |  26/11   | 22/11 | - |
 
 <figcaption align="center">Tabela 3: Atividades específicas referentes à etapa 2.</figcaption>
 
-### Etapa 3 - Modelagem de Requisitos
+08/01 Etapa 3 - Modelagem de Requisitos
 
 | Tarefa | Autor | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
 | :----: | :---: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
-|  XXXX  | XXXX  |  XXXX   |  XXXX   |  XXXX   |         XXXX         |       XXXX        |
+| Cenários | Lucas Lopes, Hellen Fernanda | 10/12 | Philipe de Sousa |  11/12   | - | - |
+| Léxicos | João Pedro, Wildemberg Sales | 10/12 | Lucas Lopes |  11/12   | - | - |
+| Casos de Uso | Philipe de Sousa | 10/12 | Hellen Fernanda | 11/12 | - | - |
+| Especificação Suplementar | Caio Vitor | 10/12 | Wildemberg Sales |  11/12   | - | - |
+| Atas das Reuniões | Lucas Lopes | 10/12 | João Pedro |  11/12   | - | - |
 
 <figcaption align="center">Tabela 4: Atividades específicas referentes à etapa 3.</figcaption>
 
-### Etapa 4 - Modelagem de Requisitos - Ágil
+08/01 Etapa 4 - Modelagem de Requisitos - Ágil
 
 | Tarefa | Autor | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
 | :----: | :---: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
-|  XXXX  | XXXX  |  XXXX   |  XXXX   |  XXXX   |         XXXX         |       XXXX        |
+| Histórias de Usuário | Caio Vitor, Lucas Lopes | 02/01 | Hellen Fernanda |  03/01   | - | - |
+| Backlogs | Wildemberg Sales, Hellen Fernanda | 02/01 | Caio Vitor |  03/01   | - | - |
+| NFR Framework | João Pedro, Philipe de Sousa | 02/01 | João Pedro |  03/01   | - | - |
+| Atas das Reuniões | Lucas Lopes | 02/01 | Philipe de Sousa |  03/01   | - | - |
 
 <figcaption align="center">Tabela 5: Atividades específicas referentes à etapa 4.</figcaption>
 
-### Etapa 5.1 - Análise de Requisitos I
+08/01 Etapa 5 - Análise de Requisitos
 
 | Tarefa | Autor | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
 | :----: | :---: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
-|  XXXX  | XXXX  |  XXXX   |  XXXX   |  XXXX   |         XXXX         |       XXXX        |
+| Verificação - Rich Picture | Lucas Lopes | 07/01 | João Pedro |  08/01   | - | - |
+| Verificação - Personas | Lucas Lopes | 07/01 | João Pedro |  08/01   | - | - |
+| Verificação - Storytelling | Lucas Lopes | 07/01 | João Pedro |  08/01   | - | - |
+| Verificação - Observação | Philipe de Sousa | 07/01 | Hellen Fernanda |  08/01   | - | - |
+| Verificação - Brainstorming | Philipe de Sousa | 07/01 | Hellen Fernanda |  08/01   | - | - |
+| Verificação - In or Out | Philipe de Sousa | 07/01 | Hellen Fernanda |  08/01   | - | - |
+| Verificação - Three Level-Scale | Caio Vitor | 07/01 | Wildemberg Sales |  08/01   | - | - |
+| Verificação - Cenários | Caio Vitor | 07/01 | Wildemberg Sales |  08/01   | - | - |
+| Verificação - Léxicos | Wildemberg Sales | 07/01 | Caio Vitor |  08/01   | - | - |
+| Verificação - Casos de Uso | Wildemberg Sales | 07/01 | Caio Vitor |  08/01   | - | - |
+| Verificação - Especificação Suplementar | Hellen Fernanda | 07/01 | Philipe de Sousa |  08/01   | - | - |
+| Verificação - Histórias de Usuário | Hellen Fernanda | 07/01 | Philipe de Sousa |  08/01   | - | - |
+| Verificação - Backlogs | João Pedro | 07/01 | Lucas Lopes |  08/01   | - | - |
+| Verificação - NFR Framework | João Pedro | 07/01 | Lucas Lopes |  08/01   | - | - |
+| Validação - Prototipação | Todos | 07/01 | Todos |  08/01   | - | - |
+| Atas das Reuniões | Lucas Lopes | 07/01 | Hellen Fernanda |  08/01   | - | - |
 
-<figcaption align="center">Tabela 6: Atividades específicas referentes à etapa 5.1.</figcaption>
+<figcaption align="center">Tabela 6: Atividades específicas referentes à etapa 5.</figcaption>
 
-### Etapa 5.2 - Análise de Requisitos II
+08/01 Etapa 6 - Pós-Rastreabilidade
 
 | Tarefa | Autor | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
 | :----: | :---: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
-|  XXXX  | XXXX  |  XXXX   |  XXXX   |  XXXX   |         XXXX         |       XXXX        |
+| Backward-from | Wildemberg, Caio, João | 21/01 | Lucas Lopes |  22/01   | - | - |
+| Forward-from | Lucas, Hellen, Philipe | 21/01 | Hellen Fernanda |  22/01   | - | - |
+| Atas das Reuniões | Lucas Lopes | 21/01 | Caio Vitor |  22/01   | - | - |
 
-<figcaption align="center">Tabela 7: Atividades específicas referentes à etapa 5.2.</figcaption>
-
-### Etapa 6 - Pós-Rastreabilidade
-
-| Tarefa | Autor | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
-| :----: | :---: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
-|  XXXX  | XXXX  |  XXXX   |  XXXX   |  XXXX   |         XXXX         |       XXXX        |
-
-<figcaption align="center">Tabela 8: Atividades específicas referentes à etapa 6.</figcaption>
-
-### Etapa 7 - Conclusão do Projeto
-
-| Tarefa | Autor | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
-| :----: | :---: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
-|  XXXX  | XXXX  |  XXXX   |  XXXX   |  XXXX   |         XXXX         |       XXXX        |
-
-<figcaption align="center">Tabela 9: Atividades específicas referentes à etapa 7.</figcaption>
+<figcaption align="center">Tabela 7: Atividades específicas referentes à etapa 6.</figcaption>
 
 ## Histórico de versão
 
@@ -97,6 +110,7 @@ OBS.: as gravações das apresentações ocorrerão sempre 1 dia antes da data d
 | :----: | :--------: | :----------------------------------------: | :---------: | :-------------: |
 |  0.1   | 15/11/2022 |      Criação dos cronogramas iniciais      | Lucas Lopes | Hellen Fernanda |
 |  0.2   | 17/11/2022 | Adição dos revisores e datas de realização | Lucas Lopes | Hellen Fernanda |
+|  0.3   | 23/11/2022 | Inclusão das outras etapas | Lucas Lopes | Philipe de Sousa |
 
 ## Referências
 
