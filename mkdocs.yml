@@ -33,3 +33,5 @@ nav:
   - Elicitação:
       - Personas: elicitacao/personas.md
       - Brainstorm: elicitacao/brainstorm.md
+      - Priorização:
+          - In or Out: elicitacao/priorizacao/in-or-out.md
