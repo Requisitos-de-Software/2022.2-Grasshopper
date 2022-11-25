@@ -45,7 +45,8 @@
 
 | Versão |    Data    |            Descrição            |      Autor      | Revisor |
 | :----: | :--------: | :-----------------------------: | :-------------: | :-----: |
-|  0.1   | 17/11/2022 | Criação e organização do início | Hellen Fernanda | Caio Vitor|
+|  1.0   | 17/11/2022 | Criação e organização do início | Hellen Fernanda | Caio Vitor|
+|  1.1   | 24/11/2022 | Ajuste dos números de versão      | Wildemberg Sales | Caio Vitor |
 
 ---
 
