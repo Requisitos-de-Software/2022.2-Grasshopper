@@ -20,6 +20,9 @@ Revisar e debater as tarefas já desenvolvidas. Verificar datas de início e fin
 
 
 ## Tarefas
+
+A seguir temos a <i>Tabela 1</i> que mostra como ficou a divisão de tarefas para a sprint:
+
 | Tarefa | Responsável | Revisor | Data de Revisão |
 | ---- | ---- | ---- | ---- |
 | Criação da página inicial | Hellen Fernanda | Caio Vitor | 19/11 |
@@ -41,4 +44,5 @@ As atividades que já foram desenvolvidas receberam feedback breves e serão mel
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 0.1 | 17/11/2022 | Criação da ata de reunião | Lucas Lopes | Philipe |
+| 1.0 | 17/11/2022 | Criação da ata de reunião | Lucas Lopes | Philipe |
+| 1.1 | 24/11/2022 | Ajustado números das versões e chamda de tabela | Wildemberg Sales | Philipe |
