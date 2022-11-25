@@ -4,7 +4,9 @@
 
 Visando aprimorar a agilidade da equipe, e utilizar de técnicas que são conhecidas pelo grupo, foi definido que iremos utilizar metodologias ágeis, especificamente o Scrum.
 </br>
-O Scrum é um framework para desenvolvimento ágil tanto de software como de outras áreas. Derivado do manifesto ágil, se tornou o principal a ser utilzado para a organização e gerencia de grandes projetos, visando sempre a otimização do time, e entregas rápidas e contínuas de releases.
+O Scrum é um framework para desenvolvimento ágil tanto de software como de outras áreas. Derivado do manifesto ágil, se tornou o principal a ser utilzado para a organização e gerencia de grandes projetos, visando sempre a otimização do time, e entregas rápidas e contínuas de releases. 
+
+A seguir temos a <i>Imagem 1</i> que mostra o fluxo do scrum:
 
 </br>
 
@@ -13,6 +15,15 @@ O Scrum é um framework para desenvolvimento ágil tanto de software como de out
 ![scrum Fluxo](./assets/scrumFluxo.png)
 
 <figcaption align="center">Figura 1: Fluxo do Scrum (Fonte: <a href="https://metodologiaagil.com/scrum/" target="_blanck">Metodologias Ágeis e Scrum</a>, 2022)</figcaption>
+
+### Legenda:
+- **Product backlog**: artefatos a ser trabalho, como por exemplo uma funcionalidade;
+- **Sprint backlog**: artefato escolhido para ser trabalho naquela fase;
+- **Daily scrum meeting**: Reuniões diárias e semanais para acompanhamento da sprint;
+- **Potentially shippable product increment**: É o artefato concluído na sprint que será implementado no sistema;
+- **Sprint**: Termo utlizado para expressar o períodod de trabalho;
+- **24 hours**: 24 horas;
+- **2-4 weeks**: 2-4 semanas;
 
 </br>
 
@@ -43,6 +54,7 @@ Para que nenhum arquivo fique com alguma informação faltando ou errada, foi de
 
 | Versão |    Data    |                            Descrição                            |      Autor       |              Revisor              |
 | :----: | :--------: | :-------------------------------------------------------------: | :--------------: | :-------------------------------: |
-|  0.1   | 15/11/2022 |                Criado arquivo sobre metodologias                | Wildemberg Sales |         João Pedro Alves          |
-|  0.2   | 15/11/2022 | Resolvido bug de não aparecer imagem e adicionado bibliografias | Wildemberg Sales |         João Pedro Alves          |
-|  0.3   | 18/11/2022 |                    Ajustado links e títulos                     | Wildemberg Sales | João Pedro Alves, Hellen Fernanda |
+|  1.0   | 15/11/2022 |                Criado arquivo sobre metodologias                | Wildemberg Sales |         João Pedro Alves          |
+|  1.1   | 15/11/2022 | Resolvido bug de não aparecer imagem e adicionado bibliografias | Wildemberg Sales |         João Pedro Alves          |
+|  1.2   | 18/11/2022 |                    Ajustado links e títulos                     | Wildemberg Sales | João Pedro Alves, Hellen Fernanda |
+| 1.3 | 24/11/2022 | Ajuste dos números de revisões, ajustado legenda da imagem | Wildemberg Sales | João Pedro Alves |
