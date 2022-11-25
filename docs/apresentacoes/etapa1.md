@@ -21,4 +21,5 @@ Esta página é destinada à apresentação da Etapa 1 do projeto de Requisitos 
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 0.1 | 20/11/2022 | Criação da página | Lucas Lopes | - |
+| 1.0 | 20/11/2022 | Criação da página | Lucas Lopes | Wildemberg Sales |
+| 1.1 | 24/11/2022 | Ajuste dos números de versão e adicionando os revisores | Wildemberg Sales | Lucas Lopes |
