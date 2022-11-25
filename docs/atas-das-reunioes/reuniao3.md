@@ -20,6 +20,9 @@ Definir técnicas de elicitação e técnicas de priorização de requisitos. De
 
 
 ## Tarefas
+
+A seguir temos a <i>Tabela 1</i> que mostra como ficou a divisão das tarefas para a sprint:
+
 | Tarefa | Responsável | Revisor | Data de Entrega e Revisão |
 | ---- | ---- | ---- | ---- |
 | Personas | Wildemberg Sales, Philipe de Sousa | Lucas Lopes | 25/11 |
@@ -41,4 +44,5 @@ As técnicas de elicitação e priorização que serão utilizadas no projeto fo
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 0.1 | 22/11/2022 | Criação da ata de reunião | Lucas Lopes | - |
+| 1.0 | 22/11/2022 | Criação da ata de reunião | Lucas Lopes | Wildemberg Sales |
+| 1.1 | 24/11/2022 | Ajustado números das versões e chamda de tabela | Wildemberg Sales | Lucas Lopes | 
