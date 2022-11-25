@@ -7,12 +7,12 @@
 <p align="justify">&emsp;&emsp; O Aplicativo da CAIXA é um meio de acesso a sua conta da CAIXA pela internet, o usuário pode consultar saldo e extrato, realizar pagamentos, Pix, transferências, investimentos e contratar empréstimos.</p>
 
 ![RPcaio](./assets/RP_caio.png)
-
+<figcaption align="center">Figura 1 - Rich Picture Caixa</figcaption>
 
    **Autor:** Caio </br>
    **Descrição:** RichPicture do Fluxo Geral </br>
    **Data:** 5 de novembro de 2022 </br>
-   **Versão:** 0.1
+   **Versão:** 1.0
 
 
 ### 1.2 Muambator
@@ -21,12 +21,12 @@
 
 
 ![RPjoao](./assets/RP_joao.png)
-
+<figcaption align="center">Figura 2 - Rich Picture Muambator</figcaption>
 
    **Autor:** João Pedro </br>
    **Descrição:** RichPicture do Fluxo Geral </br>
    **Data:** 5 de novembro de 2022 </br>
-   **Versão:** 0.1
+   **Versão:** 1.0
 
 
 ### 1.3 Memo - Estude Programação
@@ -34,11 +34,12 @@
 <p align="justify">&emsp;&emsp;O Memo é um aplicativo para o aprendizagem voltado para a área de programação, ele utiliza uma abordagem baseada em cartões de memória, método com repetições espaçadas para melhor memorização das tarefas realizadas. Com um conjunto original de tarefas que abrangem de níveis básicos até avançados. O aplicativo é bem completo, os usuários costumam pedir mais mudanças nos conteúdos das tarefas.</p>
 
 ![RP_lopes](./assets/RP_lopes.png)
+<figcaption align="center">Figura 3 - Rich Picture Memo</figcaption>
 
    **Autor:** Lucas Lopes </br>
    **Descrição:** RichPicture do Fluxo Geral </br>
    **Data:** 5 de novembro de 2022 </br>
-   **Versão:** 0.1
+   **Versão:** 1.0
 
 
 ### 1.4 MochiMochi
@@ -46,31 +47,34 @@
 <p align="justify">&emsp;&emsp;MochiMochi é o aplicativo de aprendizado de Kanji. O algoritmo do MochiMochi ajuda você a saber exatamente qual Kanji você precisa revisar e garantirá que o Kanji esteja constantemente fresco em sua mente antes que você esteja prestes a esquecê-lo.</p>
 
 ![RP_wil](./assets/RP_phil.png)
+<figcaption align="center">Figura 4 - Rich Picture MochiMochi</figcaption>
 
    **Autor:** Philipe de Sousa </br>
    **Descrição:** RichPicture do Fluxo Geral </br>
    **Data:** 5 de novembro de 2022 </br>
-   **Versão:** 0.1
+   **Versão:** 1.0
    
 ### 1.5  Pardal
 <p align="justify">&emsp;&emsp;Pardal é um aplicativo oficial da Justiça Eleitoral para  denúncias eleitorais, possibilitando o envio de denúncias com indícios de práticas indevidas ou ilegais no âmbito da Justiça Eleitoral. Alguns usuários reportam problemas com a usabilidade pela dificuldade de preencher todos os campos e anexar arquivos.</p>
 
 ![RP_wil](./assets/RP_wil.png)
+<figcaption align="center">Figura 5 - Rich Picture Pardal</figcaption>
 
    **Autor:** Wildemberg </br>
    **Descrição:** RichPicture do Fluxo Geral </br>
    **Data:** 5 de novembro de 2022 </br>
-   **Versão:** 0.1
+   **Versão:** 1.0
 
 ## 1.6 Grasshopper 
 <p align="justify">&emsp;&emsp; Grasshopper é uma maneira de começar seus estudos na área de programação, com jogos divertidos e rápidos em seu celular que te ensinam a escrever JavaScript voltados para iniciantes. O usuário passa por níveis de desafios progressivamente, à medida que desenvolve suas habilidades.</p>
 
 ![RP_hellen](../pre-traceability/assets/rp1.png)
+<figcaption align="center">Figura 6 - Rich Picture Grasshoper</figcaption>
 
    **Autor:** Hellen </br>
    **Descrição:** RichPicture do Fluxo Geral </br>
    **Data:** 4 de novembro de 2022 </br>
-   **Versão:** 0.1
+   **Versão:** 1.0
 
 
 <p align="justify">&emsp;&emsp; Cada membro da equipe instalou e utilizou os aplicativos dessa lista. Depois de uma breve análise foi decidido pela equipe que o Grasshopper seria o aplicativo escolhido pelos seguintes aspectos:</p>
@@ -93,7 +97,8 @@
 
 | Versão | Data | Descrição  | Autor        | Revisor |
 | :-----: | :----: | :----------: | :------------: | :--------: |
-| 0.1 | 16/11/2022 | Criado arquivo dos aplicativos analisados | Philipe de Sousa | Wildemberg Sales |
-| 0.2 | 16/11/2022 | Adiconando os Rich Pictures | Philipe de Sousa | Wildemberg Sales |
-| 0.3 | 17/11/2022 | Editando o rich picture da caixa | Philipe de Sousa | Wildemberg Sales |
-| 0.4 | 20/11/2022 | Adicionado o rich picture do Grasshopper | Philipe de Sousa | Wildemberg Sales |
+| 1.0 | 16/11/2022 | Criado arquivo dos aplicativos analisados | Philipe de Sousa | Wildemberg Sales |
+| 1.1 | 16/11/2022 | Adiconando os Rich Pictures | Philipe de Sousa | Wildemberg Sales |
+| 1.2 | 17/11/2022 | Editando o rich picture da caixa | Philipe de Sousa | Wildemberg Sales |
+| 1.3 | 20/11/2022 | Adicionado o rich picture do Grasshopper | Philipe de Sousa | Wildemberg Sales |
+| 1.4 | 24/11/2022 | Ajustando num. de versões, legendas e chamadas de imagens | Wildemberg Sales | Philipe de Sousa |
