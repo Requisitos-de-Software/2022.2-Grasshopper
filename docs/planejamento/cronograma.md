@@ -29,8 +29,9 @@ OBS.: as gravações das apresentações ocorrerão sempre 1 dia antes da data d
 |    Cronograma     |         Lucas Lopes         |  19/11  |       Hellen Fernanda       |  19/11  |        15/11         |       16/11       |
 |   Lista de Apps   |      Philipe de Sousa       |  19/11  |      Wildemberg Sales       |  19/11  |        15/11         |       17/11       |
 |    Ferramentas    |         João Pedro          |  19/11  |      Wildemberg Sales       |  19/11  |        15/11         |       15/11       |
-|   Rich Picture    | Hellen Fernanda, Caio Vitor |  19/11  |         Lucas Lopes         |  19/11  |        06/11         |        19/11        |
+|   Rich Picture    | Hellen Fernanda, Caio Vitor |  19/11  |         Lucas Lopes         |  19/11  |        06/11         |       19/11       |
 | Atas das Reuniões |         Lucas Lopes         |  19/11  |      Philipe de Sousa       |  19/11  |        15/11         |       17/11       |
+| Ajustados Pedidos 1 |   Wildemberg Sales        |  24/11  | Lucas Lopes                 |  25/11  |        24/11         |       24/11       |
 
 <figcaption align="center">Tabela 2: Atividades específicas referentes à etapa 1.</figcaption>
 
@@ -108,9 +109,10 @@ OBS.: as gravações das apresentações ocorrerão sempre 1 dia antes da data d
 
 | Versão |    Data    |                 Descrição                  |    Autor    |     Revisor     |
 | :----: | :--------: | :----------------------------------------: | :---------: | :-------------: |
-|  0.1   | 15/11/2022 |      Criação dos cronogramas iniciais      | Lucas Lopes | Hellen Fernanda |
-|  0.2   | 17/11/2022 | Adição dos revisores e datas de realização | Lucas Lopes | Hellen Fernanda |
-|  0.3   | 23/11/2022 | Inclusão das outras etapas | Lucas Lopes | Philipe de Sousa |
+|  1.0   | 15/11/2022 |      Criação dos cronogramas iniciais      | Lucas Lopes | Hellen Fernanda |
+|  1.1   | 17/11/2022 | Adição dos revisores e datas de realização | Lucas Lopes | Hellen Fernanda |
+|  1.2   | 23/11/2022 | Inclusão das outras etapas | Lucas Lopes | Philipe de Sousa |
+|  1.3   | 24/11/2022 | Ajuste dos números de versão e adicionado tarefa a tabela 2 | Wildemberg Sales | Hellen Fernanda |
 
 ## Referências
 
