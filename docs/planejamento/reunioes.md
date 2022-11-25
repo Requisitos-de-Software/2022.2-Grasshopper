@@ -10,10 +10,11 @@ A seguir temos a <i>imagem 1</i> de como ficou nosso mapa de calor:
 
 </br>
 
-Logo, através do estudo deste mapa, a equipe então definiu que os melhores horários para reunião seria nas terças e quintas no horário entre 20h as 22h, optando para sempre que possível realizá-las através do Microsoft Teams, onde gravamos e documentamos tais reuniões.
+Logo, através do estudo deste mapa, a equipe então definiu que os melhores horários para reunião seria nas terças e quintas no horário entre 20h as 22h, sendo que na terça seria o planejamento da sprint seguinte, e na quinta o fechamento/abertura de sprints, e optando para sempre que possível realizá-las através do Microsoft Teams, onde gravamos e documentamos tais reuniões.
 
 ## Histórico de versão
 | Versão | Data | Descrição  | Autor        | Revisor |
 | :-----: | :----: | :----------: | :------------: | :--------: |
-| 0.1 | 15/11/2022 | Criado arquivo sobre reuniões | Wildemberg Sales | Hellen Fernanda |
-| 0.2 | 18/11/2022 | Ajustado formatação de legendas | Wildemberg Sales | Hellen Fernanda |
+| 1.0 | 15/11/2022 | Criado arquivo sobre reuniões | Wildemberg Sales | Hellen Fernanda |
+| 1.1 | 18/11/2022 | Ajustado formatação de legendas | Wildemberg Sales | Hellen Fernanda |
+| 1.2 | 24/11/2022 | Ajustado numero de versão, e explicação das reuniões | Wildemberg Sales | Hellen Fernanda |
