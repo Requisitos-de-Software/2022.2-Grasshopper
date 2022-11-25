@@ -15,6 +15,9 @@ A reunião foi iniciada às 14:10 e finalizada às 14:55.
 Definir padrões utilizados no processo, orientar participantes sobre como utilizar a Wiki e dividir as tarefas entre os integrantes.
 
 ## Tarefas
+
+A seguir temos a <i>Tabela 1</i> que mostra como ficou divididas nossas atividades para a sprint:
+
 | Tarefa | Responsável |
 | ---- | ---- |
 | Criação da página inicial | Hellen Fernanda
@@ -35,5 +38,6 @@ Os padrões de desenvolvimento dos documentos foram discutidos e os integrantes 
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 0.1 | 15/11/2022 | Criação da ata de reunião | Lucas Lopes | Philipe |
-| 0.2 | 16/11/2022 | Adição da gravação | Lucas Lopes | Philipe |
+| 1.0 | 15/11/2022 | Criação da ata de reunião | Lucas Lopes | Philipe |
+| 1.1 | 16/11/2022 | Adição da gravação | Lucas Lopes | Philipe |
+| 1.2 | 24/11/2022 | Ajustado números das versões e chamda de tabela | Wildemberg Sales | Philipe |
