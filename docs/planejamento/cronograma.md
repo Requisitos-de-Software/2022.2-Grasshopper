@@ -39,13 +39,13 @@ OBS.: as gravações das apresentações ocorrerão sempre 1 dia antes da data d
 
 | Tarefa | Autor | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
 | :----: | :---: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
-| Personas | Wildemberg Sales, Philipe de Sousa | 25/11 | Lucas Lopes |  25/11   | - | - |
-| Elicitação - Storytelling | Wildemberg Sales, Philipe de Sousa | 25/11 | Caio Vitor |  25/11   | - | - |
-| Elicitação - Observação | Lucas Lopes, Caio Vito | 25/11 | João Pedro |  25/11   | - | - |
-| Elicitação - Brainstorming | Hellen Fernanda, João Pedro | 25/11 | Philipe de Sousa |  25/11   | - | - |
-| Priorização - In or Out | Caio, João, Hellen | 26/11 | Wildemberg Sales |  26/11   | - | - |
-| Priorização - Three Level-Scale | Lucas, Wildemberg, Philipe | 26/11 | Hellen Fernanda |  26/11   | - | - |
-| Atas das Reuniões | Lucas Lopes | 26/11 | Wildemberg Sales |  26/11   | 22/11 | - |
+| Personas | Wildemberg Sales, Philipe de Sousa | 30/11 | Lucas Lopes |  28/11   | 24/11 | 25/11 |
+| Elicitação - Storytelling | Wildemberg Sales, Philipe de Sousa | 30/11 | Caio Vitor |  28/11   | 26/11 | 26/11 |
+| Elicitação - Observação | Lucas Lopes, Caio Vito | 30/11 | João Pedro |  28/11   | - | - |
+| Elicitação - Brainstorming | Hellen Fernanda, João Pedro | 30/11 | Philipe de Sousa |  28/11   | - | - |
+| Priorização - In or Out | Caio, João, Hellen | 30/11 | Wildemberg Sales |  28/11   | - | - |
+| Priorização - Three Level-Scale | Lucas, Wildemberg, Philipe | 30/11 | Hellen Fernanda |  28/11   | - | - |
+| Atas das Reuniões | Lucas Lopes | 30/11 | Wildemberg Sales |  28/11   | 22/11 | - |
 
 <figcaption align="center">Tabela 3: Atividades específicas referentes à etapa 2.</figcaption>
 
@@ -113,6 +113,7 @@ OBS.: as gravações das apresentações ocorrerão sempre 1 dia antes da data d
 |  1.1   | 17/11/2022 | Adição dos revisores e datas de realização | Lucas Lopes | Hellen Fernanda |
 |  1.2   | 23/11/2022 | Inclusão das outras etapas | Lucas Lopes | Philipe de Sousa |
 |  1.3   | 24/11/2022 | Ajuste dos números de versão e adicionado tarefa a tabela 2 | Wildemberg Sales | Hellen Fernanda |
+|  1.4   | 26/11/2022 | Ajustando datas de entrega e revisão da etapa 2 | Wildemberg Sales | Hellen Fernanda |
 
 ## Referências
 
