@@ -7,6 +7,22 @@
 
 <p align="justify">A sessão de brainstorming foi realizada no teams, com a participação de todos os seis integrantes do grupo, porém é recomendando que essas sessões sejam realizadas de 8 a 12 pessoas. Aém disso, um membro do grupo fez o papel de moderador, que permite que as pessoas da sessão não perca o foco e que esclarece as dúvidas do time em geral.</p>
 
+## Participantes da sessão
+
+<ul>
+<li>Caio</li>
+<li>Hellen</li>
+<li>João</li>
+<li>Lucas</li>
+<li>Philipe</li>
+<li>Wildemberg</li>
+</ul>
+
+<div style="text-align:center"><img src= "../assets/brain.png"/></div>
+<figcaption>Imagem 1: Captura de tela realizado no Brainstorm  </figcaption>
+
+## Gravação da sessão de Brainstorm
+
 ## Requisitos Funcionais
 
 |     ID     |                    Requisito                     |
