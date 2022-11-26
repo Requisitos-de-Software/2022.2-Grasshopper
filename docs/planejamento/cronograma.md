@@ -19,7 +19,7 @@ O cronograma é uma ferramenta que tem como objetivo organizar as atividades, os
 <figcaption align="center">Tabela 1: Cronograma geral das entregas.</figcaption>
 OBS.: as gravações das apresentações ocorrerão sempre 1 dia antes da data de entrega de cada etapa.
 
-08/01 Etapa 1 - Planejamento
+### Etapa 1 - Planejamento
 
 |      Tarefa       |            Autor            | Entrega |           Revisor           | Revisão | Início da Realização | Fim da Realização |
 | :---------------: | :-------------------------: | :-----: | :-------------------------: | :-----: | :------------------: | :---------------: |
@@ -35,7 +35,7 @@ OBS.: as gravações das apresentações ocorrerão sempre 1 dia antes da data d
 
 <figcaption align="center">Tabela 2: Atividades específicas referentes à etapa 1.</figcaption>
 
-08/01 Etapa 2 - Elicitação de Requisitos
+### Etapa 2 - Elicitação de Requisitos
 
 | Tarefa | Autor | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
 | :----: | :---: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
@@ -49,7 +49,7 @@ OBS.: as gravações das apresentações ocorrerão sempre 1 dia antes da data d
 
 <figcaption align="center">Tabela 3: Atividades específicas referentes à etapa 2.</figcaption>
 
-08/01 Etapa 3 - Modelagem de Requisitos
+### Etapa 3 - Modelagem de Requisitos
 
 | Tarefa | Autor | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
 | :----: | :---: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
@@ -61,7 +61,7 @@ OBS.: as gravações das apresentações ocorrerão sempre 1 dia antes da data d
 
 <figcaption align="center">Tabela 4: Atividades específicas referentes à etapa 3.</figcaption>
 
-08/01 Etapa 4 - Modelagem de Requisitos - Ágil
+### Etapa 4 - Modelagem de Requisitos - Ágil
 
 | Tarefa | Autor | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
 | :----: | :---: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
@@ -72,7 +72,7 @@ OBS.: as gravações das apresentações ocorrerão sempre 1 dia antes da data d
 
 <figcaption align="center">Tabela 5: Atividades específicas referentes à etapa 4.</figcaption>
 
-08/01 Etapa 5 - Análise de Requisitos
+### Etapa 5 - Análise de Requisitos
 
 | Tarefa | Autor | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
 | :----: | :---: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
@@ -95,7 +95,7 @@ OBS.: as gravações das apresentações ocorrerão sempre 1 dia antes da data d
 
 <figcaption align="center">Tabela 6: Atividades específicas referentes à etapa 5.</figcaption>
 
-08/01 Etapa 6 - Pós-Rastreabilidade
+### Etapa 6 - Pós-Rastreabilidade
 
 | Tarefa | Autor | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
 | :----: | :---: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
