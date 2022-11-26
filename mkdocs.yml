@@ -24,14 +24,15 @@ nav:
       - Aplicativos analisados: planejamento/aplicativos-analisados.md
   - Pré-rastreabilidade:
       - Rich picture: pre-traceability/richpicture.md
+  - Elicitação:
+      - Personas: elicitacao/personas.md
+      - Brainstorm: elicitacao/brainstorm.md
+      - Priorização:
+          - In or Out: elicitacao/priorizacao/in-or-out.md
+  
   - Atas das Reuniões:
       - Reunião 1 - 15/11/2022: atas-das-reunioes/reuniao1.md
       - Reunião 2 - 17/11/2022: atas-das-reunioes/reuniao2.md
       - Reunião 3 - 22/11/2022: atas-das-reunioes/reuniao3.md
   - Apresentações:
       - Etapa 1 - 21/11: apresentacoes/etapa1.md
-  - Elicitação:
-      - Personas: elicitacao/personas.md
-      - Brainstorm: elicitacao/brainstorm.md
-      - Priorização:
-          - In or Out: elicitacao/priorizacao/in-or-out.md
