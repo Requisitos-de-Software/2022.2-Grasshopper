@@ -12,7 +12,7 @@ A seguir temos a <i>Tabela 1</i>, <i>Tabela 2</i>, <i>Tabela 3</i>, e <i>Tabela 
 
 |Persona Primária|Paulo de Sampaio|
 |:--:|:--:|
-|Foto:|<img src="./assets/persona1.jpg" width="200px"/></p><p>Figura 1: Foto do Paulo Ramos</p>|
+|Foto:|![](./assets/persona1.jpg) <p>Figura 1: Foto do Paulo Ramos</p>|
 |Idade:|36 anos|
 |Profissão:|Engenheiro Aeroespacial|
 |Escolaridade:|Ensino Superior Completo|
@@ -25,7 +25,7 @@ A seguir temos a <i>Tabela 1</i>, <i>Tabela 2</i>, <i>Tabela 3</i>, e <i>Tabela 
 
 |Persona Primária|Roberta Paiva|
 |:--:|:--:|
-|Foto:|<img src="./assets/persona3.jpg" width="200px"/></p><p>Figura 2: Foto da Roberta Paiva</p>|
+|Foto:|![](./assets/persona3.jpg)<p>Figura 2: Foto da Roberta Paiva</p>|
 |Idade:|18 anos|
 |Profissão:|Desempregada|
 |Escolaridade:|Ensino Medio Completo|
@@ -38,7 +38,7 @@ A seguir temos a <i>Tabela 1</i>, <i>Tabela 2</i>, <i>Tabela 3</i>, e <i>Tabela 
 
 |Persona Primária|João Falcão|
 |:--:|:--:|
-|Foto:|<img src="./assets/persona2.jpg" width="200px"/></p><p>Figura 3: Foto da João Falcão</p>|
+|Foto:|![](./assets/persona2.jpg)<p>Figura 3: Foto da João Falcão</p>|
 |Idade:|20 anos|
 |Profissão:|Desempregado|
 |Escolaridade:|Cursando Ensino Superior|
@@ -51,7 +51,7 @@ A seguir temos a <i>Tabela 1</i>, <i>Tabela 2</i>, <i>Tabela 3</i>, e <i>Tabela 
 
 |Antipersona|Guilherme Brito|
 |:--:|:--:|
-|Foto:|<img src="./assets/antipersona.jpg" width="200px"/></p><p>Figura 4: Foto da Guilherme Brito</p>|
+|Foto:|![](./assets/antipersona.jpg)<p>Figura 4: Foto da Guilherme Brito</p>|
 |Idade:|30 anos|
 |Profissão:|Cozinheiro|
 |Escolaridade:|Ensino Superior Completo|
@@ -80,3 +80,4 @@ Portanto, para termos uma melhor elaboração na hora de elicitar os requisitos,
 | :----: | :--------: | :-------------------------------------------------------------: | :--------------: | :-------------------------------: |
 |  1.0   | 24/11/2022 |                Criado arquivo de personas                | Philipe de Souza | Lucas Lopes |
 |  1.1   | 26/11/2022 |                Criado personas do projeto               | Wildemberg Sales, Philipe de Souza | Lucas Lopes |
+| 1.2   | 26/11/2022 | Correção de não aparecer as imagens | Wildemberg Sales | Lucas Lopes |
