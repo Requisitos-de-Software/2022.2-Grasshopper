@@ -26,6 +26,7 @@ nav:
       - Rich picture: pre-traceability/richpicture.md
   - Elicitação:
       - Personas: elicitacao/personas.md
+      - Storytelling: elicitacao/storytelling.md
       - Brainstorm: elicitacao/brainstorm.md
       - Priorização:
           - In or Out: elicitacao/priorizacao/in-or-out.md
