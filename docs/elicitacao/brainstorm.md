@@ -22,6 +22,7 @@
 <figcaption>Imagem 1: Captura de tela realizado no Brainstorm  </figcaption>
 
 ## Gravação da sessão de Brainstorm
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r7hI3xLSlbc?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Requisitos Funcionais
 
@@ -35,11 +36,13 @@
 | :---------: | :----------------------------------------------: |
 | BS01(RNF01) | O aplicativo deve mostrar os vídeos na timeline. |
 
+
 ## Histórico de versão
 
 | Versão |    Data    |                   Descrição                   | Autor  | Revisor |
 | :----: | :--------: | :-------------------------------------------: | :----: | :-----: |
-|  0.1   | 24/11/2022 | Conceito de brainstorm e construção da tabela | Hellen |    -    |
+| 1.0   | 24/11/2022 | Conceito de brainstorm e construção da tabela | Hellen |    -    |
+| 1.1   | 26/11/2022 | Adição da gravação de Brainstorm | Lucas Lopes |    -    |
 
 ## Referência
 
