@@ -25,6 +25,7 @@ nav:
   - Pré-rastreabilidade:
       - Rich picture: pre-traceability/richpicture.md
   - Elicitação:
+      - Perfil do usuário: elicitacao/perfil-do-usuario.md
       - Personas: elicitacao/personas.md
       - Storytelling: elicitacao/storytelling.md
       - Brainstorm: elicitacao/brainstorm.md

@@ -46,7 +46,7 @@
 
 <p align="justify">&emsp;&emsp;MochiMochi é o aplicativo de aprendizado de Kanji. O algoritmo do MochiMochi ajuda você a saber exatamente qual Kanji você precisa revisar e garantirá que o Kanji esteja constantemente fresco em sua mente antes que você esteja prestes a esquecê-lo.</p>
 
-![RP_wil](./assets/RP_phil.png)
+![RP_wil](./assets/RP_phil.jpeg)
 <figcaption align="center">Figura 4 - Rich Picture MochiMochi</figcaption>
 
    **Autor:** Philipe de Sousa </br>
