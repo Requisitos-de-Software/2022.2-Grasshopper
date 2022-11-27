@@ -3,13 +3,14 @@
 ## Introdução
 A técnica de elicitação através da observação consiste em inserir o engenheiro de requisitos responsável pela elicitação dos dados no contexto do sistema. O engenheiro deve estar atento a todas atividades dos envolvidos e descrevê-las de forma a ser inserida na descrição do requisito.
 
+## Metodologia
+Para realizar a técnica de observação, os participantes, individualmente, navegaram pelo aplicativo observando cada um dos possíveis requisitos funcionais e não funcionais.
+
 | Participantes |
 | ---- |
 | Lucas Lopes |
+| Caio Vitor |
 <figcaption>Tabela 1: Participantes da elicitação. (Fonte: Autores, 2022)</figcaption>
-
-## Metodologia
-Para realizar a técnica de observação, os participantes, individualmente, navegaram pelo aplicativo observando cada um dos possíveis requisitos funcionais e não funcionais.
 
 ## Resultados
 Com a técnica de observação, foram elicitados os seguintes requisitos identificados na Tabela 2, referente aos requisitos funcionais, e na Tabela 3, referente aos requisitos não funcionais.
@@ -28,7 +29,7 @@ Com a técnica de observação, foram elicitados os seguintes requisitos identif
 | OBS08 | Deve ser possível visualizar os cursos no menu de navegação |
 | OBS09 | Deve ser possível navegar pelos cursos no menu de navegação |
 | OBS10 | Deve ser possível visualizar a trilha/fluxo de atividades de um curso |
-| OBS11 | Deve ser possível resolver as atividades de forma gamificada |
+| OBS11 | Deve ser possível resolver as atividades de forma gameficada |
 | OBS12 | Deve ser possível compartilhar uma atividade |
 | OBS13 | Deve ser possível criar snippet de código em Playground de Código |
 | OBS14 | Deve ser possível visualizar desafios extras em Prática |
@@ -48,7 +49,6 @@ Com a técnica de observação, foram elicitados os seguintes requisitos identif
 | OBS28 | Deve ser possível sair da conta, caso esteja logada |
 | OBS29 | Deve ser possível excluir conta, caso esteja logada |
 | OBS30 | Deve ser possível visualizar conquistas (conceitos desbloqueados, teclas JavaScript usadas e sequência de programação do dia) |
-
 <figcaption align="center">Tabela 2: Requisitos funcionais elicitados através da Observação. (Fonte: Autores, 2022)</figcaption>
 
 
@@ -56,7 +56,11 @@ Com a técnica de observação, foram elicitados os seguintes requisitos identif
 
 | ID | Requisitos |
 | :--: | ---- |
-| OBS |  |
+| OBS31 | A inteface deve ser responsiva |
+| OBS32 | O app deve estar disponível para sistema Android e iOS |
+| OBS33 | Deve conter menu de navegação |
+| OBS34 | O app deve ser gameficado |
+| OBS35 | O sistema deve garantir segurança dos dados do usuário |
 <figcaption align="center">Tabela 3: Requisitos não funcionais elicitados através da Observação. (Fonte: Autores, 2022)</figcaption>
 
 
@@ -70,3 +74,4 @@ Com a técnica de observação, foram elicitados os seguintes requisitos identif
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 26/11/2022 | Inicialização da página | Lucas Lopes | João Pedro |
 | 1.1 | 27/11/2022 | Adição dos requisitos funcionais | Lucas Lopes | João Pedro |
+| 1.2 | 27/11/2022 | Adição dos requisitos não funcionais | Lucas Lopes | João Pedro |
