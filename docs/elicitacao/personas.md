@@ -16,6 +16,8 @@ A seguir temos a <i>Tabela 1</i>, <i>Tabela 2</i>, <i>Tabela 3</i>, e <i>Tabela 
 |Idade:|36 anos|
 |Profissão:|Engenheiro Aeroespacial|
 |Escolaridade:|Ensino Superior Completo|
+|Habilidades e Experiências:| Alto nível de habilidades em cálculo matemáticos, informática básica, trabalha com desenvolvimento de aeronaves para empresas privadas |
+|Relacionamentos:| Equipes de engenheiros no trabalho, família em sua residência, alguns amigos que fez na faculdade |
 |Expectativas:| Deseja facilitar suas contas do dia a dia, automatizando elas através de um sistema ou código.|
 |Descrição:| Paulo Ramos é um engenheiro de sucesso, que possui dificuldades no seu dia a dia por enfrentar contas muito grandes e demoradas que causam o atrado de suas outras tarefas. Lembrando da dica de um amigo que o aconselhou a escrever um código ou usar um sistema para agilizar suas tarefas, então resolve estudar mais sobre programação para atender suas nescessidades. |
 
@@ -29,6 +31,8 @@ A seguir temos a <i>Tabela 1</i>, <i>Tabela 2</i>, <i>Tabela 3</i>, e <i>Tabela 
 |Idade:|18 anos|
 |Profissão:|Desempregada|
 |Escolaridade:|Ensino Medio Completo|
+|Habilidades e Experiências:| Conhecimento básicos aprendidos no ensino médio, informática, participou de projetos de ciências na escola, comunicativa, aprende com facilidade |
+|Relacionamentos:| Amigos da escola, professores da escola, família |
 |Expectativas:| Deseja ingressar na carreira de desenvolvedora. |
 |Descrição:| Roberta Paiva acaba de terminar seus anos letivos da escola, com uma mente aberta a novas oportunidades e com uma grande vontade de trabalhar remotamente, decide então estudar sobre programação que veio crescendo bastante nos últimos meses, e se tornar uma desenvolvedora para poder trabalhar de onde quiser e ganhar bem. |
 
@@ -38,10 +42,12 @@ A seguir temos a <i>Tabela 1</i>, <i>Tabela 2</i>, <i>Tabela 3</i>, e <i>Tabela 
 
 |Persona Primária|João Falcão|
 |:--:|:--:|
-|Foto:|![](./assets/persona2.jpg)<p>Figura 3: Foto da João Falcão</p>|
+|Foto:|![](./assets/persona2.jpg)<p>Figura 3: Foto de João Falcão</p>|
 |Idade:|20 anos|
 |Profissão:|Desempregado|
 |Escolaridade:|Cursando Ensino Superior|
+|Habilidades e Experiências:| Desenvolvimento de Front-end, Proatividade, comunicativo, informática avançada, participa de pesquisas científicas na universidade |
+|Relacionamentos:| Amigos da antiga escola, amigos da faculdade de engenharias, família, professores da faculdade |
 |Expectativas:| Deseja aprender mais sobre programação para usar na faculdade. |
 |Descrição:| João Falcão é estudante de Engenharia de software na UnB, devido a universidade possuir várias matérias voltadas a progrmação, ele deseja aprofundar seus conhecimentos em javascript de forma fácil e divertida. |
 
@@ -55,6 +61,8 @@ A seguir temos a <i>Tabela 1</i>, <i>Tabela 2</i>, <i>Tabela 3</i>, e <i>Tabela 
 |Idade:|30 anos|
 |Profissão:|Cozinheiro|
 |Escolaridade:|Ensino Superior Completo|
+|Habilidades e Experiências:| Habilidades com culinária italiana, japonesa, e alemã, já cozinhou em diversos restaurantes renomados pela Europa |
+|Relacionamentos:| Colegas de trabalho, donos de restaurantes, figuras políticas |
 |Expectativas:| Deseja se tornar o melhor cozinheiro do país |
 |Descrição:| Guilherme Brito é cozinheiro a mais de 5 anos, e possui o sonho de ser referência em sua área, buscando sempre cursos de culinária e de confeitaria. |
 
@@ -80,4 +88,5 @@ Portanto, para termos uma melhor elaboração na hora de elicitar os requisitos,
 | :----: | :--------: | :-------------------------------------------------------------: | :--------------: | :-------------------------------: |
 |  1.0   | 24/11/2022 |                Criado arquivo de personas                | Philipe de Souza | Lucas Lopes |
 |  1.1   | 26/11/2022 |                Criado personas do projeto               | Wildemberg Sales, Philipe de Souza | Lucas Lopes |
-| 1.2   | 26/11/2022 | Correção de não aparecer as imagens | Wildemberg Sales | Lucas Lopes |
+| 1.2    | 26/11/2022 | Correção de não aparecer as imagens | Wildemberg Sales | Lucas Lopes |
+| 1.3    | 27/11/2022 | Inserindo habilidades e relacionamento das personas | Wildemberg Sales | Lucas Lopes |
