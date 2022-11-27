@@ -19,11 +19,11 @@ Com a técnica de observação, foram elicitados os seguintes requisitos identif
 
 | ID | Requisitos |
 | :--: | ---- |
-| OBS01 | Deve ser possível utilizar utilizar o app normalmente sem efetuar login |
-| OBS02 | Deve ser possível efetuar logincom Google |
-| OBS03 | Deve ser possível visualizar nível e avanço em painel de controle |
-| OBS04 | Deve ser possível visualizar selos conquitados em painel de controle |
-| OBS05 | Deve ser possível visualizar conceitos aprendidos em painel de controle |
+| OBS01 | Deve ser possível utilizar o app normalmente sem efetuar login |
+| OBS02 | Deve ser possível efetuar login com Google |
+| OBS03 | Deve ser possível visualizar nível e avanço em Painel de Controle |
+| OBS04 | Deve ser possível visualizar selos conquitados em Painel de Controle |
+| OBS05 | Deve ser possível visualizar conceitos aprendidos em Painel de Controle |
 | OBS06 | Deve ser possível visualizar adereços do mascote (chapéu, bolsas, acessórios e calçados) |
 | OBS07 | Deve ser possível mudar adereços do mascote |
 | OBS08 | Deve ser possível visualizar os cursos no menu de navegação |
@@ -45,7 +45,7 @@ Com a técnica de observação, foram elicitados os seguintes requisitos identif
 | OBS24 | Deve ser possível relatar bug do app |
 | OBS25 | Deve ser possível ativar e desativar efeitos sonoros |
 | OBS26 | Deve ser possível configurar idioma (Português, Espanhol e Inglês) |
-| OBS27 | Deve ser possível recefinir progresso de atividades |
+| OBS27 | Deve ser possível redefinir progresso de atividades |
 | OBS28 | Deve ser possível sair da conta, caso esteja logada |
 | OBS29 | Deve ser possível excluir conta, caso esteja logada |
 | OBS30 | Deve ser possível visualizar conquistas (conceitos desbloqueados, teclas JavaScript usadas e sequência de programação do dia) |
@@ -57,7 +57,7 @@ Com a técnica de observação, foram elicitados os seguintes requisitos identif
 | ID | Requisitos |
 | :--: | ---- |
 | OBS31 | A inteface deve ser responsiva |
-| OBS32 | O app deve estar disponível para sistema Android e iOS |
+| OBS32 | O app deve estar disponível para sistemas Android e iOS |
 | OBS33 | Deve conter menu de navegação |
 | OBS34 | O app deve ser gameficado |
 | OBS35 | O sistema deve garantir segurança dos dados do usuário |
