@@ -29,12 +29,50 @@
 |     ID     |                    Requisito                     |
 | :--------: | :----------------------------------------------: |
 | BS01(RF01) | O aplicativo deve mostrar os vídeos na timeline. |
+| BS01(RF02) | Ter um portal de notícias de ti. |
+| BS01(RF03) | Portal de oportunidades de trabalho em ti. |
+| BS01(RF04) |Ferramenta para traduzir uma estrutura. |
+| BS01(RF05) | Indicação de nome de outros canais de programação. |
+| BS01(RF06) | Possibilidade de personalizar o jogo. |
+| BS01(RF07) | Conter um status de nível/progresso do jogador. |
+| BS01(RF08) | Incluir metas diárias. |
+| BS01(RF09) | Ferramenta para nivelamento do conhecimento. |
+| BS01(RF010) | Listas de conquistas alcançadas. |
+| BS01(RF011) | Painel de controle para configuração do aplicativo. |
+| BS01(RF012) | Lembrete do uso do app. |
+| BS01(RF013) | Poder ter como escolher as dificuldades das lições. |
+| BS01(RF014) | Poder escolher qual tarefa realizar. |
+| BS01(RF015) | Resumo dos meus erros e o que pode ser melhorado. |
+| BS01(RF016) | Personalizar o mascote. |
+| BS01(RF017) | Poder adicionar amigos que utilizam a plataforma. |
+| BS01(RF018) | Ranque de usuários com mais frequência da semana. |
+| BS01(RF019) | Listar projetos interessantes open source. |
+| BS01(RF020) | Poder criar uma comunidade de determinado assunto. |
+| BS01(RF021) | Conter exercícios para fixação do conteúdo. |
+| BS01(RF022) | Divisão do conteúdo por módulos. |
+| BS01(RF023) | Conter tarefas de rápida realização. |
+| BS01(RF024) | Mostrar o código funcionando ou uma aplicação do código estudado. |
+| BS01(RF025) | Conter tarefas baseadas no cotidiano do usuário. |
+| BS01(RF026) | Conter atividades de revisão. |
+| BS01(RF027) | Divisão dos meus estudos em etapas. |
+| BS01(RF028) | Lições com lógica de programação. |
+| BS01(RF029) | Opção de conectar com Anki. |
+| BS01(RF030) | Ter um ambiente para treino de programação. |
+| BS01(RF031) | Ao ser empacado numa atividade ou conteúdo conter dicas de como resolver. |
+| BS01(RF032) | Opção de cadastrar ou logar para o uso do aplicativo. |
+
+
+
 
 ## Requisitos Não Funcionais
 
 |     ID      |                    Requisito                     |
 | :---------: | :----------------------------------------------: |
-| BS01(RNF01) | O aplicativo deve mostrar os vídeos na timeline. |
+| BS01(RNF01) | Material de apoio em português. |
+| BS01(RNF02) | Escolher os horários de estudo. |
+| BS01(RNF03) | Ter um diferencial marcante a cada nível avançado. |
+| BS01(RNF04) | Desafios mais complicados. |
+
 
 
 ## Histórico de versão
@@ -43,6 +81,7 @@
 | :----: | :--------: | :-------------------------------------------: | :----: | :-----: |
 | 1.0   | 24/11/2022 | Conceito de brainstorm e construção da tabela | Hellen |    -    |
 | 1.1   | 26/11/2022 | Adição da gravação de Brainstorm | Lucas Lopes |    -    |
+| 1.2   | 26/11/2022 | Adição dos requisitos funcionais e não funcionais obtidos pelo brainstorm | João Pedro Alves Machado |    Philipe de Sousa    |
 
 ## Referência
 
