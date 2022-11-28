@@ -22,66 +22,55 @@
 <figcaption>Imagem 1: Captura de tela realizado no Brainstorm  </figcaption>
 
 ## Gravação da sessão de Brainstorm
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r7hI3xLSlbc?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Requisitos Funcionais
 
-|     ID     |                    Requisito                     |
-| :--------: | :----------------------------------------------: |
-| BS01(RF01) | O aplicativo deve mostrar os vídeos na timeline. |
-| BS02(RF02) | Ter um portal de notícias de ti. |
-| BS03(RF03) | Portal de oportunidades de trabalho em ti. |
-| BS04(RF04) |Ferramenta para traduzir uma estrutura. |
-| BS05(RF05) | Indicação de nome de outros canais de programação. |
-| BS06(RF06) | Possibilidade de personalizar o jogo. |
-| BS07(RF07) | Conter um status de nível/progresso do jogador. |
-| BS08(RF08) | Incluir metas diárias. |
-| BS09(RF09) | Ferramenta para nivelamento do conhecimento. |
-| BS010(RF010) | Listas de conquistas alcançadas. |
-| BS011(RF011) | Painel de controle para configuração do aplicativo. |
-| BS012(RF012) | Lembrete do uso do app. |
-| BS013(RF013) | Poder ter como escolher as dificuldades das lições. |
-| BS014(RF014) | Poder escolher qual tarefa realizar. |
-| BS015(RF015) | Resumo dos meus erros e o que pode ser melhorado. |
-| BS016(RF016) | Personalizar o mascote. |
-| BS017(RF017) | Poder adicionar amigos que utilizam a plataforma. |
-| BS018(RF018) | Ranque de usuários com mais frequência da semana. |
-| BS019(RF019) | Listar projetos interessantes open source. |
-| BS020(RF020) | Poder criar uma comunidade de determinado assunto. |
-| BS021(RF021) | Conter exercícios para fixação do conteúdo. |
-| BS022(RF022) | Divisão do conteúdo por módulos. |
-| BS023(RF023) | Conter tarefas de rápida realização. |
-| BS024(RF024) | Mostrar o código funcionando ou uma aplicação do código estudado. |
-| BS025(RF025) | Conter tarefas baseadas no cotidiano do usuário. |
-| BS026(RF026) | Conter atividades de revisão. |
-| BS027(RF027) | Divisão dos meus estudos em etapas. |
-| BS028(RF028) | Lições com lógica de programação. |
-| BS029(RF029) | Opção de conectar com Anki. |
-| BS030(RF030) | Ter um ambiente para treino de programação. |
-| BS031(RF031) | Ao ser empacado numa atividade ou conteúdo conter dicas de como resolver. |
-| BS032(RF032) | Opção de cadastrar ou logar para o uso do aplicativo. |
-
-
-
+|     ID     |                                 Requisito                                 |
+| :--------: | :-----------------------------------------------------------------------: |
+| BS01(RF01) |              O usuário deve poder personalizar seu ambiente.              |
+| BS02(RF02) |           O usuário deve poder acessar o seu progresso no jogo.           |
+| BS03(RF03) |              O usuário deve poder acessar seu nível no jogo.              |
+| BS04(RF04) |                 O usuário deve poder ver suas conquistas.                 |
+| BS05(RF05) |        O usuário deve poder escolher a dificuldade de suas lições.        |
+| BS06(RF06) |       O usuário deve poder determinar metas diárias a ser comprida.       |
+| BS07(RF07) |        O usuário deve poder escolher a atividade que deseja fazer.        |
+| BS08(RF08) |  O usuário deve poder ver seus erros nas atividades e tentar refaze-las.  |
+| BS09(RF09) |               O usuário deve poder personalizar o mascote.                |
+| BS10(RF10) |     O usuário deve poder adicionar amigos que utilizam a plataforma.      |
+| BS11(RF11) | O usuário deve poder ver o ranque de usuários com mais frequencia do app. |
+| BS12(RF12) |                O usuário deve poder criar uma comunidade.                 |
+| BS13(RF13) |                O usuário deve poder fazer lições rápidas.                 |
+| BS14(RF14) |            O usuário deve poder ver o funcionamento do código.            |
+| BS15(RF15) |             O usuário deve poder fazer atividades de revisão.             |
+| BS16(RF16) |       O usuário deve poder pedir dicas nos exercicios que desejar.        |
+| BS17(RF17) |          O usuário deve poder se cadastrar ou logar no sistema.           |
 
 ## Requisitos Não Funcionais
 
-|     ID      |                    Requisito                     |
-| :---------: | :----------------------------------------------: |
-| BS033(RNF01) | Material de apoio em português. |
-| BS034(RNF02) | Escolher os horários de estudo. |
-| BS035(RNF03) | Ter um diferencial marcante a cada nível avançado. |
-| BS036(RNF04) | Desafios mais complicados. |
-
-
+|     ID      |                                   Requisito                                   |
+| :---------: | :---------------------------------------------------------------------------: |
+| BS18(RNF01) |              O sistema deve ter material de apoio em português.               |
+| BS19(RNF02) |  A cada nível que o usuário avançar, as fases devem aumentar a dificuldade.   |
+| BS20(RNF03) |               O sistema deve ter a opção de conectar com Anki.                |
+| BS21(RNF04) |                  O sistema deve separar as fases por etapas.                  |
+| BS22(RNF05) |                   O sistema deve conter videos de auxilio.                    |
+| BS23(RNF06) | O sistema deve conter um portal com noticias de ti e oportunidade de emprego. |
+| BS24(RNF07) |      O sistema deve conter a opção de traduzir o nome de uma estrutura.       |
+| BS25(RNF08) | O sistema deve conter um painel de controle para configuração do aplicativo.  |
+| BS26(RNF09) |               O sistema deve mandar notificações de uso do app.               |
+| BS27(RNF10) |             O sistema deve conter uma ferramenta de nívelamento.              |
+| BS28(RNF11) |            O sistema deve conter atividades baseadas no cotidiano.            |
 
 ## Histórico de versão
 
-| Versão |    Data    |                   Descrição                   | Autor  | Revisor |
-| :----: | :--------: | :-------------------------------------------: | :----: | :-----: |
-| 1.0   | 24/11/2022 | Conceito de brainstorm e construção da tabela | Hellen |    -    |
-| 1.1   | 26/11/2022 | Adição da gravação de Brainstorm | Lucas Lopes |    -    |
-| 1.2   | 26/11/2022 | Adição dos requisitos funcionais e não funcionais obtidos pelo brainstorm | João Pedro Alves Machado |    Philipe de Sousa    |
+| Versão |    Data    |                                 Descrição                                 |          Autor           |     Revisor      |
+| :----: | :--------: | :-----------------------------------------------------------------------: | :----------------------: | :--------------: |
+|  1.0   | 24/11/2022 |               Conceito de brainstorm e construção da tabela               |          Hellen          |        -         |
+|  1.1   | 26/11/2022 |                     Adição da gravação de Brainstorm                      |       Lucas Lopes        |        -         |
+|  1.2   | 26/11/2022 | Adição dos requisitos funcionais e não funcionais obtidos pelo brainstorm | João Pedro Alves Machado | Philipe de Sousa |
+|  1.3   | 28/11/2022 |                  Organizando tabelas e fazendo correções                  |     Hellen Fernanda      |        -         |
 
 ## Referência
 
