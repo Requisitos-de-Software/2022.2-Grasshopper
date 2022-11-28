@@ -88,4 +88,4 @@ Para a última pergunta do questionário foi solicitado que os participantes inf
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 1.0 | 27/11/2022 | Inicialização da página | Philipe | Wildemberg Sales |
+| 1.0 | 25/11/2022 | Inicialização da página | Philipe | Wildemberg Sales |
