@@ -53,7 +53,7 @@ João está em seu 3° semestre na UnB, e seu curso de engenharia de software cr
 </br>
 
 ## Vídeo da gravação da elicitação
-<iframe width="560" height="315" src="https://youtu.be/SA4kzVT1iJM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SA4kzVT1iJM?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </br>
 
@@ -66,3 +66,4 @@ João está em seu 3° semestre na UnB, e seu curso de engenharia de software cr
 | :----: | :--------: | :-------------------------------------------------------------: | :--------------: | :-------------------------------: |
 | 1.0 | 26/11/2022 | Criado os Storytelling | Wildemberg Sales | Caio Vitor |
 | 1.1 | 26/11/2022 | Criado elicitação do storytelling | Wildemberg Sales e Phelipe de Souza | Caio Vitor |
+| 1.2 | 27/11/2022 | Conserto da gravação | Lucas Lopes | Wildemberg Sales |
