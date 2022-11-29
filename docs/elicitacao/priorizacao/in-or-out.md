@@ -64,6 +64,9 @@
 | RNF18 |            O sistema deve conter atividades baseadas no cotidiano.            |Brainstorm|in|
 
 
+## Gravação
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FktdLE6fQ94?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Histórico de versão
 

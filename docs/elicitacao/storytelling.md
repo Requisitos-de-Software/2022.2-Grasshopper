@@ -36,17 +36,16 @@ João está em seu 3° semestre na UnB, e seu curso de engenharia de software cr
 
 |  ID  |  Descrição  |  
 | :--: | :---------: |
-| ST01(RF01) | Eu, como usuário, gostaria de definir meus horários de estudo, para poder se encaixar em meu horário de trabalho |
-| ST02(RF02) | Eu, como usuário, gostaria de realizar tarefas focadas em lógica, para aprender o que nescessito mais rápido | 
-| ST03(RF03) | Eu, como usuário, gostaria de navegar entre as tarefas, para poder buscar as relevantes para mim | 
-| ST04(RF04) | Eu, como usuário, gostaria de realizar tarefas relacionadas a cálculos matemáticos, para poder aplicar em meu dia a dia | 
-| ST05(RF05) | Eu, como usuário, gostaria de logar na aplicação com minha conta da Google, para facilitar meu login | 
-| ST06(RF06) | Eu, como usuário, gostaria de ter um sistema para treinar meus conhecimentos, para aperfeiçoar meu conhecimento | 
-| ST07(RF07) | Eu, como usuário, gostaria de definir o nível de dificuldade das minhas tarefas, para nivelar com meu conhecimento | 
-| ST08(RF08) | Eu, como usuário, gostaria de acompanhar meu avanço, para ter noção de como estou indo nos estudos | 
+| ST01 | Eu, como usuário, gostaria de definir meus horários de estudo, para poder se encaixar em meu horário de trabalho |
+| ST02 | Eu, como usuário, gostaria de realizar tarefas focadas em lógica, para aprender o que nescessito mais rápido | 
+| ST03 | Eu, como usuário, gostaria de navegar entre as tarefas, para poder buscar as relevantes para mim | 
+| ST04 | Eu, como usuário, gostaria de realizar tarefas relacionadas a cálculos matemáticos, para poder aplicar em meu dia a dia | 
+| ST06 | Eu, como usuário, gostaria de logar na aplicação com minha conta da Google, para facilitar meu login | 
+| ST09 | Eu, como usuário, gostaria de ter um sistema para treinar meus conhecimentos, para aperfeiçoar meu conhecimento | 
+| ST11 | Eu, como usuário, gostaria de definir o nível de dificuldade das minhas tarefas, para nivelar com meu conhecimento | 
+| ST13 | Eu, como usuário, gostaria de acompanhar meu avanço, para ter noção de como estou indo nos estudos | 
 
-Tabela 1: Lista de requisitos funcionais. (Fonte: Autores, 2022).
-
+<figcaption align="center">Tabela 1: Lista de requisitos funcionais. (Fonte: Autores, 2022).</figcaption>
 
 
 
@@ -54,22 +53,15 @@ Tabela 1: Lista de requisitos funcionais. (Fonte: Autores, 2022).
 
 |  ID  |  Descrição  |  
 | :--: | :---------: | 
-| ST09(RNF01) | Eu, como usuário, gostaria de aprender do zero como programar, para aprender a programar | 
-| ST010(RNF02) | Eu, como usuário, gostaria de aprender uma linguagem de programação, para poder me capacitar | 
-| ST09(RNF03) | Eu, como usuário, gostaria de ter uma trilha de ensinamentos para seguir, para ter um guia de estudos | 
-| ST10(RNF04) | Eu, como usuário, gostaria de um material de apoio, para ter mais conteúdos para estudar | RNF | 
-| ST11(RNF05) | Eu, como usuário, gostaria de ter um passo a passo para realizar as tarefas, para aprender de forma fácil | 
-| ST12(RNF06) | Eu, como usuário, gostaria de aprender sobre as bibliotecas da linguagem, para aumentar o escopo dos meus conhecimentos | 
-| ST13(RNF07) | Eu, como usuário, gostaria de ter ensino gratuito, para ser mais acessível as minhas condições |  
+| ST05 | Eu, como usuário, gostaria de aprender do zero como programar, para aprender a programar | 
+| ST07 | Eu, como usuário, gostaria de aprender uma linguagem de programação, para poder me capacitar | 
+| ST08 | Eu, como usuário, gostaria de ter uma trilha de ensinamentos para seguir, para ter um guia de estudos | 
+| ST10 | Eu, como usuário, gostaria de um material de apoio, para ter mais conteúdos para estudar | RNF | 
+| ST12 | Eu, como usuário, gostaria de ter um passo a passo para realizar as tarefas, para aprender de forma fácil | 
+| ST14 | Eu, como usuário, gostaria de aprender sobre as bibliotecas da linguagem, para aumentar o escopo dos meus conhecimentos | 
+| ST15 | Eu, como usuário, gostaria de ter ensino gratuito, para ser mais acessível as minhas condições |  
 
-Tabela 1: Lista de requisitos não funcionais. (Fonte: Autores, 2022).
-
-
-
-
-
-
-
+<figcaption align="center">Tabela 2: Lista de requisitos não funcionais. (Fonte: Autores, 2022).</figcaption>
 
 </br>
 
