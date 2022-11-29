@@ -41,11 +41,11 @@ OBS.: as gravações das apresentações ocorrerão sempre 1 dia antes da data d
 | :----: | :---: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
 | Personas | Wildemberg Sales, Philipe de Sousa | 30/11 | Lucas Lopes |  28/11   | 24/11 | 25/11 |
 | Elicitação - Storytelling | Wildemberg Sales, Philipe de Sousa | 30/11 | Caio Vitor |  28/11   | 26/11 | 26/11 |
-| Elicitação - Observação | Lucas Lopes, Caio Vito | 30/11 | João Pedro |  28/11   | - | - |
-| Elicitação - Brainstorming | Hellen Fernanda, João Pedro | 30/11 | Philipe de Sousa |  28/11   | - | - |
-| Priorização - In or Out | Caio, João, Hellen | 30/11 | Wildemberg Sales |  28/11   | - | - |
-| Priorização - Three Level-Scale | Lucas, Wildemberg, Philipe | 30/11 | Hellen Fernanda |  28/11   | - | - |
-| Atas das Reuniões | Lucas Lopes | 30/11 | Wildemberg Sales |  28/11   | 22/11 | - |
+| Elicitação - Observação | Lucas Lopes, Caio Vito | 30/11 | João Pedro |  28/11   | 27/11 | 28/11 |
+| Elicitação - Brainstorming | Hellen Fernanda, João Pedro | 30/11 | Philipe de Sousa |  28/11   | 27/11 | 28/11 |
+| Priorização - In or Out | Caio, João, Hellen | 30/11 | Wildemberg Sales |  28/11   | 27/11 | 28/11 |
+| Priorização - Three Level-Scale | Lucas, Wildemberg, Philipe | 30/11 | Hellen Fernanda |  28/11   | 27/11 | 28/11 |
+| Atas das Reuniões | Lucas Lopes | 30/11 | Wildemberg Sales |  28/11   | 22/11 | 26/11 |
 
 <figcaption align="center">Tabela 3: Atividades específicas referentes à etapa 2.</figcaption>
 
