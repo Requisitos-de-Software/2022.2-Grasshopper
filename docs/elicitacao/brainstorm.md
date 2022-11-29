@@ -47,6 +47,11 @@
 | BS16(RF16) |       O usuário deve poder pedir dicas nos exercicios que desejar.        |
 | BS17(RF17) |          O usuário deve poder se cadastrar ou logar no sistema.           |
 
+
+Tabela 1: Lista de requisitos funcionais. (Fonte: Autores, 2022).
+
+
+
 ## Requisitos Não Funcionais
 
 |     ID      |                                   Requisito                                   |
@@ -62,6 +67,9 @@
 | BS26(RNF09) |               O sistema deve mandar notificações de uso do app.               |
 | BS27(RNF10) |             O sistema deve conter uma ferramenta de nívelamento.              |
 | BS28(RNF11) |            O sistema deve conter atividades baseadas no cotidiano.            |
+
+Tabela 2: Lista de requisitos não funcionais. (Fonte: Autores, 2022).
+
 
 ## Histórico de versão
 
