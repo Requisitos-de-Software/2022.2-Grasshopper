@@ -56,13 +56,13 @@ Tabela 1: Lista de requisitos funcionais. (Fonte: Autores, 2022).
 | :--: | :---------: | 
 | ST09(RNF01) | Eu, como usuário, gostaria de aprender do zero como programar, para aprender a programar | 
 | ST010(RNF02) | Eu, como usuário, gostaria de aprender uma linguagem de programação, para poder me capacitar | 
-| ST09(RNF03) | Eu, como usuário, gostaria de ter uma trilha de ensinamentos para seguir, para ter um guia de estudos | 
-| ST10(RNF04) | Eu, como usuário, gostaria de um material de apoio, para ter mais conteúdos para estudar | RNF | 
-| ST11(RNF05) | Eu, como usuário, gostaria de ter um passo a passo para realizar as tarefas, para aprender de forma fácil | 
-| ST12(RNF06) | Eu, como usuário, gostaria de aprender sobre as bibliotecas da linguagem, para aumentar o escopo dos meus conhecimentos | 
-| ST13(RNF07) | Eu, como usuário, gostaria de ter ensino gratuito, para ser mais acessível as minhas condições |  
+| ST011(RNF03) | Eu, como usuário, gostaria de ter uma trilha de ensinamentos para seguir, para ter um guia de estudos | 
+| ST012(RNF04) | Eu, como usuário, gostaria de um material de apoio, para ter mais conteúdos para estudar | RNF | 
+| ST013(RNF05) | Eu, como usuário, gostaria de ter um passo a passo para realizar as tarefas, para aprender de forma fácil | 
+| ST014(RNF06) | Eu, como usuário, gostaria de aprender sobre as bibliotecas da linguagem, para aumentar o escopo dos meus conhecimentos | 
+| ST015(RNF07) | Eu, como usuário, gostaria de ter ensino gratuito, para ser mais acessível as minhas condições |  
 
-Tabela 1: Lista de requisitos não funcionais. (Fonte: Autores, 2022).
+Tabela 2: Lista de requisitos não funcionais. (Fonte: Autores, 2022).
 
 
 
