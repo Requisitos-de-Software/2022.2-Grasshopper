@@ -1,7 +1,7 @@
 # In or Out
 
 ## 1. Introdução
-<p align="justify">&emsp;&emsp;Dado que são elicitados vários requisitos, para saber por onde começar o desenvolvimento, torna-se necessário priorizar esses requisitos. (Milene Serrano, Requisitos - Aula 07, página 30).</p>
+<p align="justify">&emsp;&emsp;Dado que são elicitados vários requisitos, para saber por onde começar o desenvolvimento, torna-se necessário priorizar esses requisitos.</p>
 
 <p align="justify">&emsp;&emsp;Dessa forma, nessa seção a técnica utilizada para a priorização dos requisitos é a In or Out.</p>
 
