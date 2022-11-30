@@ -8,7 +8,7 @@
 ## 2. Metodologia
 <p align="justify">&emsp;&emsp;Essa técnica pode ser considerada uma das mais simples, uma vez que consiste em fazer uma escolha binária para cada um dos requisitos In (dentro) ou Out (fora), representando se ele deveria ser implementado nessa release do projeto ou não, respectivamente. Dessa forma, ao percorrer do desenvolvimento do projeto, pode-se voltar na lista e trabalhar com os requisitos que inicialmente foram escolhidos como Out, a fim de decidir se devem ser implementados na próxima etapa.</p>
 
-<p align="justify">&emsp;&emsp;A partir disso, o integrante do grupo Caio Vitor se reuniu com um usuário do GrassHopper não integrante da equipe e pediu/guiou a realização da técnica. O nome desse usuário externo é Pedro Henrique,20 anos e cursa Engenharia de Software.</p>
+<p align="justify">&emsp;&emsp;A partir disso, o integrante do grupo Caio Vitor se reuniu com um usuário do GrassHopper não integrante da equipe e pediu/guiou a realização da técnica. O nome desse usuário externo é Pedro Henrique, 20 anos e cursa Engenharia de Software.</p>
 
 
 # Requisitos Funcionais
