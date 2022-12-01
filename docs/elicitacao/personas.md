@@ -19,6 +19,7 @@ A seguir temos a <i>Tabela 1</i>, <i>Tabela 2</i>, <i>Tabela 3</i>, e <i>Tabela 
 |Habilidades e Experiências:| Alto nível de habilidades em cálculo matemáticos, informática básica, trabalha com desenvolvimento de aeronaves para empresas privadas |
 |Relacionamentos:| Equipes de engenheiros no trabalho, família em sua residência, alguns amigos que fez na faculdade |
 |Expectativas:| Deseja facilitar suas contas do dia a dia, automatizando elas através de um sistema ou código.|
+|Tarefas Primárias:| Resolver cálculos, resolver equações matemáticas, resolver problemas de física relacionados a aerodinâmina |
 |Descrição:| Paulo Ramos é um engenheiro de sucesso, que possui dificuldades no seu dia a dia por enfrentar contas muito grandes e demoradas que causam o atrado de suas outras tarefas. Lembrando da dica de um amigo que o aconselhou a escrever um código ou usar um sistema para agilizar suas tarefas, então resolve estudar mais sobre programação para atender suas nescessidades. |
 
 </br>
@@ -34,6 +35,7 @@ A seguir temos a <i>Tabela 1</i>, <i>Tabela 2</i>, <i>Tabela 3</i>, e <i>Tabela 
 |Habilidades e Experiências:| Conhecimento básicos aprendidos no ensino médio, informática, participou de projetos de ciências na escola, comunicativa, aprende com facilidade |
 |Relacionamentos:| Amigos da escola, professores da escola, família |
 |Expectativas:| Deseja ingressar na carreira de desenvolvedora. |
+|Tarefas Primárias:| Ajudar nos atividades da casa onde mora, estudar para vagas de desenvolvedor, estudar para vestibulares |
 |Descrição:| Roberta Paiva acaba de terminar seus anos letivos da escola, com uma mente aberta a novas oportunidades e com uma grande vontade de trabalhar remotamente, decide então estudar sobre programação que veio crescendo bastante nos últimos meses, e se tornar uma desenvolvedora para poder trabalhar de onde quiser e ganhar bem. |
 
 </br>
@@ -49,6 +51,7 @@ A seguir temos a <i>Tabela 1</i>, <i>Tabela 2</i>, <i>Tabela 3</i>, e <i>Tabela 
 |Habilidades e Experiências:| Desenvolvimento de Front-end, Proatividade, comunicativo, informática avançada, participa de pesquisas científicas na universidade |
 |Relacionamentos:| Amigos da antiga escola, amigos da faculdade de engenharias, família, professores da faculdade |
 |Expectativas:| Deseja aprender mais sobre programação para usar na faculdade. |
+|Tarefas Primárias:| Estudar as matérias do curso, estudar programação para vagas de desenvolvedor, estudar programação para projetos da faculdade |
 |Descrição:| João Falcão é estudante de Engenharia de software na UnB, devido a universidade possuir várias matérias voltadas a progrmação, ele deseja aprofundar seus conhecimentos em javascript de forma fácil e divertida. |
 
 </br>
@@ -64,13 +67,14 @@ A seguir temos a <i>Tabela 1</i>, <i>Tabela 2</i>, <i>Tabela 3</i>, e <i>Tabela 
 |Habilidades e Experiências:| Habilidades com culinária italiana, japonesa, e alemã, já cozinhou em diversos restaurantes renomados pela Europa |
 |Relacionamentos:| Colegas de trabalho, donos de restaurantes, figuras políticas |
 |Expectativas:| Deseja se tornar o melhor cozinheiro do país |
+|Tarefas Primárias:| Cozinhar, estudar sobre culinária, estudar o gosto de seus clientes |
 |Descrição:| Guilherme Brito é cozinheiro a mais de 5 anos, e possui o sonho de ser referência em sua área, buscando sempre cursos de culinária e de confeitaria. |
 
 </br>
 
 ## Conclusão
 
-Portanto, para termos uma melhor elaboração na hora de elicitar os requisitos, foram desenvolvidos 3 personas primárias que serão as utilizadoras do sistema, as quais daremos o foco principal, e também desenvolvemos uma antipersona para termos uma noção de quem não é utilizador do sistema.
+Portanto, para termos uma melhor elaboração na hora de elicitar os requisitos, foram desenvolvidos 3 personas primárias que serão as utilizadoras do sistema, as quais daremos o foco principal, e também desenvolvemos uma antipersona para termos uma noção de quem não é utilizador do sistema. A escolha da quantidade de personas para o projeto foi decidida a partir da observação das nescessidades dos usuários em relação ao aplicativo Grasshoper, estas estavam cada vez mais parecidas e se tornando a mesma de forma geral, já que o aplicativo tem somente o foco de ensinar programação aos usuário, dito isto, a criação de mais de 3 personas poderia causar um acumulo de informações iguais na hora de elicitarmos os requisitos, então nos limitamos a esse mínimo de personas observando este fator.
 
 </br>
 
@@ -88,5 +92,6 @@ Portanto, para termos uma melhor elaboração na hora de elicitar os requisitos,
 | :----: | :--------: | :-------------------------------------------------------------: | :--------------: | :-------------------------------: |
 |  1.0   | 24/11/2022 |                Criado arquivo de personas                | Philipe de Souza | Lucas Lopes |
 |  1.1   | 26/11/2022 |                Criado personas do projeto               | Wildemberg Sales, Philipe de Souza | Lucas Lopes |
-| 1.2    | 26/11/2022 | Correção de não aparecer as imagens | Wildemberg Sales | Lucas Lopes |
-| 1.3    | 27/11/2022 | Inserindo habilidades e relacionamento das personas | Wildemberg Sales | Lucas Lopes |
+|  1.2   | 26/11/2022 | Correção de não aparecer as imagens | Wildemberg Sales | Lucas Lopes |
+|  1.3   | 27/11/2022 | Inserindo habilidades e relacionamento das personas | Wildemberg Sales | Lucas Lopes |
+|  1.4   | 01/12/2022 | Ajustando informações sobre personas, e sobre a quantidade de personas | Wildemberg Sales | Lucas Lopes |
