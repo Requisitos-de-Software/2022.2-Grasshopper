@@ -7,7 +7,7 @@ Reunião realizada no Microsoft Teams.
 - Hellen Fernanda
 - Caio Vitor
 - João Pedro
-- Wildember Sales
+- Wildemberg Sales
 - Philipe Sousa
 
 
