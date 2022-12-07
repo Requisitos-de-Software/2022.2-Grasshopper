@@ -35,6 +35,7 @@ nav:
           - Three Level-Scale: elicitacao/priorizacao/threeLevel-Scale.md
   - Modelagem:
       - Cenários: modelagem/cenarios.md
+      - Léxicos: modelagem/lexicos.md
   - Atas das Reuniões:
       - Reunião 1 - 15/11/2022: atas-das-reunioes/reuniao1.md
       - Reunião 2 - 17/11/2022: atas-das-reunioes/reuniao2.md
