@@ -4,7 +4,7 @@
 
 Trata-se de uma técnica que procura descrever os símbolos de uma linguagem, tendo como objetivo dos engenheiros de requisitos, a identificação de palavras, frases ou símbolos, que são peculiares ao meio social da aplicação sob estudo.
 
-Cada símbolo é descrito como noção e impacto: 
+Cada símbolo é descrito como noção e impacto:   
 * Noção é o que significa o símbolo (denotação);
 * Impacto descreve o efeito/uso/ocorrência do símbolo na aplicação ou do efeito de algo na aplicação sobre o símbolo (conotação).
 
