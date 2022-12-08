@@ -10,7 +10,15 @@ Para elaborar dos casos de uso foram verificados e analisados os documentos de e
 
 ### **UC01 - Fazer Login**
 
+Primeiro Caso de Uso(<i>Figura 1</i>) que representa o subconjunto **Realizar login**, seguido da tabela de especificação(Tabela 1).
+
 ![Caso-Login](./assest/UC1-login.jpeg)
+
+<figcaption align='center'>
+ <h6> <b>Figura 1 – UC01</b><br>
+  Fonte: Philipe de Sousa</h6>
+</figcaption>
+
 
 | UC01                     | Fazer Login |
 | --------------           |:----------- |
@@ -22,9 +30,24 @@ Para elaborar dos casos de uso foram verificados e analisados os documentos de e
 | **Fluxos de exceção**    |  **Fluxo de Exceção 1 - Desconectado:** <br> > Aplicativo apresentar uma mensagem de erro avisando que não foi possível fazer o Login pois está sem conexão com a internet<br> <br> 
 | **Pós condições**        | Usuário fica logado no Grasshopper e é direcionado para a aula tutorial|
 
+<figcaption align='center'>
+ <h6> <b>Tabela 1 – UC01</b><br>
+  Fonte: Philipe de Sousa</h6>
+</figcaption>
+
 ### **UC02 - Realizar Aula**
 
+
+Segundo Caso de Uso(<i>Figura 2</i>) que representa o subconjunto **Realziar Aulas**, seguido da tabela de especificação(Tabela 2).
+
 ![Caso-aulas](./assest/UC2-Realiza-aula.jpeg)
+
+<figcaption align='center'>
+ <h6> <b>Figura 2 – UC02</b><br>
+  Fonte: Philipe de Sousa</h6>
+</figcaption>
+
+
 
 | UC02                     | Aulas |
 | --------------           |:----------- |
@@ -36,11 +59,25 @@ Para elaborar dos casos de uso foram verificados e analisados os documentos de e
 | **Fluxos de exceção**    | --- |
 | **Pós condições**        | Usuário pode sair da aula e finalizar tarefa depois |
 
+<figcaption align='center'>
+ <h6> <b>Tabela 2 – UC02</b><br>
+  Fonte: Philipe de Sousa</h6>
+</figcaption>
+
+
 ### **UC03 - Menu de opções**
+
+Terceiro Caso de Uso(<i>Figura 3</i>) que representa o subconjunto **Menu de opções**, seguido da tabela de especificação(Tabela 3).
 
 ![Caso-menu](./assest/UC03-Menu.jpeg)
 
-| UC03                     | Aulas |
+<figcaption align='center'>
+ <h6> <b>Figura 3 – UC03</b><br>
+  Fonte: Philipe de Sousa</h6>
+</figcaption>
+
+
+| UC03                     | Menu de opções|
 | --------------           |:----------- |
 | **Descrição**            | Usuário deve selecionar a barra lateral para acessar o menu de opções  |
 | **Ator(es)**             | > Usuário |
@@ -50,11 +87,25 @@ Para elaborar dos casos de uso foram verificados e analisados os documentos de e
 | **Fluxos de exceção**    | --- |
 | **Pós condições**        | Usuário volta para tela do curso |
 
-### **UC04 - Menu de opções**
+<figcaption align='center'>
+ <h6> <b>Tabela 3 – UC03</b><br>
+  Fonte: Philipe de Sousa</h6>
+</figcaption>
+
+
+### **UC04 - Configurações**
+
+Quarto Caso de Uso(<i>Figura 4</i>) que representa o subconjunto **Configurações**, seguido da tabela de especificação(Tabela 4).
 
 ![Caso-config](./assest/UC04-Config.jpeg)
 
-| UC04                    | Aulas |
+<figcaption align='center'>
+ <h6> <b>Figura 4 – UC04</b><br>
+  Fonte: Philipe de Sousa</h6>
+</figcaption>
+
+
+| UC04                    | Configurações |
 | --------------           |:----------- |
 | **Descrição**            | Usuário deve selecionar a barra lateral para acessar o menu de opções para ir para as configurações do Grasshopper |
 | **Ator(es)**             | > Usuário |
@@ -64,11 +115,25 @@ Para elaborar dos casos de uso foram verificados e analisados os documentos de e
 | **Fluxos de exceção**    | --- |
 | **Pós condições**        | As modificações feitas no menu de configuração são aplicadas |
 
+<figcaption align='center'>
+ <h6> <b>Tabela 4 – UC04</b><br>
+  Fonte: Philipe de Sousa</h6>
+</figcaption>
+
+
 ### **UC05 - Conquistas**
+
+Quinto Caso de Uso(<i>Figura 5</i>) que representa o subconjunto **Conquistas**, seguido da tabela de especificação(Tabela 5).
 
 ![Caso-conquista](./assest/UC05-conquistas.jpeg)
 
-| UC05                     | Conquistas|
+<figcaption align='center'>
+ <h6> <b>Figura 5 – UC05</b><br>
+  Fonte: Philipe de Sousa</h6>
+</figcaption>
+
+
+| UC05                     | Conquistas |
 | --------------           |:----------- |
 | **Descrição**            | Usuário irá ver a suas conquistas |
 | **Ator(es)**             | > Usuário |
@@ -77,6 +142,12 @@ Para elaborar dos casos de uso foram verificados e analisados os documentos de e
 | **Fluxos alternativos**  | **Fluxo Alternativo 1 - Visualizar Sequência do dia:** <br> > Usuário acessa o Grasshopper <br> > Usuário clica no icone de um troféu no canto superior direito <br> > Seleciona Sequência do dia <br> > E visualiza tela com as datas e sequências <br>|
 | **Fluxos de exceção**    | --- |
 | **Pós condições**        | Usuário irá ver as suas conquistas |
+
+<figcaption align='center'>
+ <h6> <b>Tabela 5 – UC05</b><br>
+  Fonte: Philipe de Sousa</h6>
+</figcaption>
+
 
 
 ## Referências
@@ -87,4 +158,5 @@ Para elaborar dos casos de uso foram verificados e analisados os documentos de e
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 1.0 | 08/12/2022 | Início da página e casos de uso | Philipe de Sousa | -- | 
+| 1.0 | 08/12/2022 | Início da página e casos de uso | Philipe de Sousa | -- |
+| 1.1 | 08/12/2022 | Casos de uso correção | Philipe de Sousa | -- |  
