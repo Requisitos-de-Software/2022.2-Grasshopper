@@ -20,13 +20,14 @@ Primeiro Caso de Uso(<i>Figura 1</i>) que representa o subconjunto **Realizar lo
 </figcaption>
 
 
-| UC01                     | Fazer Login |
-| --------------           |:----------- |
+| UC01                     | Fazer Login |Rastreabilidade|
+| --------------           |:----------- |---------------|
 | **Descrição**            | Fazer Login no Grasshopper |
 | **Ator(es)**             | > Usuário <br> > Serviço de autenticação Google |
 | **Pré condições**        | > Usuário estar deslogado no aplicativo |
-| **Fluxo principal**      | > Usuário acessa o Grasshopper <br> > Usuário clica no botão "Fazer login com o Google" <br> > Usuário escolhe a conta para continuar no Grasshopper <br> > Os dados de login são autenticados |
-| **Fluxos alternativos**  | **Fluxo Alternativo 1 - Iniciar sem fazer login:** <br> > Usuário acessa o Grasshopper <br> > Usuário clica no botão "Iniciar sem fazer login" <br> > Usuário segue os passos e responde as perguntas de nivelamento <br> > O usuário é logado automaticamente |
+| **Fluxo principal**      | > Usuário acessa o Grasshopper <br> > Usuário clica no botão "Fazer login com o Google" <br> > Usuário escolhe a conta para continuar no Grasshopper <br> > Os dados de login são autenticados |OBS17<br>OBS02, ST06<br>OBS02, ST06<br>OBS02, ST06|
+| **Fluxos alternativos**  | **Fluxo Alternativo 1 - Iniciar sem fazer login:** <br> > Usuário acessa o Grasshopper <br> > Usuário clica no botão "Iniciar sem fazer login" <br> > Usuário segue os passos e responde as perguntas de nivelamento <br> > O usuário é logado automaticamente |<br>OBS17<br>OBS01<br>ST11, BS05
+|
 | **Fluxos de exceção**    |  **Fluxo de Exceção 1 - Desconectado:** <br> > Aplicativo apresentar uma mensagem de erro avisando que não foi possível fazer o Login pois está sem conexão com a internet<br> <br> 
 | **Pós condições**        | Usuário fica logado no Grasshopper e é direcionado para a aula tutorial|
 
@@ -49,13 +50,13 @@ Segundo Caso de Uso(<i>Figura 2</i>) que representa o subconjunto **Realziar Aul
 
 
 
-| UC02                     | Aulas |
-| --------------           |:----------- |
+| UC02                     | Aulas |Rastreabilidae|
+| --------------           |:----------- |-----------|
 | **Descrição**            | Usuário deve selecionar aula disponível e realizar a tarefa solicitada |
 | **Ator(es)**             | > Usuário |
 | **Pré condições**        | > Usuário deve ter finalizado a aula anterior do curso |
-| **Fluxo principal**      | > Usuário acessa o Grasshopper <br> > Usuário clica na aula disponível do curso escolhido <br> > Usuário clica no nome da aula <br> > E as tarefas solicitadas são listadas |
-| **Fluxos alternativos**  | **Fluxos alternativos - Aula Opcional** <br> > Usuário acessa o Grasshopper <br> > Usuário clica na aula disponível do curso escolhido <br> > Usuário clica no nome da aula <br> > O Grasshopper libera duas aulas em sequência (aula opcional) |
+| **Fluxo principal**      | > Usuário acessa o Grasshopper <br> > Usuário clica na aula disponível do curso escolhido <br> > Usuário clica no nome da aula <br> > E as tarefas solicitadas são listadas |BS17<br><br>ST12<br>ST03|
+| **Fluxos alternativos**  | **Fluxos alternativos - Aula Opcional** <br> > Usuário acessa o Grasshopper <br> > Usuário clica na aula disponível do curso escolhido <br> > Usuário clica no nome da aula <br> > O Grasshopper libera duas aulas em sequência (aula opcional) |<br>BS17<br>OBS10, ST08
 | **Fluxos de exceção**    | --- |
 | **Pós condições**        | Usuário pode sair da aula e finalizar tarefa depois |
 
@@ -76,14 +77,13 @@ Terceiro Caso de Uso(<i>Figura 3</i>) que representa o subconjunto **Menu de op�
   Fonte: Philipe de Sousa</h6>
 </figcaption>
 
-
-| UC03                     | Menu de opções|
-| --------------           |:----------- |
+| UC03                     | Menu de opções| Rastreabilidade|
+| --------------           |:----------- | --------|
 | **Descrição**            | Usuário deve selecionar a barra lateral para acessar o menu de opções  |
 | **Ator(es)**             | > Usuário |
 | **Pré condições**        | > Usuário deve ter finalizado a aula tutorial, logo após ter respondido  o nivelamento|
-| **Fluxo principal**      | > Usuário acessa o Grasshopper <br> > Usuário clica na barra lateral no canto superior esquerdo  <br> > Usuário clica sobre o cursos desejado <br> > E realiza as tarefas da aula |
-| **Fluxos alternativos**  | **Fluxo alternativos 1 - Personalizar mascote** <br> > Usuário acessa o Grasshopper <br> > Usuário clica na barra lateral no canto superior esquerdo <br> > Usuário clica no mascote do Grasshopper <br> > O Usuário escolhe um adereço para o mascote <br> <br> **Fluxo alternativos 2 - Praticar no playground** <br> > Usuário acessa o Grasshopper <br> > Usuário clica na barra lateral no canto superior esquerdo <br> > Usuário clica na opção playground de código <br> > O Usuário faz práticas de javascript com mais liberdade, não se limitando a uma tarefa específica. |
+| **Fluxo principal**      | > Usuário acessa o Grasshopper <br> > Usuário clica na barra lateral no canto superior esquerdo  <br> > Usuário clica sobre o cursos desejado <br> > E realiza as tarefas da aula |BS17<br>OBS33<br>OBS08<br>ST03
+| **Fluxos alternativos**  | **Fluxo alternativos 1 - Personalizar mascote** <br> > Usuário acessa o Grasshopper   <br> > Usuário clica na barra lateral no canto superior esquerdo <br> > Usuário clica no mascote do Grasshopper <br> > O Usuário escolhe um adereço para o mascote <br> <br> **Fluxo alternativos 2 - Praticar no playground** <br> > Usuário acessa o Grasshopper <br> > Usuário clica na barra lateral no canto superior esquerdo <br> > Usuário clica na opção playground de código <br> > O Usuário faz práticas de javascript com mais liberdade, não se limitando a uma tarefa específica. |<br>BS17<br>OBS33<br>OBS06<br>OBS07, BS09<br><br><br>BS17<br>OBS33<br><br>BS07|
 | **Fluxos de exceção**    | --- |
 | **Pós condições**        | Usuário volta para tela do curso |
 
@@ -105,13 +105,13 @@ Quarto Caso de Uso(<i>Figura 4</i>) que representa o subconjunto **Configuraçõ
 </figcaption>
 
 
-| UC04                    | Configurações |
-| --------------           |:----------- |
+| UC04                    | Configurações | Rastreabilidade|
+| --------------           |:----------- |:---------------|
 | **Descrição**            | Usuário deve selecionar a barra lateral para acessar o menu de opções para ir para as configurações do Grasshopper |
 | **Ator(es)**             | > Usuário |
 | **Pré condições**        | > Usuário deve ter finalizado a aula tutorial, logo após ter respondido o nivelamento|
-| **Fluxo principal**      | > Usuário acessa o Grasshopper <br> > Usuário clica na barra lateral no canto superior esquerdo  <br> > Usuário clica sobre em configurações <br> > Navega até Notificações de apps <br> > O usuário desativa as notificações e lembretes|
-| **Fluxos alternativos**  | **Fluxo alternativos 1 - Troca de idioma** <br> > Usuário acessa o Grasshopper <br> > Usuário clica na barra lateral no canto superior esquerdo <br> > Usuário clica em configurações <br> > O Usuário escolhe o idioma de sua preferência<br> <br> **Fluxo alternativos 2 - Pesquisa demográfica** <br> > Usuário acessa o Grasshopper <br> > Usuário clica na barra lateral no canto superior esquerdo <br> > Usuário clica na opção de responder a pesquisa <br> > O Usuário responde o questionário.<br> > E enviar os resultados <br> <br> **Fluxo alternativos 3 - Enviar feedback** <br> > Usuário acessa o Grasshopper <br> > Usuário clica na barra lateral no canto superior esquerdo <br> > Usuário clica na opção de enviar feedback <br> > O Usuário escolhe uma nota de 0 a 10, sobre a probabilidade de recomenddar o Grasshooper para um amigo <br> > E envia o feedback |
+| **Fluxo principal**      | > Usuário acessa o Grasshopper <br> > Usuário clica na barra lateral no canto superior esquerdo  <br> > Usuário clica sobre em configurações <br> > Navega até Notificações de apps <br> > O usuário desativa as notificações e lembretes|OBS17<br>OBS33<br>BS25<br><br>OBS19
+| **Fluxos alternativos**  | **Fluxo alternativos 1 - Troca de idioma** <br> > Usuário acessa o Grasshopper <br> > Usuário clica na barra lateral no canto superior esquerdo <br> > Usuário clica em configurações <br> > O Usuário escolhe o idioma de sua preferência<br> <br> **Fluxo alternativos 2 - Pesquisa demográfica** <br> > Usuário acessa o Grasshopper <br> > Usuário clica na barra lateral no canto superior esquerdo <br> > Usuário clica na opção de responder a pesquisa <br> > O Usuário responde o questionário.<br> > E enviar os resultados <br> <br> **Fluxo alternativos 3 - Enviar feedback** <br> > Usuário acessa o Grasshopper <br> > Usuário clica na barra lateral no canto superior esquerdo <br> > Usuário clica na opção de enviar feedback <br> > O Usuário escolhe uma nota de 0 a 10, sobre a probabilidade de recomenddar o Grasshooper para um amigo <br> > E envia o feedback |<br>OBS17<br>OBS33<br>BS25<br>OBS26<br><br><br>OBS17<br>OBS33<br><br><br><br><br><br>OBS17<br>OBS33<br>OBS23
 | **Fluxos de exceção**    | --- |
 | **Pós condições**        | As modificações feitas no menu de configuração são aplicadas |
 
@@ -133,13 +133,13 @@ Quinto Caso de Uso(<i>Figura 5</i>) que representa o subconjunto **Conquistas**,
 </figcaption>
 
 
-| UC05                     | Conquistas |
-| --------------           |:----------- |
+| UC05                     | Conquistas |Rastreabilidade|
+| --------------           |:----------- |-------------|
 | **Descrição**            | Usuário irá ver a suas conquistas |
 | **Ator(es)**             | > Usuário |
 | **Pré condições**        | > Usuário deve ter completado no mínimo uma tarefa para conseguir visualizar|
 | **Fluxo principal**      | > Usuário acessa o Grasshopper <br> > Usuário clica no icone de um troféu no canto superior direito <br> > E visualiza os conceitos desbloqueados <br> |
-| **Fluxos alternativos**  | **Fluxo Alternativo 1 - Visualizar Sequência do dia:** <br> > Usuário acessa o Grasshopper <br> > Usuário clica no icone de um troféu no canto superior direito <br> > Seleciona Sequência do dia <br> > E visualiza tela com as datas e sequências <br>|
+| **Fluxos alternativos**  | **Fluxo Alternativo 1 - Visualizar Sequência do dia:** <br> > Usuário acessa o Grasshopper <br> > Usuário clica no icone de um troféu no canto superior direito <br> > Seleciona Sequência do dia <br> > E visualiza tela com as datas e sequências <br>|<br>OBS17<br>OBS33<br>OBS30, BS04
 | **Fluxos de exceção**    | --- |
 | **Pós condições**        | Usuário irá ver as suas conquistas |
 

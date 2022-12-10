@@ -34,6 +34,7 @@ nav:
           - In or Out: elicitacao/priorizacao/in-or-out.md
           - Three Level-Scale: elicitacao/priorizacao/threeLevel-Scale.md
   - Modelagem:
+      - Especifição Suplementar: modelagem/especificao-suplementar.md
       - Cenários: modelagem/cenarios.md
       - Léxicos: modelagem/lexicos.md
       - Casos de Uso: modelagem/casos-de-uso.md
