@@ -1,6 +1,6 @@
 ## Introdução
 
-Casos de Uso são usados para representar um conjunto de ações que um sistema ou um conjunto de sistemas, deve realizar em colaboração com um ou mais usuários externos ao sistema. Cada caso de uso deverá fornecer algum resultado observável e com valor para outros interessados no sistema.
+Um caso de uso é uma descrição das maneiras pelas quais um usuário interage com um sistema ou produto. Um caso de uso pode estabelecer os cenários de sucesso, os cenários de falha e quaisquer variações críticas ou exceções.
 
 ## Metodologia
 
