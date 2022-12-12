@@ -53,11 +53,11 @@ OBS.: as gravações das apresentações ocorrerão sempre 1 dia antes da data d
 
 | Tarefa | Autor | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
 | :----: | :---: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
-| Cenários | Lucas Lopes, Hellen Fernanda | 10/12 | Philipe de Sousa |  11/12   | - | - |
-| Léxicos | João Pedro, Wildemberg Sales | 10/12 | Lucas Lopes |  11/12   | 06/12/2022 | 06/12/2022 |
-| Casos de Uso | Philipe de Sousa | 10/12 | Hellen Fernanda | 11/12 | - | - |
-| Especificação Suplementar | Caio Vitor | 10/12 | Wildemberg Sales |  11/12   | - | - |
-| Atas das Reuniões | Lucas Lopes | 10/12 | João Pedro |  11/12   | - | - |
+| Cenários | Lucas Lopes, Hellen Fernanda | 10/12 | Philipe de Sousa |  11/12   | 08/12 | 11/12 |
+| Léxicos | João Pedro, Wildemberg Sales | 10/12 | Lucas Lopes |  11/12   | 06/12 | 06/12 |
+| Casos de Uso | Philipe de Sousa | 10/12 | Hellen Fernanda | 11/12 | 08/12 | 08/12 |
+| Especificação Suplementar | Caio Vitor | 10/12 | Wildemberg Sales |  11/12   | 10/12 | 10/12 |
+| Atas das Reuniões | Lucas Lopes | 10/12 | João Pedro |  11/12   | 01/12 | 01/12 |
 
 <figcaption align="center">Tabela 4: Atividades específicas referentes à etapa 3.</figcaption>
 
