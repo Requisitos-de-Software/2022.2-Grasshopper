@@ -140,5 +140,5 @@ Interfaces de Hardware
 
 | Versão |    Data    |                 Descrição                 |          Autor           |     Revisor      |
 | :----: | :--------: | :----------------------------------------: | :----------------------: | :--------------: |
-|  1.0   | 09/12/2022 |     | Caio    |  Wildemberg Sales    |
+|  1.0   | 09/12/2022 | Criação do documento  | Caio    |  Wildemberg Sales    |
 
