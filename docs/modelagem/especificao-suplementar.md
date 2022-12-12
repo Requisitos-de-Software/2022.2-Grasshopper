@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-O objetivo da Especificação Suplementar é capturar os requisitos do sistema que não são facilmente definidos pela modelagem de casos de uso. De modo que a Especificação Suplementar em conjunto com a modelagem de [Casos de Uso](/modelagem/casos-de-uso) define todos os requisitos do sistema.
+O objetivo da Especificação Suplementar é capturar os requisitos do sistema que não são facilmente definidos pela modelagem de casos de uso. De modo que a Especificação Suplementar em conjunto com a modelagem de [Casos de Uso](/casos-de-uso.md) define todos os requisitos do sistema.
 
 Esta Especificação Suplementar se aplica ao aplicativo GrassHoper disponibilizado na Play Store. Ademais, especificação cobre todos os requisitos não funcionais do sistema, como os requisitos de usabilidade, confiabilidade, desempenho e suportabilidade.
 
@@ -11,7 +11,7 @@ A descrição dos requisitos foi construída em cima do modelo FURPS+, que diz r
 
 Seu acrônimo representa categorias que podem ser usadas na definição de requisitos.
 
-- **F** - _Functionality_ (Funcionalidade): representa todo o aspecto funcional do software, ou seja, seus requisitos (nesse caso já explicitados nos [casos de uso](casos-de-uso.md)).
+- **F** - _Functionality_ (Funcionalidade): representa todo o aspecto funcional do software, ou seja, seus requisitos (nesse caso já explicitados nos [casos de uso](/casos-de-uso.md)).
 
 - **U** - _Usability_ (Usabilidade): é o atributo que avalia a interface com o usuário, em conformidade com os principíos de usabilidade propostos por Nielsen (PREECE; ROGERS; SHARP; 2005, p. 48-49); "O quão fácil é para o usuário realizar suas demandas via o software?".
 
@@ -31,7 +31,7 @@ Seu acrônimo representa categorias que podem ser usadas na definição de requi
 
 ### 3.1 Funcionalidades
 
-- Os requisitos funcionais estão definidos através dos Casos de Uso. É possível encontrá-los [aqui](/modelagem/casos-de-uso)
+- Os requisitos funcionais estão definidos através dos Casos de Uso. É possível encontrá-los [aqui](/casos-de-uso.md)
 
 ### 3.2 Usabilidade
 
