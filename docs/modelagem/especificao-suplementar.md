@@ -31,7 +31,7 @@ Seu acrônimo representa categorias que podem ser usadas na definição de requi
 
 ### 3.1 Funcionalidades
 
-- Os requisitos funcionais estão definidos através dos Casos de Uso. É possível encontrá-los [aqui](/casos-de-uso.md)
+- Os requisitos funcionais estão definidos através dos Casos de Uso. É possível encontrá-los [AQUI](casos-de-uso.md)
 
 ### 3.2 Usabilidade
 
