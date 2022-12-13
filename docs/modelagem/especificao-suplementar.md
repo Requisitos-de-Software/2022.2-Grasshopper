@@ -94,7 +94,7 @@ Garantia de Segurança do Armazenamento de Dados
 
 - O usuário será capaz de utilizar o sistema através do seu smartphone por meio de um aplicativo.
 - Não será necessário que nenhum outro software personalizado resida no smartphone além do aplicativo do GrassHopper
-- O aplicativo deve ter compatibilidade com qualquer sistema operacional suportando a versão do Android 4.4.
+- O aplicativo tem compatibilidade com o sistema operacional Android suportando a partir da versão do Android 4.4.
 
 ### 3.6 Design
 
