@@ -8,8 +8,8 @@ Cada símbolo é descrito como noção e impacto:
 * Noção é o que significa o símbolo (denotação);  
 * Impacto descreve o efeito/uso/ocorrência do símbolo na aplicação ou do efeito de algo na aplicação sobre o símbolo (conotação).
 
-A partir desta coleta de palavras, frases e/ou símbolos, criamos tabelas contendo as informações de sinônimos da palavra, o impacto, a noção e a classificação (verbo, estado, objeto), assim como mostado na <i>Tabela 1</i>.
-
+A partir desta coleta de palavras, frases e/ou símbolos, criamos tabelas contendo as informações de sinônimos da palavra, o impacto, a noção e a classificação (verbo, estado, objeto), assim como mostado na <i>Tabela 1</i>, e devido a diversidade dos léxicos, a ligação entre eles ficou escassa pois a priorização para a escolha visava generalizar todo o app para gerar um panorâma geral.  
+Todos os usuários relacionados aos léxicos serão usuários primários.
 
 | Léxico | Sinônimos | Noção | Impacto | Classificação |
 | :----: | :-------: | :---: | :-----: | :-----------: |
@@ -136,3 +136,4 @@ A seguir temos as tabelas de léxicos definidos pelos autores do documento, todo
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 06/12/2022 | Início da página de léxicos | Wildemberg Sales, João Pedro | Lucas Lopes |
 | 1.1 | 06/12/2022 | Inserido léxicos | Wildemberg Sales, João Pedro | Lucas Lopes |
+| 1.2 | 13/12/2022 | Inserido aspectos sobre os usuários | Wildemberg Sales, João Pedro | Lucas Lopes |
