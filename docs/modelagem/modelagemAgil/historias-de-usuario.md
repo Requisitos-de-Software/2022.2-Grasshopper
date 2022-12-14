@@ -15,7 +15,7 @@
 
 **USXX: Título da história de usuário.**
 
-|  ID  | Eu, como... | Gostaria de... | Para... | Critérios de Aceitação |
+|  ID  | Eu, como... | Gostaria de... | Para que... | Critérios de Aceitação |
 | :--: | :---------: | :------------: | :-----: | ---------------------- |
 | USXX | Ator | Ação/Funcionalidade | Necessidade/Benefício | Conjunto de requisitos predefinidos que devem ser atendidos para que uma história de usuário seja concluída. |
 
