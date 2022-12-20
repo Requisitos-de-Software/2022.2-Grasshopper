@@ -40,6 +40,9 @@ nav:
       - Especifição Suplementar: modelagem/especificao-suplementar.md
       - Ágil:
         - Histórias de Usuário: modelagem/modelagemAgil/historias-de-usuario.md
+  - Análise de Requisitos:
+      - Verificação:
+          - Modelo Padrão: analise/verificacao/modelo-padrao.md
   - Atas das Reuniões:
       - Reunião 1 - 15/11/2022: atas-das-reunioes/reuniao1.md
       - Reunião 2 - 17/11/2022: atas-das-reunioes/reuniao2.md
