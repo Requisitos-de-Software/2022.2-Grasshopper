@@ -4,11 +4,20 @@
 <p align="justify">A verificação é uma parte do processo de desenvolvimento de software que não necessita do cliente presente. Ela consiste, basicamente, em verificar se há algo de errado com os artefatos desenvolvidos, em termos de notação, processo, procedimentos e se está de acordo com o que se espera dele. Este documento será utilizado como modelo para as páginas de verificação dos artefatos, a fim de que se siga o padrão estabelecido. O formato a ser utilizado está descrito na sessão seguinte.</p>
 
 ## Metodologia
-<p align="justify">Para o desenvolvimento do modelo padrão, os integrantes do grupo pensaram em critérios relevantes para a disciplina, bem como os que o professor já comentou em sala de aula. Na construção dos critérios específicos, o responsável pelo artefato deve recorrer aos elementos previamente descritos no plano de ensino da disciplina e, também, às correções disponibilizadas pelo monitor. Além disso, os trabalhos de semestres anteriores podem ajudar como inspiração na criação dos critérios.</p>
+<p align="justify">Será utilizada a verificação por meio de inspeção, que, segundo Fagan, consiste em seis passos principais, são eles: planejamento, visão geral, preparação, inspeção, correção e acompanhamento. Para o desenvolvimento do modelo padrão, os integrantes do grupo pensaram em critérios relevantes para a disciplina, bem como os que o professor já comentou em sala de aula. Na construção dos critérios específicos, o responsável pelo artefato deve recorrer aos elementos previamente descritos no plano de ensino da disciplina e, também, às correções disponibilizadas pelo monitor. Além disso, os trabalhos de semestres anteriores podem ajudar como inspiração na criação dos critérios.</p>
+
+## Planejamento
+<p align="justify">Conforme reunião em sala de aula, serão elaboradas "checklists" para cada artefato individualmente, com o intuito de verificar ponto a ponto em busca de erros.</p>
+
+## Visão Geral
+<p align="justify">A visão geral pode ser omitida do processo já que todos os integrantes tem o conhecimento necessário para avaliar os artefatos individualmente, por serem conteúdos ministrados em sala de aula.</p>
+
+## Preparação
+Foram designados para os membros do grupo os artefatos que serão inspecionados por cada um. Os Inspetores são responsáveis por elaborarem seus checklists específicos do tópico abordado e realizarem a inspeção antes de passar para o revisor. A divisão das responsabilidades e preparação para a etapa podem ser encontradas em "Planejamento" > ["Cronograma"](../../planejamento/cronograma.md) > "Etapa 5 - Análise de Requisitos".
 
 ---
 
-## Modelo padrão
+## Modelo padrão - Inspeção e Correção
 
 ### [NOME DO ARTEFATO] - Verificação
 
@@ -56,7 +65,11 @@
 
 ---
 
+## Acompanhamento
+<p align="justify">O acompanhamento tem como objetivo verificar, ao longo do tempo, se novos erros não aconteceram ao corrigir os detectados pelos checklist.</p>
+
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 19/12/2022 | Criação do artefato | Lucas Lopes | Caio Vitor |
+| 1.1 | 22/12/2022 | Melhorias na documentação | Lucas Lopes | Caio Vitor |
