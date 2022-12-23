@@ -1,7 +1,7 @@
 # Rich Picture - Verificação
 
 ## Introdução
-<p align="justify">Este documento tem como objetivo verificar se o artefato de <a href="https://requisitos-de-software.github.io/2022.2-Lichess/prerastreabilidade/richpicture/">Rich Picture</a> segue os critérios pré-estabelecidos pela disciplina de Requisitos de Software, bem como, ajudar os integrantes a identificar os erros e possíveis correções necessárias. Esta etapa divide as verificações em gerais e específicas, em que as gerais se tratam dos critérios que todas as páginas devem seguir. Já as específicas são critérios referentes à somente esse artefato.</p>
+<p align="justify">Este documento tem como objetivo verificar se o artefato de <a href="https://requisitos-de-software.github.io/2022.2-Lichess/prerastreabilidade/richpicture/" target="_blank">Rich Picture</a> segue os critérios pré-estabelecidos pela disciplina de Requisitos de Software, bem como, ajudar os integrantes a identificar os erros e possíveis correções necessárias. Esta etapa divide as verificações em gerais e específicas, em que as gerais se tratam dos critérios que todas as páginas devem seguir. Já as específicas são critérios referentes à somente esse artefato.</p>
 
 ## Verificações gerais
 <p align="justify">A <i>Tabela 1</i> a seguir descreve os critérios gerais, ou seja, que todos os artefatos desenvolvidos devem estar de acordo.</p>
