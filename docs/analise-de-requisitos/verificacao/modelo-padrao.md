@@ -22,7 +22,7 @@ Foram designados para os membros do grupo os artefatos que serão inspecionados 
 ### [NOME DO ARTEFATO] - Verificação
 
 ### Introdução
-<p align="justify">Este documento tem como objetivo verificar se o artefato de [NOME](ROTA) segue os critérios pré-estabelecidos pela disciplina de Requisitos de Software, bem como, ajudar os integrantes a identificar os erros e possíveis correções necessárias. Esta etapa divide as verificações em gerais e específicas, em que as gerais se tratam dos critérios que todas as páginas devem seguir. Já as específicas são critérios referentes à somente esse artefato.</p>
+<p align="justify">Este documento tem como objetivo verificar se o artefato de <a href="#">NOME DO ARTEFATO</a> segue os critérios pré-estabelecidos pela disciplina de Requisitos de Software, bem como, ajudar os integrantes a identificar os erros e possíveis correções necessárias. Esta etapa divide as verificações em gerais e específicas, em que as gerais se tratam dos critérios que todas as páginas devem seguir. Já as específicas são critérios referentes à somente esse artefato.</p>
 
 ### Verificações gerais
 <p align="justify">A <i>Tabela 1</i> a seguir descreve os critérios gerais, ou seja, que todos os artefatos desenvolvidos devem estar de acordo.</p>
@@ -35,7 +35,7 @@ Foram designados para os membros do grupo os artefatos que serão inspecionados 
 | 4 | As tabelas e/ou figuras contém legenda (título e fonte)? | ✔ ou ✖ | ✔ ou ✖ |
 | 5 | As legendas das figuras e tabelas estão conforme padrão?<br><i>&lt;figcaption align="center"&gt;&lt;/figcaption&gt;</i> | ✔ ou ✖ | ✔ ou ✖ |
 | 6 | As tabelas e/ou figuras são chamadas dentro dos textos? | ✔ ou ✖ | ✔ ou ✖ |
-| 7 | As sessões seguem uma hierarquia de títulos correta? | ✔ ou ✖ | ✔ ou ✖ |
+| 7 | As seções seguem uma hierarquia de títulos correta? | ✔ ou ✖ | ✔ ou ✖ |
 | 8 | Possui um histórico de versão conforme o padrão? | ✔ ou ✖ | ✔ ou ✖ |
 | 9 | As versões do histórico seguem a partir do 1.0? | ✔ ou ✖ | ✔ ou ✖ |
 | 10 | Contém o(s) autor(es) do artefato no histórico de versão? | ✔ ou ✖ | ✔ ou ✖ |
