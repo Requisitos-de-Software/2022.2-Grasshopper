@@ -22,8 +22,8 @@ nav:
       - Ferramentas: planejamento/ferramentas.md
       - Cronograma: planejamento/cronograma.md
       - Aplicativos analisados: planejamento/aplicativos-analisados.md
-  - Pré-rastreabilidade:
-      - Rich picture: pre-traceability/richpicture.md
+  - Pré-Rastreabilidade:
+      - Rich Picture: pre-traceability/richpicture.md
   - Elicitação:
       - Perfil do usuário: elicitacao/perfil-do-usuario.md
       - Personas: elicitacao/personas.md
