@@ -43,6 +43,9 @@ nav:
   - Análise de Requisitos:
       - Verificação:
           - Modelo Padrão: analise-de-requisitos/verificacao/modelo-padrao.md
+          - Rich Picture: analise-de-requisitos/verificacao/richpicture-verificacao.md
+          - Personas: analise-de-requisitos/verificacao/personas-verificacao.md
+          - Storytelling: analise-de-requisitos/verificacao/storytelling-verificacao.md
           - Teste Piloto - Lichess:
             - Rich Picture: analise-de-requisitos/verificacao/testePiloto-Lichess/richpicture-Lichess.md
             - Personas: analise-de-requisitos/verificacao/testePiloto-Lichess/personas-Lichess.md
