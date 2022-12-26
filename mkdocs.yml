@@ -45,6 +45,7 @@ nav:
           - Modelo Padrão: analise-de-requisitos/verificacao/modelo-padrao.md
           - Teste Piloto - Lichess:
             - Rich Picture: analise-de-requisitos/verificacao/testePiloto-Lichess/richpicture-Lichess.md
+            - Personas: analise-de-requisitos/verificacao/testePiloto-Lichess/personas-Lichess.md
   - Atas das Reuniões:
       - Reunião 1 - 15/11/2022: atas-das-reunioes/reuniao1.md
       - Reunião 2 - 17/11/2022: atas-das-reunioes/reuniao2.md
