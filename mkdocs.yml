@@ -39,6 +39,7 @@ nav:
       - Casos de Uso: modelagem/casos-de-uso.md
       - Especifição Suplementar: modelagem/especificao-suplementar.md
       - Ágil:
+        - Backlog: modelagem/modelagemAgil/backlog.md 
         - Histórias de Usuário: modelagem/modelagemAgil/historias-de-usuario.md
   - Análise de Requisitos:
       - Verificação:
