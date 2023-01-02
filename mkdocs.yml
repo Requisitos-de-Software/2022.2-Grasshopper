@@ -41,6 +41,7 @@ nav:
       - Ágil:
         - Backlog: modelagem/modelagemAgil/backlog.md 
         - Histórias de Usuário: modelagem/modelagemAgil/historias-de-usuario.md
+        - NFR Framework: modelagem/modelagemAgil/nfr-framework.md
   - Análise de Requisitos:
       - Verificação:
           - Modelo Padrão: analise-de-requisitos/verificacao/modelo-padrao.md
