@@ -20,6 +20,7 @@
 |<img src="https://www.youtube.com/img/desktop/yt_1200.png" height= 90 width=90> | YouTube | Ferramenta para postagem de vídeos. |
 |<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.1-Millenium-Papelaria/15adf26be163cb9b95a5d6cbaee79fc034a506ab/docs/images/ferramentas/vscode.svg" height= 90 width=90> | Visual Studio Code | Edição dos artefatos |
 |<img src="https://s2.glbimg.com/Vp4YDBuTHJQm8csdK923W1Atsl4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2018/3/3/BbVQrrTAyGz3Ah97ASBQ/google-forms.jpg" height= 90 width=90> | Google Forms | Elaborar questionarios |
+|<img src="https://drawio-app.com/wp-content/uploads/2020/11/drawio_logo_RGB_dark_mini_199x50px.png" height= 90 width=90> | Drawio | Elaborar diagramas |
 
 <center> <figcaption>Tabela 1: ferramentas usadas.</figcaption> </center>
 

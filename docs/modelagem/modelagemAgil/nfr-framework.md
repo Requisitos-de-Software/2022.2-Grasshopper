@@ -19,10 +19,10 @@
 
 &emsp;&emsp;Feitas as devidas análises e definas as softgoals, para o desenvolvimento dos gráficos foi elaborada um padrão de representação que está representado na legenda abaixo.(<i>Figura 1</i>). A ferramenta utilizada para a confecção dos diagramas foi o <a href="https://app.diagrams.net">draw.io</a>.
 
-![Legenda](../assest/legenda.jpeg)
+![Legenda](../assest/legenda1.jpeg)
 <figcaption align='center'>
  <h6> <b>Figura 1 – Legenda <i>softgoals</i></b><br>
-  Fonte: Philipe </h6>
+  Fonte: Philipe, João Pedro </h6>
 </figcaption>
 
 ## 3. NFRs
@@ -33,7 +33,7 @@
 <iframe frameborder="0" style="width:100%;height:480px;" src="https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=puts00090998907890709790&layers=1&nav=1&title=Diagrama%20NFR2.drawio#R7V1rc9u20v41nmk%2FSIMLARAf4zhJc9KkbuK%2B7cmXM5REy0wkUaEox8mvfwHeJIJLiZR5k2vPJDYpChKwi91nr7igL5cPbwJnfffen7mLC4JmDxf06oIQymyhfuk7P%2BI7mGES35kH3iy5t7vxyfvpJjdRcnfrzdxN7sHQ9xeht87fnPqrlTsNc%2FecIPC%2F5x%2B79Rf5T107c7dw49PUWRTv%2Fu3NwrvkLkZo98Jvrje%2FSz7aZskLSyd9OLmxuXNm%2Fve9W%2FTVBX0Z%2BH4Y%2F7V8eOku9Oql63L19%2FrOv7oN0fX6ehrc%2Ffwv%2Bvl1FA%2F2us5bsikE7ipsdmiaTC38ka6XO1PLl1yu%2FJX6dRn429XM1cMgdeUH4Z0%2F91fO4nffX6ubWN384obhj4T4zjb01a27cLlIXnUfvPAf%2Ffax5Mnlf6NLkVxdPSSDRxc%2F9i6u3cBbuqEbpPdWYfAjHstKL%2BOxcHq5Gyy6%2BrF%2FVRxu9kIz2W6y6s5rb7FIXr%2F1V%2BFrZ%2Bkt9Cg36q0btVof3O%2Fq%2F4%2F%2B0lmpRyoSJyHixt8GU%2FfAczzZI04wdw%2BNxxLSaXrtcXpC%2Bzeur6YZ%2FFAPBO7CCb37%2FHZwkl01z57bcY76I2GeGoxkdcxIwiI5TrIFf%2Balk3lJDIqXWMe8ZLG8VJLWo3iJWdLgJkL%2BXfxk2YPiJ5ow1L2z2CYfVeCwx7PTEWrt2I1aVl50MVyb3bqnPa1KfDow4ovjxG9FvFTnB47z%2FCDOgh%2FsqsIANc0PyVuvfU%2FNhKDEVhlhRBJaJ7aK4lk0Rns%2FFssPGk8yGcfgs%2ByLPYL15CA4baNIFKZPTBfOZuNN09vJY7gXFuqOMyxpjzGWiCOKOcKI5viEYqW0Cba4Mv4oIVzkPyDm8Ca45O07tPzo%2F%2B9mtbS%2F3rz7EL5lXx5GqXmZE1CXIOf87kyUeZ4jvrPw5itNV0USLQ0u790g9JT5%2ByJ5YenNZouIz9yN99OZRONptljrCUVTZJcX7CrhgITLIsRSmSP0Z7oPOeok5nzyeTsj%2BijzxJumyAMpLdGYYGbn6Jd85Klckj7i395u3FYEgVUBgBR3MYhVOWE5ZUFqq4o9pIpic3yHVDnNoGsdpDpgNMIripjvO99Q6gC62%2FMKpfceKYmkZGOW11FK7lRSSoWxsFJnhcG4MVhzsgtm7J7AVU6lJYPu67Mq5tPePkg21W4fnGav7SG6%2FCa1hX0GiM6qjOjkoBA%2BI%2BfLhN1TOfUbHncKWcOiMu%2BHyjXECKXUcPxQ%2BzzUaeoAPM4UA9v69kCZIlMFLK8JZHo5ZEWQEvk4uBpWDEJUQSM9wGxCDZht7%2FDGwOUCrsoJg4LZglEDGVN0Gsi2kTlSZq93BLExxgOAN%2BVuo84RzlFexLhx5FLqV%2BJsjARmXAjCcQpREk6xEB4jbjEsbSK4JN06HzGmz3xTS9hlfFOBw9igFB9OSduA5hMoH52SpH40ouHA%2BoBNYZzSdCCaD9vc0Fc4Nfjqqj6FWsyhkDFU26qPdJMJUNOQ38m0ncTqJ4CCSeUMj96MeTjmAWEatTro3xz5SNj9UOiDIssIcZLHiY32Yx%2BYVrHRod2Vs7d3CgXbeZUi6UnG1J6JzvOpZJimGnDIRjrGVX02ld213aioEWbYUCxMZnfqaqkRRoXRrMJobSsqq4qNdozHS%2FPREK%2FvfuiBIWlVt9HQQNOISNPK54KezJFSGoNZvHOGrBITmSvgtG6DVSorxVJVp0wx0%2B0ibDHGfPeTvLzHIVgSpQyKXILNd5LHo5pDTrCDQmCx8NabCGDeOWs3kgX%2BVg16%2Bf3OC91PayfaY98DZ52XDg0SKeMNk0yl5BBjA3YYC4oBYggboASWj1%2F6mzc%2FxefLf27WP39fB973qbz%2B9iZNPz%2B09Ck8jKDktb%2FxQs%2FXMHHih6G%2FBPBj6Bs0SEm2fJjrYpnxxFFCfOwEmXvjxWoeg8wxwxaxmcUERozEeEKJ%2F%2BxlKThFVD1ic4X6GImsmNBJvtHI1ojG2azjephb70FbN%2F2ywIgqNST3fvIpVCNCxjbd%2FVg2tD95kSWyOqHGdyMkAflCfezlzLvPsQb%2FttU1PJdqKcJRYla80EIrtiyy19Vf8%2BR3NM7EvKEpBI6sXxhtIgNDD4zl%2BqE47F8bZ%2BIt1JyS0dSs4wHzH7JZK1Kf%2FCHOzN0bPx4rP766XZiYuhctWnrX2Fp64fJb5bjJpc3w%2BMvmrLmFexuW7kX1dafean4T2fUjq%2B89QY00tONC0QJAjBmaaM4ryCp4gAcMAoREeRlj0QwV7C0qpaCmaUvJV1nUQWh5WkKHgygb824XE0qM3BPSkHg9TRqqJQOkYUGSXwfuvbu6eEkvXojof%2BqrN%2BdkJiQcS%2BQo9IVNUdrnbF1lj27am9qT1BLVt9WDsaXSUDQBwDKgF3h7eqGCoTJgvTDSmfx5zcAsSDNYHACc7Qkzei72Hy%2BhROmKE2kXebZbTQF62PqUnS%2F95VoZbBFij0A10m7mJ6ootBLceJvQXTp6ouqfvrPcrmb6d%2BA6i3PUIkHMuL2okdp7cITzMg9QIxR3q0YqpNsNWo1YzFAj1AbVyC4HrCNFUiViNgRFIkpoUa5ICAMWuGNVgpEcnC5Z3blT7WpCG3er117bHpcvJgtv6p%2BjZC2NyXchWutzZV4MQDIgE6MdeW4qSIBBi1ZmG%2F5hKSDXDaSwWsSQUKXtEOWqXUKIchvTInlw0LuMxdBa9yljPzmTSMBOncCZauGkvTtXGy2dtAvEWWp6riabdV5gPiEQv%2FEnQQTdNWduN9toBXDgnacLqFcVU3uDjrCRt4UJpGW6BfC8QtbKsLWMAeAtBupuiQHRh2wzJ6NB4VchHH2yotmEgf8162WIa6UrHicOLyNPue5hgLZhkLZB7S340BD9R1fJqZ%2BOVjhOHE7AC2%2Bjpe%2FMaVHc9jllb3XrB0tnFzu5ZO4Tnao%2FCb1W6fgkfV71RUuG2BP5TmzIeyABpWm3pzTJmStNTg1HIqXQqmICer0s1NrKgo2QOtvTrxbe1Au1xIZtgUmQPhm437bexgsP4%2Bbd83VFwtPc%2FKSEgw9knJmbXwBc2ilglv24ZUrXrn5erenxtsaiuPelKNn6u6dbgHBVemQNEzPL%2BuagMHhbWh1iaLAkC1eI5vSy%2FgDXVyVJ%2Bfqn651FfqwxAZRgayS4f02W8rc%2FX%2FqjL%2FarD%2BzNzYS%2BGvUTT0u5t6xurTpXM25IF0JtSL5YGJQv3CrUXDS2tG1G1JoSLgd5orpoIVzmqCAhT1PHnF1unneA7LQtal9NdV0vQd%2B2%2Bv%2BN%2B8VZFpHarSaZp0iiyeX4xQf2vabnBv66cZg2xcRGhhfZVfnte%2FZQS6YfOIu2vaWHlu7xwhkXatyycv79FSXQipLW5DJkTHcmGH73Jm4w26uI2G1bRRfHtASdhdo%2FkYFoPFzweb2u7QsbosDoxFo8uNNqyIt8eAUMrtAuhcXgqgSaEcxZx4k04gLY5K1FmmFegUTIE4V2NM%2FlFgX9od1CO7DNVHf1Gm6w0b1e4ljLMc%2Fd2g1uvYOpqkOUw2cF3AwTkDHQuWy35LaDOfTpdxE6RLz9xg0HJeh%2B34ZDOq37HkIv796%2F%2Fvz9vf3Fn97e%2F%2FX%2B9ddXllel5PuJyP2scDqV%2B1a3ch9c%2FvLKvQ7E%2Fh9rs0QvcGfurbfylPxGRWEe%2BlGhgv63Dvy5EsUbwLo3FcgqypSabpWKOTvwfk5KI3NBpkqDg0oDSsFtAr%2BD7F2llutIQ59WJfkhkdiYIO%2Bm%2FQ61zQLJk3vvWEZJPim28Wm78w6vYPkNOD%2BA2oYPn4I5dZSLbmtiqhQbDSF3OyP%2FkMvuRXmmRW8FMLq8MFLnL1ZTL6kyfIq5Y9fOLPBXSqkbCOb8Usn6K8KvscnSV4Uwvd9AxB3KJGsx%2FbqCBTNgTYGRUZE6UmY9qCokINvSYvnmFUWbdmGTPGyVEKK44CmYATi246oeAi1un9L0yvUeoixr92G9iEt6pl7Yojjtc7I6Io3yIejIpI1i2k9xwm4CCbCe6NQP1J6anaWq7LNYqYagyaoJZUHSwIHh9nTjmfcWEAbY4FDdO2GACUWQ1daiDjbFrwIT13YqWWa6Q5Gnu65SAo8i79TGcufbyEOq2Hm6iP%2FcRi1dQkWBW%2F1H0acZ9bbZLi8ST2hsmaE4v0GJ5ckXN%2FTunWf%2FaJvMPCKGPAGwIGkrqFYyCSin73wkNEtBcma8wH4uxjr2c1VY1kGYL7KEEoPyc0Fpv516enYBqv%2FzNttm2mQ9SY9OdXbKPDrm6dfpoU3HEg3aa9sC%2BlVLZGK7eKkpMYmxoXkyLZPLrANxLGqvwJ5UCc8NE8lmPFKd06tH%2B82zKRtc8V6x63%2BclbvQBddRK14ApCq2vvVyGbex1P22dfZcBnuZ%2Fr7GvmonuJvNc0Z%2FJ2w8MiEs5CwmUIf01twMBNU7twc4N3Hv9O%2FsOj6150yO%2FsbpSQ7Hz5Ab2Kk9ttG3TRhsUvnAHmFWY1Y74VdxhfNj77Fk3x74wkDAxODheMxTMxJ%2B%2B4RGX1%2BSD5d%2F03%2Fki%2Ftr%2B62NWi9baTkfwWx7akO5QSCfkdTf9Ri5AS4pOQP0cZAXauT7m%2Bcw0S67%2FYCT6DXh%2FI9JdCQMmil9m8KRqb%2FUWMO5T1r9iCgiVUQOSW%2FPwJ%2FH%2BYfI1V61vAPuGYG0xcpmPwmgnQTY5bMJFxo4gyqB6jZSDKvChUOi7%2BzO%2BNtr4pwe8YfZyWmGzByM8cJgzSUawln7VpFb%2Bq9qAI9y3zvZksuL3OHi8dmtAz%2FZMgW%2Bwy2Q%2BLz4%2BwN%2FP%2F387vb2P%2FP36Nv11V8hfMjy%2BSC%2FEbML4MMCG7Rnx1Pk8IfVmvcJPLWoyYU9TM7TV%2FbomrXXehly2PWccaqA9iI6t6OH5Jlas4nedmxCC7OYvd5sBpPzMysmOT3n%2B9RqTsxK5ERpYiFYbdOpI45V8cMNIOpZY23TV2kxXtJeFBQ8GxdsxW4sbqeH4wrEbSEUFlQ42uKIXhin4%2BqDcy1CBWYWFjoZLX86Lhfd6NUD%2BXE4B0uAuCOBKEwb8EfBU6jgkBoy0jP7hsF9vCklYC6GbCCVHN44FZa1043DbSSp2hMc25IJmxQ2DkY2EwyrZzDXiZ%2B5jaM1WOFQ6ZkXqBvxAyttHza7t0gJjxxwOFZujN8I4UvkfNulGfVWq%2FqOSt0RRaXT9Vkr53KG1QnZ0aRDjQ7DpaHV710poDxf9WBHdTC3997KWypgr2TxOZoifR5yWHtvVTjkEGwD0ISPnny27h%2Fes3d%2F3ry1UPD9j9GX0K4SPO0UAVhYSoSpzRVyRpYoAACLc8otYXPKbGlxAzlH3tYCBGgfEZbT2xao4OOTUK2EAASs3UClBEj1Ctr%2FmeqPoDrOGnfuosqyb6JXSCkcEtElY0gISjnigggkDKILPjCiFw5bJTYvEDztdJ%2BT7Q2gfJDgFaqhOiU4Qzbltq2dHraOTtcjuLQHRnCbmyX3IyqgnL9OiV6hvKJbojOEuZBCcIQYowWTHiEl2omNGBdUSiaxKd1x5D8bEuGZMM66k1Dv5raoXlL6WF4J0o9V8WK90BlERrpylE507W70ATOF%2FsNP07yauUt%2FHtfJ4NsoqerfMOtf%2Fty6m2gLp2GuX8%2FRuOwzzlUfdQqjt1XmEuuvzl1CyYwDdJPVX2xkBEl0%2BXOnZ7%2FDWVOouLwtZE0dy4jKZVXtMvv2E6taT%2B%2BrXg1w6ESV7nOdYHfzmZTN1t1HmIyNAryR5NW3UWtyC5fn83SShB01HfDgsxtWUaHYwSMYdg9rwLWKU07Orv6rR9dufX1g4YKjr6h82zrP5XCK8lMTGsQ4pIEWHS2dNw7rtWjjo7tw7yNJQOLmko8SGc5a7VhFMmfvCOCieAAFxlmIlf66ANRldIq4KVSANj%2BgVMHtdQFIj1UaVmZ%2Bo%2BcNPA5jph2umsOOcJmGYCTHHAS1WKRRUiZdIaow4MwsYcRpqADz76E%2BZlkz1RY22Dkc%2FXCEH4bcNicr3exHW%2F%2BV73C52rlHleKdehsnyJpClnSDCAPXWzlLRQs%2FpooTAfyoLFP%2F6UDO1%2FNS0r32fqjOxFktj9H8AciKBhPUWutfVqVN%2Fzlif87E2Gw%2BiUjf%2BF8cOwC2gvAgxythgFHKn390CU55CKc0glEiNCB%2Ffy1BO%2FUXfhB%2F3WA%2BcX5Ru0YRChm%2Fxrb4NRoNTZzp13mEQEf5t%2F4S6XL99P4fybvqUqRJ0iZte2LJP9WHuIFdgJZKRbirzY4cWkEs3aUfVOy4X0a5kjhLnqDPNhkhNpWmyxJD6ciQUdZet0rapn%2B4l1Zu5RogfwSOBbYe7rr1rVWesdwBony1mupyzwj%2F5c70ijtwrP3tNLoCJMrC%2B7Z1N78snYexesD69YCIeMaNzQcRc6zMbLCLdrendkhSysk9HSgTuPfexpt4C%2B%2F08t%2Bh50vEDtqCaxa1eRxAn%2FM99wLocwpNSZbXmLq9KCRn2gpOvX2Hlh%2F9%2F92slvbXm3cfwrfsy8Mwzg8HHIjV1r98sQkzHfYMbG%2Famn0KrvbQEv45I1hQyojNOaa4WCFNkI0opZYtbCYsjThPr5Bug8op3s6ozCHHcXtl0iCVqxx%2FcajZZ4UV3bU64iRtbRS3OiIXdRsdXUBBktPiMIdEzNFWXhymdUddPonRnHNEicEfVbt2YfNoS26ixOaiQeCCl%2BcgN98O5tKP2hOq7xPBiDDOrK2OI87RAmlDkIlC2goBrZDMo910p3mQk4bqzWiBAswyQpBEjIUldz9FUrTm2wBpAbZX6cxQ%2BORG4S3TCb3zcoBujcjtsYzsKDrbLp6PN2%2BXhXk%2BFdqy6JgcZGHQ1mjCpwFzMC6Q6rwTVva6sutcuHxbdmylN%2Bo0Zm8bjMkiGCsHbY1nyox0EzAsJUaSISEFZ0YJl1JvY0ptxJm0sCUts%2FVKy8gJV8n4eHyv3D2%2BYSzPNpINkWtSg%2FhUtukGw2Nk5z0sQlLFTQUBWLtxP5Y6pilshBTLSjvLMt05cuyxJTGWTCDGbZzWk3fFtRX6hHbrVtC5Wlw7UrD%2BV2wkMHS3AlcbM5%2FbPFJMOtbRxOyHAIBQAoCwNTdDlbZhTwWdU5x39HAhx1IOCZ33mnj%2Bu1eMWOiMhEUMvedHrPJn5P1Y9jSPiJF8bB1mT6i90Al2vLoMfM0cO4WipfN7f%2BbqJ%2F4f"></iframe>
 <figcaption align='center'>
  <h6> <b>Figura 2 – Diagrama SIG 01 - Usabilidade</b><br>
-  Fonte: Philipe </h6>
+  Fonte: Philipe, João Pedro </h6>
 </figcaption>
 
 ### Análise do SIG 01
@@ -41,7 +41,7 @@
 
 <figcaption align='center'>
  <h6> <b>Figura 3 – Análise diagrama SIG 01 - Usabilidade </b><br>
-  Fonte: Philipe </h6>
+  Fonte: Philipe, João Pedro </h6>
 </figcaption>
 
 
@@ -62,7 +62,7 @@
 ![NFR02](../assest/NFRdes-propa.png)
 <figcaption align='center'>
  <h6> <b>Figura 5 –  Análise diagrama SIG 02 - Desempenho </b><br>
-  Fonte: Philipe </h6>
+  Fonte: Philipe, João Pedro </h6>
 </figcaption>
 
 ### SIG 03 - Confiabilidade
@@ -71,7 +71,7 @@
 ![NFR02](../assest/NFR-conf.png)
 <figcaption align='center'>
  <h6> <b>Figura 6 – Diagrama SIG 03 - Confiabilidade </b><br>
-  Fonte: Philipe </h6>
+  Fonte: Philipe, João Pedro </h6>
 </figcaption>
 
 ### Análise SIG 03 - Confiabilidade
@@ -80,7 +80,7 @@
 ![NFR02](../assest/NFRconfanalise.png)
 <figcaption align='center'>
  <h6> <b>Figura 7 – Análise do diagrama SIG 03 - Confiabilidade </b><br>
-  Fonte: Philipe </h6>
+  Fonte: Philipe, João Pedro </h6>
 </figcaption>
 
 ### SIG 04 - Suportabilidade
@@ -89,16 +89,16 @@
 ![NFR02](../assest/NRF-supp.png)
 <figcaption align='center'>
  <h6> <b>Figura 8 – Diagrama SIG 04 - Suportabilidade </b><br>
-  Fonte: Philipe </h6>
+  Fonte: Philipe, João Pedro </h6>
 </figcaption>
 
 ### Análise SIG 04 - Suportabilidade
-&emsp;&emsp; Na (<i>Figura 9</i>) temos a o SIG 04 com a propagação.
+&emsp;&emsp; Na (<i>Figura 9</i>) temos a o SIG 04 referente a suportabilidade do aplicativo Grasshopper, com a propagação.
 
 ![NFR02](../assest/NRF-suppanalise.png)
 <figcaption align='center'>
  <h6> <b>Figura 9 – Análise do diagrama SIG 04 - Suportabilidade </b><br>
-  Fonte: Philipe </h6>
+  Fonte: Philipe, João Pedro </h6>
 </figcaption>
 
 
@@ -114,3 +114,4 @@
 | Versão |    Data    |          Descrição          |      Autor      |     Revisor      |
 | :----: | :--------: | :-------------------------: | :-------------: | :--------------: |
 |  1.0   | 02/01/2023 | Início da página sobre NFR  |   Philipe   | João |
+|  1.1   | 02/01/2023 | Fontes Sigs  |   Philipe, João Pedro   | João |
