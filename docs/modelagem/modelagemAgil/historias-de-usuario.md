@@ -69,7 +69,7 @@
 
 |  ID  | Eu, como... | Gostaria de... | Para que... | Critérios de Aceitação |
 | :--: | :---------: | :------------: | :-----: | ---------------------- |
-| US05 | Usuário | Enviar feedback ao app | Necessidade/Benefício | > <br>> <br>> <br>> <br>> |
+| US05 | Usuário | Enviar feedback ao app | Necessidade/Benefício | > Deve ser possível realizar uma ação de envio de feedback sobre o aplicativo<br>>  O sistema deve notificar o usuário quando ao andamento desse feedback|
 
 <figcaption align="center">Tabela 6: História de usuário 5 (Fonte: Autores, 2022).</figcaption>
 
@@ -79,7 +79,7 @@
 
 |  ID  | Eu, como... | Gostaria de... | Para que... | Critérios de Aceitação |
 | :--: | :---------: | :------------: | :-----: | ---------------------- |
-| US06 | Usuário | Relatar bug do app | Necessidade/Benefício | > <br>> <br>> <br>> <br>> |
+| US06 | Usuário | Relatar bug do app | Necessidade/Benefício | > Deve ser possível relatar bug ou erros na plataforma<br>> O sistema deve notificar o usuário quando a resolução desse bug ou erro|
 
 <figcaption align="center">Tabela 7: História de usuário 6 (Fonte: Autores, 2022).</figcaption>
 
@@ -119,7 +119,7 @@
 
 |  ID  | Eu, como... | Gostaria de... | Para que... | Critérios de Aceitação |
 | :--: | :---------: | :------------: | :-----: | ---------------------- |
-| US10 | Usuário | Escolher a atividade que desejo fazer | Necessidade/Benefício | > <br>> <br>> <br>> <br>> |
+| US10 | Usuário | Escolher a atividade que desejo fazer | Necessidade/Benefício | > Quando o usuário entra na aplicação<br>>usuário consegue visualizar atividades<br>> usuário seleciona determinada atividade|
 
 <figcaption align="center">Tabela 11: História de usuário 10 (Fonte: Autores, 2022).</figcaption>
 
@@ -129,7 +129,7 @@
 
 |  ID  | Eu, como... | Gostaria de... | Para que... | Critérios de Aceitação |
 | :--: | :---------: | :------------: | :-----: | ---------------------- |
-| US11 | Usuário | Ver os erros cometidos e tentar refazer | Necessidade/Benefício | > <br>> <br>> <br>> <br>> |
+| US11 | Usuário | Ver os erros cometidos e tentar refazer | Necessidade/Benefício | > Deve ser possível vê os  erros<br>> Deve haver uma opção pra refazer |
 
 <figcaption align="center">Tabela 12: História de usuário 11 (Fonte: Autores, 2022).</figcaption>
 
@@ -139,7 +139,7 @@
 
 |  ID  | Eu, como... | Gostaria de... | Para que... | Critérios de Aceitação |
 | :--: | :---------: | :------------: | :-----: | ---------------------- |
-| US12 | Usuário | Escolher lições rápidas | Necessidade/Benefício | > <br>> <br>> <br>> <br>> |
+| US12 | Usuário | Escolher lições rápidas | Necessidade/Benefício | >Deve ser possível visualizar as lições rápidas<br>>  Deve ser possível escolher uma lição rápida|
 
 <figcaption align="center">Tabela 13: História de usuário 12 (Fonte: Autores, 2022).</figcaption>
 
@@ -149,7 +149,7 @@
 
 |  ID  | Eu, como... | Gostaria de... | Para que... | Critérios de Aceitação |
 | :--: | :---------: | :------------: | :-----: | ---------------------- |
-| US13 | Usuário | Ver o código sendo executado | Necessidade/Benefício | > <br>> <br>> <br>> <br>> |
+| US13 | Usuário | Ver o código sendo executado | Necessidade/Benefício | > O usuário deve conseguir vê o debug<br>> O usuario deve conseguir passar etapas do debug |
 
 <figcaption align="center">Tabela 14: História de usuário 13 (Fonte: Autores, 2022).</figcaption>
 
@@ -159,7 +159,7 @@
 
 |  ID  | Eu, como... | Gostaria de... | Para que... | Critérios de Aceitação |
 | :--: | :---------: | :------------: | :-----: | ---------------------- |
-| US14 | Usuário | Pedir dicas | Necessidade/Benefício | > <br>> <br>> <br>> <br>> |
+| US14 | Usuário | Pedir dicas | Necessidade/Benefício | > Ao realizar a ação de pedir dicas, deve aparecer as dicas da atividade<br>> Deve aparecer ser possível visualizar mais de uma dica por atividade|
 
 <figcaption align="center">Tabela 15: História de usuário 14 (Fonte: Autores, 2022).</figcaption>
 
@@ -169,7 +169,7 @@
 
 |  ID  | Eu, como... | Gostaria de... | Para que... | Critérios de Aceitação |
 | :--: | :---------: | :------------: | :-----: | ---------------------- |
-| US15 | Usuário | poder criar conta dentro do aplicativo | Necessidade/Benefício | > <br>> <br>> <br>> <br>> |
+| US15 | Usuário | Escolher nível de dificuldade | Necessidade/Benefício | > O consegue visualizar diferentes nívels de dificuldade<br>> O usuário consegue escolher um nível de dificuldade|
 
 <figcaption align="center">Tabela 15: História de usuário 15 (Fonte: Autores, 2022).</figcaption>
 
@@ -178,7 +178,7 @@
 
 |  ID  | Eu, como... | Gostaria de... | Para que... | Critérios de Aceitação |
 | :--: | :---------: | :------------: | :-----: | ---------------------- |
-| US17 | Usuário | pode compartilhar uma atividade| Necessidade/Benefício | > Deve gerar um link para o usuário<br>> <br>> <br>> <br>> |
+| US17 | Usuário | pode compartilhar uma atividade| Necessidade/Benefício | > Deve gerar um link para o usuário<br>> O usuário consegue copiar esse link  |
 
 <figcaption align="center">Tabela 16: História de usuário 16 (Fonte: Autores, 2022).</figcaption>
 
@@ -187,7 +187,7 @@
 
 |  ID  | Eu, como... | Gostaria de... | Para que... | Critérios de Aceitação |
 | :--: | :---------: | :------------: | :-----: | ---------------------- |
-| US17 | Usuário | Alterar dados do usuário | Necessidade/Benefício | >O usuário deve estar logado <br>> Os dados alterados devem respeitar os padrões de caracteres do aplicativo <br>> <br>> <br>> |
+| US17 | Usuário | Alterar dados do usuário | Necessidade/Benefício | >O usuário deve estar logado <br>> Os dados alterados devem respeitar os padrões de caracteres do aplicativo |
 
 <figcaption align="center">Tabela 17: História de usuário 17 (Fonte: Autores, 2022).</figcaption>
 
@@ -197,7 +197,7 @@
 
 |  ID  | Eu, como... | Gostaria de... | Para que... | Critérios de Aceitação |
 | :--: | :---------: | :------------: | :-----: | ---------------------- |
-| US18 | Usuário | Enviar convites para meus amigos entrarem no aplicativo | Necessidade/Benefício | >O aplicativo deve gerar um link de convite <br>> <br>> <br>> <br>> |
+| US18 | Usuário | Enviar convites para meus amigos entrarem no aplicativo | Necessidade/Benefício | >O aplicativo deve gerar um link de convite <br>>  deve ser possível copiar esse link|
 
 <figcaption align="center">Tabela 18: História de usuário 18 (Fonte: Autores, 2022).</figcaption>
 
@@ -207,7 +207,7 @@
 
 |  ID  | Eu, como... | Gostaria de... | Para que... | Critérios de Aceitação |
 | :--: | :---------: | :------------: | :-----: | ---------------------- |
-| US19 | Usuário | vê ranking diário de outros usuários | Necessidade/Benefício | > Deve concluir no minimo uma questão no dia para ter acesso ao Ranking <br>> <br>> <br>> <br>> |
+| US19 | Usuário | vê ranking diário de outros usuários | Necessidade/Benefício | > Deve concluir no minimo uma questão no dia para ter acesso ao Ranking <br>> Deve ser possível uma lista contendo os ranking dos usuários |
 
 <figcaption align="center">Tabela 19: História de usuário 19 (Fonte: Autores, 2022).</figcaption>
 
@@ -217,7 +217,7 @@
 
 |  ID  | Eu, como... | Gostaria de... | Para que... | Critérios de Aceitação |
 | :--: | :---------: | :------------: | :-----: | ---------------------- |
-| US20 | Usuário | desejo realizar um teste de nivelamento para que eu possa fazer aulas do curso que sejam consistentes com meu conhecimento | Necessidade/Benefício | > No aplicativo deve haver a opção de fazer um teste de nivelamento  <br>> <br>> <br>> <br>> |
+| US20 | Usuário | desejo realizar um teste de nivelamento para que eu possa fazer aulas do curso que sejam consistentes com meu conhecimento | Necessidade/Benefício | > No aplicativo deve haver a opção de fazer um teste de nivelamento  <br>> O usuario deve cnseguir vê em qual nível de encontra  |
 
 <figcaption align="center">Tabela 20: História de usuário 20 (Fonte: Autores, 2022).</figcaption>
 
@@ -226,7 +226,7 @@
 
 |  ID  | Eu, como... | Gostaria de... | Para que... | Critérios de Aceitação |
 | :--: | :---------: | :------------: | :-----: | ---------------------- |
-| US21 | Usuário | desejo criar snippet de código | Necessidade/Benefício | > No aplicativo deve haver a opção de fazer um teste de nivelamento  <br>> <br>> <br>> <br>> |
+| US21 | Usuário | desejo criar snippet de código | Necessidade/Benefício | > O aplicativo deve conseguir salvar os snippets  <br>> Deve ser possivel visualizar a biblioteca de snippets de codigos criadas |
 
 <figcaption align="center">Tabela 21: História de usuário 21 (Fonte: Autores, 2022).</figcaption>
 
@@ -236,7 +236,7 @@
 
 |  ID  | Eu, como... | Gostaria de... | Para que... | Critérios de Aceitação |
 | :--: | :---------: | :------------: | :-----: | ---------------------- |
-| US22 | Usuário | deseja criar uma comunidade | Necessidade/Benefício | > No aplicativo deve ter a opção de criar uma comunidade<br>> <br>> <br>> <br>> |
+| US22 | Usuário | deseja criar uma comunidade | Necessidade/Benefício | > No aplicativo deve ter a opção de criar uma comunidade<br>> Deve ser possível convidar membros para dentro da comunidade |
 
 <figcaption align="center">Tabela 22: História de usuário 22 (Fonte: Autores, 2022).</figcaption>
 
