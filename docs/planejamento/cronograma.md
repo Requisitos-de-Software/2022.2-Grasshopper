@@ -65,8 +65,8 @@ OBS.: as gravações das apresentações ocorrerão sempre 1 dia antes da data d
 
 | Tarefa | Autor | Entrega | Revisor | Revisão | Início da Realização | Fim da Realização |
 | :----: | :---: | :-----: | :-----: | :-----: | :------------------: | :---------------: |
-| Histórias de Usuário | Caio Vitor, Lucas Lopes | 02/01 | Hellen Fernanda |  03/01   | - | - |
-| Backlogs | Wildemberg Sales, Hellen Fernanda | 02/01 | Caio Vitor |  03/01   | - | - |
+| Histórias de Usuário | Caio Vitor, Lucas Lopes | 02/01 | Hellen Fernanda |  03/01   | 13/12 | 03/01 |
+| Backlogs | Wildemberg Sales, Hellen Fernanda | 02/01 | Caio Vitor |  03/01   | 29/12 | 01/01 |
 | NFR Framework | João Pedro, Philipe de Sousa | 02/01 | João Pedro |  03/01   | 29/12| 02/01 |
 | Atas das Reuniões | Lucas Lopes | 02/01 | Philipe de Sousa |  03/01   | - | - |
 
