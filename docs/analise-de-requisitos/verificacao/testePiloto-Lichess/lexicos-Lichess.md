@@ -37,8 +37,12 @@
 
 <figcaption align="center">Tabela 2: Critérios específicos do artefato. (Fonte: Autores, 2022)</figcaption>
 
+## Conclusão
+
+<p align="justify">O artefato foi elaborado com sucesso, possui tudo o que foi pedido, os únicos pontos a serem abordados são a falta de legenda das tabelas de léxicos, a chamada das tabelas, e um outro item bastante importante para o artefato que é a definição de que usuário está relacionado com os léxicos, é um ponto importante a ser consertado, mas fora isto, está completo.</p>
 
 ## Histórico de versão
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 06/01/2023 |  Criação do artefato de avaliação de léxicos do Lichess | Wildemberg Sales | Caio Vitor |
+| 1.1 | 06/01/2023 | Adicionando conclusão ao artefato | Wildemberg Sales | Caio Vitor |
