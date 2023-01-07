@@ -8,10 +8,17 @@
 ## 2. Metodologia
 <p align="justify">&emsp;&emsp;Essa técnica pode ser considerada uma das mais simples, uma vez que consiste em fazer uma escolha binária para cada um dos requisitos In (dentro) ou Out (fora), representando se ele deveria ser implementado nessa release do projeto ou não, respectivamente. Dessa forma, ao percorrer do desenvolvimento do projeto, pode-se voltar na lista e trabalhar com os requisitos que inicialmente foram escolhidos como Out, a fim de decidir se devem ser implementados na próxima etapa.</p>
 
-<p align="justify">&emsp;&emsp;A partir disso, o integrante do grupo Caio Vitor se reuniu com um usuário do GrassHopper não integrante da equipe e pediu/guiou a realização da técnica. O nome desse usuário externo é Pedro Henrique, 20 anos e cursa Engenharia de Software.</p>
+<p align="justify">&emsp;&emsp;A partir disso, o integrante do grupo Caio Vitor se reuniu com um usuário do GrassHopper não integrante da equipe e pediu/guiou a realização da técnica. O nome desse usuário externo é Pedro Henrique, 20 anos e cursa Engenharia de Software. A <i>Tabela 1</i> a seguir contém os participantes e cronograma para a priorização In or Out.</p>
 
+| Participantes | Data | Horário | Local |
+| ---- | | | |
+| Wildemberg e Caio | 29/11 | 19:20 | Conferência on-line |
+
+<figcaption align="center">Tabela 1: Participantes e cronograma (Fonte: Autores, 2022).</figcaption>
 
 # Requisitos Funcionais
+
+<p align="justify">A <i>Tabela 2</i> a seguir contém a priorização dos Requisitos funcionais elicitados.</p>
 
 |     ID     |                                                         Requisito                                                         |  Técnica  | Prioridade |
 | :--------: | :-----------------------------------------------------------------------------------------------------------------------: |:---------:| :--------: |
@@ -71,7 +78,12 @@
 | OBS29 | Deve ser possível excluir conta, caso esteja logada |Observação|in|
 | OBS30 | Deve ser possível visualizar conquistas (conceitos desbloqueados, teclas JavaScript usadas e sequência de programação do dia) |Observação|in|
 
+<figcaption align="center">Tabela 2: Lista de requisitos funcionais. (Fonte: Autores, 2022).</figcaption>
+
+
 ## Requisitos Não Funcionais
+
+<p align="justify">A <i>Tabela 3</i> a seguir contém a priorização dos Requisitos não-funcionais elicitados.</p>
 
 |     ID     |                                                         Requisito                                                         |  Técnica  | Prioridade |
 | :--------: | :-----------------------------------------------------------------------------------------------------------------------: |:---------:| :--------: |
@@ -97,6 +109,8 @@
 | OBS34 | O app deve ser gameficado |Observação|in|
 | OBS35 | O sistema deve garantir segurança dos dados do usuário |Observação|in|
 
+<figcaption align="center">Tabela 3: Lista de requisitos funcionais. (Fonte: Autores, 2022).</figcaption>
+
 ## Gravação
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FktdLE6fQ94?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -106,4 +120,6 @@
 | Versão |    Data    |                                 Descrição                                 |          Autor           |     Revisor      |
 | :----: | :--------: | :-----------------------------------------------------------------------: | :----------------------: | :--------------: |
 |  1.0   | 29/11/2022 |   Conceito de priorização ir or out e construção das tabelas   | Caio, João, Hellen    |  Wildemberg Sales    |
+|  1.1   | 06/01/2023 |                  Correções da verificação         |     Philipe     |        João        |
+
 

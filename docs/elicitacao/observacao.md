@@ -4,7 +4,7 @@
 <p align="justify">&emsp;&emsp;A técnica de elicitação através da observação consiste em inserir o engenheiro de requisitos responsável pela elicitação dos dados no contexto do sistema. O engenheiro deve estar atento a todas atividades dos envolvidos e descrevê-las de forma a ser inserida na descrição do requisito.</p>
 
 ## Metodologia
-<p align="justify">&emsp;&emsp;Para realizar a técnica de observação, os participantes, individualmente, navegaram pelo aplicativo observando cada um dos possíveis requisitos funcionais e não funcionais.</p>
+<p align="justify">&emsp;&emsp;Para realizar a técnica de observação, os participantes, individualmente, navegaram pelo aplicativo observando cada um dos possíveis requisitos funcionais e não funcionais. Os participantes e cronograma estão descritos a seguir na <i>Tabela 1<i>.</p>
 
 | Participantes | Data | Horário | Local |
 | ---- | | | |
@@ -17,6 +17,8 @@
 <p align="justify">&emsp;&emsp;Com a técnica de observação, foram elicitados os seguintes requisitos identificados na Tabela 2, referente aos requisitos funcionais, e na Tabela 3, referente aos requisitos não funcionais.</p>
 
 ### Requisitos Funcionais
+
+<p align="justify">A <i>Tabela 2</i> a seguir contém os Requisitos funcionais elicitados através da Observação.</p>
 
 | ID | Requisitos |
 | :--: | ---- |
@@ -54,6 +56,8 @@
 
 
 ### Requisitos Não-Funcionais
+
+<p align="justify">A <i>Tabela 3</i> a seguir contém os Requisitos funcionais elicitados através da Observação.</p>
 
 | ID | Requisitos |
 | :--: | ---- |

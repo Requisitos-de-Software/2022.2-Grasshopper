@@ -49,6 +49,8 @@ nav:
           - Personas: analise-de-requisitos/verificacao/personas-verificacao.md
           - Storytelling: analise-de-requisitos/verificacao/storytelling-verificacao.md
           - Observação: analise-de-requisitos/verificacao/observacao-verificacao.md
+          - Brainstorm: analise-de-requisitos/verificacao/brainstorming-verificacao.md
+          - In or Out: analise-de-requisitos/verificacao/inorout-verificacao.md
           - Teste Piloto - Lichess:
             - Rich Picture: analise-de-requisitos/verificacao/testePiloto-Lichess/richpicture-Lichess.md
             - Personas: analise-de-requisitos/verificacao/testePiloto-Lichess/personas-Lichess.md

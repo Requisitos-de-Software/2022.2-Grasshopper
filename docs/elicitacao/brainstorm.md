@@ -9,14 +9,15 @@
 
 ## Participantes da sessão
 
-<ul>
-<li>Caio</li>
-<li>Hellen</li>
-<li>João</li>
-<li>Lucas</li>
-<li>Philipe</li>
-<li>Wildemberg</li>
-</ul>
+<p align="justify">A <i>Tabela 1</i> a seguir contém os participantes e o cronograma da elicitação.</p>
+
+
+| Participantes | Data | Horário | Local |
+| ---- | | | |
+| Lucas Lopes, Caio, Hellen, João, Philipe e Wildemberg | 26/11 | 20:30 | Conferência on-line |
+
+<figcaption>Tabela 1: Participantes da elicitação cronograma. (Fonte: Autores, 2022)</figcaption>
+
 
 <div style="text-align:center"><img src= "../assets/brain.png"/></div>
 <figcaption>Imagem 1: Captura de tela realizado no Brainstorm  </figcaption>
@@ -26,6 +27,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r7hI3xLSlbc?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Requisitos Funcionais
+
+<p align="justify">A <i>Tabela 2</i> a seguir contém os Requisitos funcionais elicitados através do Brainstorm.</p>
 
 |     ID     |                                 Requisito                                 |
 | :--------: | :-----------------------------------------------------------------------: |
@@ -47,7 +50,12 @@
 | BS16(RF16) |       O usuário deve poder pedir dicas nos exercicios que desejar.        |
 | BS17(RF17) |          O usuário deve poder se cadastrar ou logar no sistema.           |
 
+<figcaption align="center">Tabela 2: Requisitos funcionais elicitados através do Brainstorm. (Fonte: Autores, 2022)</figcaption>
+
+
 ## Requisitos Não Funcionais
+
+<p align="justify">A <i>Tabela 3</i> a seguir contém os Requisitos não-funcionais elicitados através do Brainstorm.</p>
 
 |     ID      |                                   Requisito                                   |
 | :---------: | :---------------------------------------------------------------------------: |
@@ -63,14 +71,19 @@
 | BS27(RNF10) |             O sistema deve conter uma ferramenta de nívelamento.              |
 | BS28(RNF11) |            O sistema deve conter atividades baseadas no cotidiano.            |
 
+<figcaption align="center">Tabela 3: Requisitos não-funcionais elicitados através da Brainstorm. (Fonte: Autores, 2022)</figcaption>
+
+
 ## Histórico de versão
 
 | Versão |    Data    |                                 Descrição                                 |          Autor           |     Revisor      |
 | :----: | :--------: | :-----------------------------------------------------------------------: | :----------------------: | :--------------: |
-|  1.0   | 24/11/2022 |               Conceito de brainstorm e construção da tabela               |          Hellen          |        -         |
-|  1.1   | 26/11/2022 |                     Adição da gravação de Brainstorm                      |       Lucas Lopes        |        -         |
+|  1.0   | 24/11/2022 |               Conceito de brainstorm e construção da tabela               |          Hellen          |        Philipe de Sousa         |
+|  1.1   | 26/11/2022 |                     Adição da gravação de Brainstorm                      |       Lucas Lopes        |        Philipe de Sousa         |
 |  1.2   | 26/11/2022 | Adição dos requisitos funcionais e não funcionais obtidos pelo brainstorm | João Pedro Alves Machado | Philipe de Sousa |
-|  1.3   | 28/11/2022 |                  Organizando tabelas e fazendo correções                  |     Hellen Fernanda      |        -         |
+|  1.3   | 28/11/2022 |                  Organizando tabelas e fazendo correções                  |     Hellen Fernanda      |        Philipe de Sousa         |
+|  1.4   | 06/01/2023 |                  Correções da verificação         |     Philipe     |        João        |
+
 
 ## Referência
 
