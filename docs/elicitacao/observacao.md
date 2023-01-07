@@ -1,19 +1,20 @@
 # Observação
 
 ## Introdução
-A técnica de elicitação através da observação consiste em inserir o engenheiro de requisitos responsável pela elicitação dos dados no contexto do sistema. O engenheiro deve estar atento a todas atividades dos envolvidos e descrevê-las de forma a ser inserida na descrição do requisito.
+<p align="justify">&emsp;&emsp;A técnica de elicitação através da observação consiste em inserir o engenheiro de requisitos responsável pela elicitação dos dados no contexto do sistema. O engenheiro deve estar atento a todas atividades dos envolvidos e descrevê-las de forma a ser inserida na descrição do requisito.</p>
 
 ## Metodologia
-Para realizar a técnica de observação, os participantes, individualmente, navegaram pelo aplicativo observando cada um dos possíveis requisitos funcionais e não funcionais.
+<p align="justify">&emsp;&emsp;Para realizar a técnica de observação, os participantes, individualmente, navegaram pelo aplicativo observando cada um dos possíveis requisitos funcionais e não funcionais.</p>
 
-| Participantes |
-| ---- |
-| Lucas Lopes |
-| Caio Vitor |
-<figcaption>Tabela 1: Participantes da elicitação. (Fonte: Autores, 2022)</figcaption>
+| Participantes | Data | Horário | Local |
+| ---- | | | |
+| Lucas Lopes e Caio | 27/11 | 20:15 | Conferência on-line |
+
+
+<figcaption>Tabela 1: Participantes da elicitação cronograma. (Fonte: Autores, 2022)</figcaption>
 
 ## Resultados
-Com a técnica de observação, foram elicitados os seguintes requisitos identificados na Tabela 2, referente aos requisitos funcionais, e na Tabela 3, referente aos requisitos não funcionais.
+<p align="justify">&emsp;&emsp;Com a técnica de observação, foram elicitados os seguintes requisitos identificados na Tabela 2, referente aos requisitos funcionais, e na Tabela 3, referente aos requisitos não funcionais.</p>
 
 ### Requisitos Funcionais
 
@@ -75,3 +76,4 @@ Com a técnica de observação, foram elicitados os seguintes requisitos identif
 | 1.0 | 26/11/2022 | Inicialização da página | Lucas Lopes | João Pedro |
 | 1.1 | 27/11/2022 | Adição dos requisitos funcionais | Lucas Lopes | João Pedro |
 | 1.2 | 27/11/2022 | Adição dos requisitos não funcionais | Lucas Lopes | João Pedro |
+| 1.3 | 06/01/2023 | Adição das correções da verificação | Philipe | João Pedro |
