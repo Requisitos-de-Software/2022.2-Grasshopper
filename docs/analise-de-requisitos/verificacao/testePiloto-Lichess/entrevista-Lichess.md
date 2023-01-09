@@ -7,11 +7,11 @@
 <p align="justify">A <i>Tabela 1</i> a seguir descreve os critérios gerais, ou seja, que todos os artefatos desenvolvidos devem estar de acordo.</p>
 
 
-| ID | Verificação | Resposta | Foi corrigido? |
+| ID | Verificação | Resposta | Observação |
 | :--: | :-------: | :------: | :------------: |
 | 1 | Contém um texto fazendo introdução ao artefato? | ✔ |  |
 | 2 | Os textos estão ortograficamente corretos? | ✔ |  |
-| 3 | Os textos estão em formato justificado?<br><i>&lt;p align="justify"&gt;&lt;/p&gt;</i> | ✖ |  |
+| 3 | Os textos estão em formato justificado?<br><i>&lt;p align="justify"&gt;&lt;/p&gt;</i> |  |  |
 | 4 | As tabelas e/ou figuras contém legenda (título e fonte)? | ✔ |  |
 | 5 | As legendas das figuras e tabelas estão conforme padrão?<br><i>&lt;figcaption align="center"&gt;&lt;/figcaption&gt;</i> | ✔ |  |
 | 6 | As tabelas e/ou figuras são chamadas dentro dos textos? | ✔ |  |
@@ -26,7 +26,7 @@
 ## Verificações específicas
 <p align="justify">A <i>Tabela 2</i> a seguir descreve os critérios específicos do artefato de Observação e informa se está de acordo com o esperado.</p>
 
-| ID | Verificação | Resposta | Foi corrigido? |
+| ID | Verificação | Resposta | Observação |
 | :--: | :-------: | :------: | :------------: |
 | 12 | Os requisitos estão escritos de forma correta e clara? | ✔ |  |
 | 13 | Apresenta os participantes da entrevista? | ✔ |  |
@@ -34,7 +34,7 @@
 | 15 | A listagem de requisitos está identificando quais são os Requisitos Funcionais?| ✔ |  |
 | 16 | A listagem de requisitos está identificando quais são os Requisitos Não-Funcionais?| ✔ |  |
 | 17 | A participação do cliente e/ou persona na elicitação de requisitos? | ✔ |  |
-| 18 | A gravação e registros da elicitação dos requisitos? | ✖ |  |
+| 18 | A gravação e registros da elicitação dos requisitos? | ✖ | Não consta a gravação da elicitação. |
 | 19 | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? | ✔ |  |
 | 20 | É descrita a técnica de entrevista utilizada? | ✔ |  |
 | 21 | É descrita as perguntas que serão feitas na entrevista? | ✔ |  |
