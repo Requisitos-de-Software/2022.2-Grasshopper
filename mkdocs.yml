@@ -62,6 +62,8 @@ nav:
               - First Things First: analise-de-requisitos/verificacao/testePiloto-Lichess/Ftf-Lichess.md
               - Especificação Suplementar: analise-de-requisitos/verificacao/testePiloto-Lichess/especificacao-suplementar.md
               - História de Usuário: analise-de-requisitos/verificacao/testePiloto-Lichess/historia-usuario.md
+              - Moscow: analise-de-requisitos/verificacao/testePiloto-Lichess/moscow-Lichess.md
+              - Cenarios: analise-de-requisitos/verificacao/testePiloto-Lichess/Cenarios-Lichess.md
 
   - Atas das Reuniões:
       - Reunião 1 - 15/11/2022: atas-das-reunioes/reuniao1.md
