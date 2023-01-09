@@ -39,9 +39,9 @@ nav:
       - Casos de Uso: modelagem/casos-de-uso.md
       - Especifição Suplementar: modelagem/especificao-suplementar.md
       - Ágil:
-        - Backlog: modelagem/modelagemAgil/backlog.md 
-        - Histórias de Usuário: modelagem/modelagemAgil/historias-de-usuario.md
-        - NFR Framework: modelagem/modelagemAgil/nfr-framework.md
+          - Backlog: modelagem/modelagemAgil/backlog.md
+          - Histórias de Usuário: modelagem/modelagemAgil/historias-de-usuario.md
+          - NFR Framework: modelagem/modelagemAgil/nfr-framework.md
   - Análise de Requisitos:
       - Verificação:
           - Modelo Padrão: analise-de-requisitos/verificacao/modelo-padrao.md
@@ -51,16 +51,17 @@ nav:
           - Observação: analise-de-requisitos/verificacao/observacao-verificacao.md
           - Brainstorm: analise-de-requisitos/verificacao/brainstorming-verificacao.md
           - In or Out: analise-de-requisitos/verificacao/inorout-verificacao.md
+          - Especificação Suplementar: analise-de-requisitos/verificacao/especificacao-suplementar.md
           - Teste Piloto - Lichess:
-            - Rich Picture: analise-de-requisitos/verificacao/testePiloto-Lichess/richpicture-Lichess.md
-            - Personas: analise-de-requisitos/verificacao/testePiloto-Lichess/personas-Lichess.md
-            - Storytelling: analise-de-requisitos/verificacao/testePiloto-Lichess/storytelling-Lichess.md
-            - Léxicos: analide-de-requisitos/verificacao/testePiloto-Lichess/lexicos-Lichess.md
-            - Casos de Uso: analide-de-requisitos/verificacao/testePiloto-Lichess/casos-de-uso.md
-            - Brainstorm: analise-de-requisitos/verificacao/testePiloto-Lichess/brainstorm-Lichess.md
-            - Entrevista: analise-de-requisitos/verificacao/testePiloto-Lichess/entrevista-Lichess.md
-            - First Things First: analise-de-requisitos/verificacao/testePiloto-Lichess/Ftf-Lichess.md
-            
+              - Rich Picture: analise-de-requisitos/verificacao/testePiloto-Lichess/richpicture-Lichess.md
+              - Personas: analise-de-requisitos/verificacao/testePiloto-Lichess/personas-Lichess.md
+              - Storytelling: analise-de-requisitos/verificacao/testePiloto-Lichess/storytelling-Lichess.md
+              - Léxicos: analide-de-requisitos/verificacao/testePiloto-Lichess/lexicos-Lichess.md
+              - Casos de Uso: analide-de-requisitos/verificacao/testePiloto-Lichess/casos-de-uso.md
+              - Brainstorm: analise-de-requisitos/verificacao/testePiloto-Lichess/brainstorm-Lichess.md
+              - Entrevista: analise-de-requisitos/verificacao/testePiloto-Lichess/entrevista-Lichess.md
+              - First Things First: analise-de-requisitos/verificacao/testePiloto-Lichess/Ftf-Lichess.md
+
   - Atas das Reuniões:
       - Reunião 1 - 15/11/2022: atas-das-reunioes/reuniao1.md
       - Reunião 2 - 17/11/2022: atas-das-reunioes/reuniao2.md
