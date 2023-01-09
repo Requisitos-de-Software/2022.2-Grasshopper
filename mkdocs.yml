@@ -52,6 +52,7 @@ nav:
           - Brainstorm: analise-de-requisitos/verificacao/brainstorming-verificacao.md
           - In or Out: analise-de-requisitos/verificacao/inorout-verificacao.md
           - Especificação Suplementar: analise-de-requisitos/verificacao/especificacao-suplementar.md
+          - História de Usuário: analise-de-requisitos/verificacao/historia-usuario.md
           - Teste Piloto - Lichess:
               - Rich Picture: analise-de-requisitos/verificacao/testePiloto-Lichess/richpicture-Lichess.md
               - Personas: analise-de-requisitos/verificacao/testePiloto-Lichess/personas-Lichess.md
