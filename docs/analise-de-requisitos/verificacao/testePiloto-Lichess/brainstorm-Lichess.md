@@ -7,7 +7,7 @@
 <p align="justify">A <i>Tabela 1</i> a seguir descreve os critérios gerais, ou seja, que todos os artefatos desenvolvidos devem estar de acordo.</p>
 
 
-| ID | Verificação | Resposta | Foi corrigido? |
+| ID | Verificação | Resposta | Observação |
 | :--: | :-------: | :------: | :------------: |
 | 1 | Contém um texto fazendo introdução ao artefato? | ✔ |  |
 | 2 | Os textos estão ortograficamente corretos? | ✔ |  |
@@ -26,15 +26,15 @@
 ## Verificações específicas
 <p align="justify">A <i>Tabela 2</i> a seguir descreve os critérios específicos do artefato de Observação e informa se está de acordo com o esperado.</p>
 
-| ID | Verificação | Resposta | Foi corrigido? |
+| ID | Verificação | Resposta | Observação |
 | :--: | :-------: | :------: | :------------: |
 | 12 | Os requisitos estão escritos de forma correta e clara? | ✔ |  |
 | 13 | Apresenta os participantes do Brainstorm? | ✔ |  |
 | 14 | Os requisitos estão identificados por IDs? | ✔ |  |
 | 15 | A listagem de requisitos está identificando quais são os Requisitos Funcionais?| ✔ |  |
 | 16 | A listagem de requisitos está identificando quais são os Requisitos Não-Funcionais?| ✔ |  |
-| 17 | A participação do cliente e/ou persona na elicitação de requisitos? | ✖ |  |
-| 18 | A gravação e registros da elicitação dos requisitos? | ✖ |  |
+| 17 | A participação do cliente e/ou persona na elicitação de requisitos? | ✖ | Não está claro se teve ou não participação do cliente e/ou persona |
+| 18 | A gravação e registros da elicitação dos requisitos? | ✖ | Não consta a gravação da elicitação. |
 | 19 | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? | ✔ |  |
 
 <figcaption align="center">Tabela 2: Critérios específicos do artefato. (Fonte: Autores, 2022)</figcaption>

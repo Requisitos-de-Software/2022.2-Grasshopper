@@ -55,8 +55,8 @@ nav:
               - Rich Picture: analise-de-requisitos/verificacao/testePiloto-Lichess/richpicture-Lichess.md
               - Personas: analise-de-requisitos/verificacao/testePiloto-Lichess/personas-Lichess.md
               - Storytelling: analise-de-requisitos/verificacao/testePiloto-Lichess/storytelling-Lichess.md
-              - Léxicos: analide-de-requisitos/verificacao/testePiloto-Lichess/lexicos-Lichess.md
-              - Casos de Uso: analide-de-requisitos/verificacao/testePiloto-Lichess/casos-de-uso.md
+              - Léxicos: analise-de-requisitos/verificacao/testePiloto-Lichess/lexicos-Lichess.md
+              - Casos de Uso: analise-de-requisitos/verificacao/testePiloto-Lichess/casos-de-uso-Lichess.md
               - Brainstorm: analise-de-requisitos/verificacao/testePiloto-Lichess/brainstorm-Lichess.md
               - Entrevista: analise-de-requisitos/verificacao/testePiloto-Lichess/entrevista-Lichess.md
               - First Things First: analise-de-requisitos/verificacao/testePiloto-Lichess/Ftf-Lichess.md
@@ -73,3 +73,4 @@ nav:
       - Etapa 2 - 30/11/2022: apresentacoes/etapa2.md
       - Etapa 3 - 12/12/2022: apresentacoes/etapa3.md
       - Etapa 4 - 04/01/2023: apresentacoes/etapa4.md
+      - Etapa 5 - 09/01/2023: apresentacoes/etapa5.md

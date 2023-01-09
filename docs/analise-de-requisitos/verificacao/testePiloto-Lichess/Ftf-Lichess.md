@@ -7,7 +7,7 @@
 <p align="justify">A <i>Tabela 1</i> a seguir descreve os critérios gerais, ou seja, que todos os artefatos desenvolvidos devem estar de acordo.</p>
 
 
-| ID | Verificação | Resposta | Foi corrigido? |
+| ID | Verificação | Resposta | Observação |
 | :--: | :-------: | :------: | :------------: |
 | 1 | Contém um texto fazendo introdução ao artefato? | ✔ |  |
 | 2 | Os textos estão ortograficamente corretos? | ✔ |  |
@@ -26,12 +26,12 @@
 ## Verificações específicas
 <p align="justify">A <i>Tabela 2</i> a seguir descreve os critérios específicos do artefato de Observação e informa se está de acordo com o esperado.</p>
 
-| ID | Verificação | Resposta | Foi corrigido? |
+| ID | Verificação | Resposta | Observação |
 | :--: | :-------: | :------: | :------------: |
-| 12 | A gravação e os registros da atividade de priorização dos requisitos? | ✖ |  |
+| 12 | A gravação e os registros da atividade de priorização dos requisitos? | ✖ | Não consta a gravação da priorização. |
 | 13 | Apresenta os participantes da priorização | ✖ |  |
 | 14 | Os requisitos priorizados estão identificados por IDs? | ✔ |  |
-| 15 | A participação do cliente e/ou persona no processo de priorização? | ✖ |  |
+| 15 | A participação do cliente e/ou persona no processo de priorização? | ✖ | Não está claro se teve ou não participação do cliente e/ou persona |
 | 16 | Um cronograma (data e horário) e local para realização da priorização dos requisitos com o do cliente e/ou persona do projeto? | ✖ |  |
 | 17 | A técnica foi aplicada de forma correta? | ✔ |  |
 
