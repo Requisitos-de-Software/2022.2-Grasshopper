@@ -53,6 +53,8 @@ nav:
           - In or Out: analise-de-requisitos/verificacao/inorout-verificacao.md
           - Teste Piloto - Lichess:
               - Rich Picture: analise-de-requisitos/verificacao/testePiloto-Lichess/richpicture-Lichess.md
+              - NFR Framework: analise-de-requisitos/verificacao/testePiloto-Lichess/nfrFramework-verificacao.md
+              - Backlog: analise-de-requisitos/verificacao/testePiloto-Lichess/backlogs-verificacao.md
               - Personas: analise-de-requisitos/verificacao/testePiloto-Lichess/personas-Lichess.md
               - Storytelling: analise-de-requisitos/verificacao/testePiloto-Lichess/storytelling-Lichess.md
               - Léxicos: analise-de-requisitos/verificacao/testePiloto-Lichess/lexicos-Lichess.md
