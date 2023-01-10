@@ -1,9 +1,9 @@
-### [NFR Framework] - Verificação
+# NFR Framework - Verificação
  
-### Introdução
+## Introdução
 <p align="justify">Este documento tem como objetivo verificar se o artefato de <a href="https://requisitos-de-software.github.io/2022.2-Lichess/modelagem/nfr_framework/">NFR Framework</a> segue os critérios pré-estabelecidos pela disciplina de Requisitos de Software, bem como, ajudar os integrantes a identificar os erros e possíveis correções necessárias. Esta etapa divide as verificações em gerais e específicas, em que as gerais se tratam dos critérios que todas as páginas devem seguir. Já as específicas são critérios referentes a somente esse artefato.</p>
  
-### Verificações gerais
+## Verificações gerais
 <p align="justify">A <i>Tabela 1</i> a seguir descreve os critérios gerais, ou seja, que todos os artefatos desenvolvidos devem estar de acordo.</p>
  
 | ID | Verificação | Resposta | Observação |
@@ -32,7 +32,7 @@
 | 15 | Os diagramas criados possui legenda? | ✔ |  |
 | 16 | O componente "Fronteira" está presente na versão final? | ✔ |  |
 | 17 | Há a definição dos softgoals que foram abordados no NFR? | ✔ |  |
-| 18 | Há legendas dos diagramas:? |
+| 18 | Há legendas dos diagramas:? |✔
 | 19 | Os diagramas usam corretamente os sinais escolhidos? | ✔ |  |
 | 20 | Dá pra ver o passo a passo de um softgoal até chegar em um requisito não funcional? | ✔ |  |
 | 21 |  O fluxo das setas faz sentido? | ✔ | |
