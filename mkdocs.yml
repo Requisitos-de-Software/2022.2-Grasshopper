@@ -53,19 +53,19 @@ nav:
           - In or Out: analise-de-requisitos/verificacao/inorout-verificacao.md
           - Teste Piloto - Lichess:
               - Rich Picture: analise-de-requisitos/verificacao/testePiloto-Lichess/richpicture-Lichess.md
-              - NFR Framework: analise-de-requisitos/verificacao/testePiloto-Lichess/nfrFramework-verificacao.md
-              - Backlog: analise-de-requisitos/verificacao/testePiloto-Lichess/backlogs-verificacao.md
               - Personas: analise-de-requisitos/verificacao/testePiloto-Lichess/personas-Lichess.md
               - Storytelling: analise-de-requisitos/verificacao/testePiloto-Lichess/storytelling-Lichess.md
-              - Léxicos: analise-de-requisitos/verificacao/testePiloto-Lichess/lexicos-Lichess.md
-              - Casos de Uso: analise-de-requisitos/verificacao/testePiloto-Lichess/casos-de-uso-Lichess.md
-              - Brainstorm: analise-de-requisitos/verificacao/testePiloto-Lichess/brainstorm-Lichess.md
               - Entrevista: analise-de-requisitos/verificacao/testePiloto-Lichess/entrevista-Lichess.md
               - First Things First: analise-de-requisitos/verificacao/testePiloto-Lichess/Ftf-Lichess.md
+              - Brainstorm: analise-de-requisitos/verificacao/testePiloto-Lichess/brainstorm-Lichess.md
+              - Moscow: analise-de-requisitos/verificacao/testePiloto-Lichess/moscow-Lichess.md
+              - Cenários: analise-de-requisitos/verificacao/testePiloto-Lichess/Cenarios-Lichess.md
+              - Léxicos: analise-de-requisitos/verificacao/testePiloto-Lichess/lexicos-Lichess.md
+              - Casos de Uso: analise-de-requisitos/verificacao/testePiloto-Lichess/casos-de-uso-Lichess.md
               - Especificação Suplementar: analise-de-requisitos/verificacao/testePiloto-Lichess/especificacao-suplementar.md
               - História de Usuário: analise-de-requisitos/verificacao/testePiloto-Lichess/historia-usuario.md
-              - Moscow: analise-de-requisitos/verificacao/testePiloto-Lichess/moscow-Lichess.md
-              - Cenarios: analise-de-requisitos/verificacao/testePiloto-Lichess/Cenarios-Lichess.md
+              - Backlog: analise-de-requisitos/verificacao/testePiloto-Lichess/backlogs-verificacao.md
+              - NFR Framework: analise-de-requisitos/verificacao/testePiloto-Lichess/nfrFramework-verificacao.md
 
   - Atas das Reuniões:
       - Reunião 1 - 15/11/2022: atas-das-reunioes/reuniao1.md
