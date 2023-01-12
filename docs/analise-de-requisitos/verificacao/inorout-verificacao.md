@@ -20,6 +20,7 @@
 | 9 | As versões do histórico seguem a partir do 1.0? | ✔ |  |
 | 10 | Contém o(s) autor(es) do artefato no histórico de versão? | ✔ |  |
 | 11 | Contém o revisor do artefato no histórico de versão? | ✔ |  |
+| 12 | Possue no minimo duas técnicas de priorização?| ✔ |  |
 
 <figcaption align="center">Tabela 1: Critérios gerais da página. (Fonte: Autores, 2022)</figcaption>
 
@@ -34,6 +35,7 @@
 | 15 | A participação do cliente e/ou persona no processo de priorização? | ✔ |  |
 | 16 | Um cronograma (data e horário) e local para realização da priorização dos requisitos com o do cliente e/ou persona do projeto? | ✖ | ✔ |
 | 17 | A técnica foi aplicada de forma correta? | ✔ |  |
+| 18 | Todos os requisitos elicitados tiveram sua prioridade definida? | ✔ |  |
 
 
 <figcaption align="center">Tabela 2: Critérios específicos do artefato. (Fonte: Autores, 2022)</figcaption>
@@ -45,3 +47,4 @@
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 03/01/2023 | Criação e desenvolvimento da verificação | Philipe | Hellen |
+| 1.1 | 03/01/2023 | Desenvolvimento da verificação | Philipe | Hellen |
