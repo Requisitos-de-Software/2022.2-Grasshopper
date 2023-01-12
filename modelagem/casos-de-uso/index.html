@@ -1,0 +1,2054 @@
+
+<!doctype html>
+<html lang="pt" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../lexicos/">
+      
+      
+        <link rel="next" href="../especificao-suplementar/">
+      
+      <link rel="icon" href="../../assets/fav.png">
+      <meta name="generator" content="mkdocs-1.4.2, mkdocs-material-9.0.3">
+    
+    
+      
+        <title>Casos de Uso - Grasshopper</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.6b71719e.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.2505c338.min.css">
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="light-green">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#introducao" class="md-skip">
+          Ir para o conteúdo
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabeçalho">
+    <a href="../.." title="Grasshopper" class="md-header__button md-logo" aria-label="Grasshopper" data-md-component="logo">
+      
+  <img src="../../assets/grasshopper.svg" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Grasshopper
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Casos de Uso
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Pesquisar">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Limpar" aria-label="Limpar" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Inicializando a pesquisa
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/Requisitos-de-Software/2022.2-Grasshopper" title="Ir ao repositório" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    2022.2-Grasshopper
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Abas" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../.." class="md-tabs__link">
+      Inicio
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../planejamento/reunioes/" class="md-tabs__link">
+        Planejamento
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../pre-traceability/richpicture/" class="md-tabs__link">
+        Pré-Rastreabilidade
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../elicitacao/perfil-do-usuario/" class="md-tabs__link">
+        Elicitação
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+    
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../cenarios/" class="md-tabs__link md-tabs__link--active">
+        Modelagem
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../analise-de-requisitos/verificacao/modelo-padrao/" class="md-tabs__link">
+        Análise de Requisitos
+      </a>
+    </li>
+  
+
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../atas-das-reunioes/reuniao1/" class="md-tabs__link">
+        Atas das Reuniões
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../apresentacoes/etapa1/" class="md-tabs__link">
+        Apresentações
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navegação" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Grasshopper" class="md-nav__button md-logo" aria-label="Grasshopper" data-md-component="logo">
+      
+  <img src="../../assets/grasshopper.svg" alt="logo">
+
+    </a>
+    Grasshopper
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Requisitos-de-Software/2022.2-Grasshopper" title="Ir ao repositório" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    2022.2-Grasshopper
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Inicio
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2" tabindex="0" aria-expanded="false">
+          Planejamento
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Planejamento" data-md-level="1">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Planejamento
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/reunioes/" class="md-nav__link">
+        Reuniões
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/metodologia/" class="md-nav__link">
+        Metodologia
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/ferramentas/" class="md-nav__link">
+        Ferramentas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/cronograma/" class="md-nav__link">
+        Cronograma
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/aplicativos-analisados/" class="md-nav__link">
+        Aplicativos analisados
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3" tabindex="0" aria-expanded="false">
+          Pré-Rastreabilidade
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Pré-Rastreabilidade" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Pré-Rastreabilidade
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pre-traceability/richpicture/" class="md-nav__link">
+        Rich Picture
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_4" type="checkbox" id="__nav_4" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4" tabindex="0" aria-expanded="false">
+          Elicitação
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Elicitação" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Elicitação
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/perfil-do-usuario/" class="md-nav__link">
+        Perfil do usuário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/personas/" class="md-nav__link">
+        Personas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/storytelling/" class="md-nav__link">
+        Storytelling
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/brainstorm/" class="md-nav__link">
+        Brainstorm
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/observacao/" class="md-nav__link">
+        Observação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_4_6" type="checkbox" id="__nav_4_6" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4_6" tabindex="0" aria-expanded="false">
+          Priorização
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Priorização" data-md-level="2">
+        <label class="md-nav__title" for="__nav_4_6">
+          <span class="md-nav__icon md-icon"></span>
+          Priorização
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/priorizacao/in-or-out/" class="md-nav__link">
+        In or Out
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/priorizacao/threeLevel-Scale/" class="md-nav__link">
+        Three Level-Scale
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_5" type="checkbox" id="__nav_5" checked>
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5" tabindex="0" aria-expanded="true">
+          Modelagem
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Modelagem" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Modelagem
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../cenarios/" class="md-nav__link">
+        Cenários
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../lexicos/" class="md-nav__link">
+        Léxicos
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Casos de Uso
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Casos de Uso
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    Metodologia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#casos-de-uso-especificacao" class="md-nav__link">
+    Casos de Uso &amp; Especificação
+  </a>
+  
+    <nav class="md-nav" aria-label="Casos de Uso &amp; Especificação">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#uc01-fazer-login" class="md-nav__link">
+    UC01 - Fazer Login
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc02-realizar-aula" class="md-nav__link">
+    UC02 - Realizar Aula
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc03-menu-de-opcoes" class="md-nav__link">
+    UC03 - Menu de opções
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc04-configuracoes" class="md-nav__link">
+    UC04 - Configurações
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc05-conquistas" class="md-nav__link">
+    UC05 - Conquistas
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencias" class="md-nav__link">
+    Referências
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    Histórico de versão
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../especificao-suplementar/" class="md-nav__link">
+        Especifição Suplementar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_5_5" type="checkbox" id="__nav_5_5" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5_5" tabindex="0" aria-expanded="false">
+          Ágil
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Ágil" data-md-level="2">
+        <label class="md-nav__title" for="__nav_5_5">
+          <span class="md-nav__icon md-icon"></span>
+          Ágil
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../modelagemAgil/backlog/" class="md-nav__link">
+        Backlog
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../modelagemAgil/historias-de-usuario/" class="md-nav__link">
+        Histórias de Usuário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../modelagemAgil/nfr-framework/" class="md-nav__link">
+        NFR Framework
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_6" type="checkbox" id="__nav_6" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6" tabindex="0" aria-expanded="false">
+          Análise de Requisitos
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Análise de Requisitos" data-md-level="1">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          Análise de Requisitos
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_6_1" type="checkbox" id="__nav_6_1" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_1" tabindex="0" aria-expanded="false">
+          Verificação
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Verificação" data-md-level="2">
+        <label class="md-nav__title" for="__nav_6_1">
+          <span class="md-nav__icon md-icon"></span>
+          Verificação
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise-de-requisitos/verificacao/modelo-padrao/" class="md-nav__link">
+        Modelo Padrão
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise-de-requisitos/verificacao/richpicture-verificacao/" class="md-nav__link">
+        Rich Picture
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise-de-requisitos/verificacao/personas-verificacao/" class="md-nav__link">
+        Personas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise-de-requisitos/verificacao/storytelling-verificacao/" class="md-nav__link">
+        Storytelling
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise-de-requisitos/verificacao/observacao-verificacao/" class="md-nav__link">
+        Observação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise-de-requisitos/verificacao/brainstorming-verificacao/" class="md-nav__link">
+        Brainstorm
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise-de-requisitos/verificacao/inorout-verificacao/" class="md-nav__link">
+        In or Out
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_6_1_8" type="checkbox" id="__nav_6_1_8" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_1_8" tabindex="0" aria-expanded="false">
+          Teste Piloto - Lichess
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Teste Piloto - Lichess" data-md-level="3">
+        <label class="md-nav__title" for="__nav_6_1_8">
+          <span class="md-nav__icon md-icon"></span>
+          Teste Piloto - Lichess
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise-de-requisitos/verificacao/testePiloto-Lichess/richpicture-Lichess/" class="md-nav__link">
+        Rich Picture
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise-de-requisitos/verificacao/testePiloto-Lichess/personas-Lichess/" class="md-nav__link">
+        Personas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise-de-requisitos/verificacao/testePiloto-Lichess/storytelling-Lichess/" class="md-nav__link">
+        Storytelling
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise-de-requisitos/verificacao/testePiloto-Lichess/entrevista-Lichess/" class="md-nav__link">
+        Entrevista
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise-de-requisitos/verificacao/testePiloto-Lichess/brainstorm-Lichess/" class="md-nav__link">
+        Brainstorm
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise-de-requisitos/verificacao/testePiloto-Lichess/Ftf-Lichess/" class="md-nav__link">
+        First Things First
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise-de-requisitos/verificacao/testePiloto-Lichess/moscow-Lichess/" class="md-nav__link">
+        Moscow
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise-de-requisitos/verificacao/testePiloto-Lichess/Cenarios-Lichess/" class="md-nav__link">
+        Cenários
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise-de-requisitos/verificacao/testePiloto-Lichess/lexicos-Lichess/" class="md-nav__link">
+        Léxicos
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise-de-requisitos/verificacao/testePiloto-Lichess/casos-de-uso-Lichess/" class="md-nav__link">
+        Casos de Uso
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise-de-requisitos/verificacao/testePiloto-Lichess/especificacao-suplementar/" class="md-nav__link">
+        Especificação Suplementar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise-de-requisitos/verificacao/testePiloto-Lichess/historia-usuario/" class="md-nav__link">
+        História de Usuário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise-de-requisitos/verificacao/testePiloto-Lichess/backlogs-verificacao/" class="md-nav__link">
+        Backlog
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise-de-requisitos/verificacao/testePiloto-Lichess/nfrFramework-verificacao/" class="md-nav__link">
+        NFR Framework
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_7" type="checkbox" id="__nav_7" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_7" tabindex="0" aria-expanded="false">
+          Atas das Reuniões
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Atas das Reuniões" data-md-level="1">
+        <label class="md-nav__title" for="__nav_7">
+          <span class="md-nav__icon md-icon"></span>
+          Atas das Reuniões
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas-das-reunioes/reuniao1/" class="md-nav__link">
+        Reunião 1 - 15/11/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas-das-reunioes/reuniao2/" class="md-nav__link">
+        Reunião 2 - 17/11/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas-das-reunioes/reuniao3/" class="md-nav__link">
+        Reunião 3 - 22/11/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas-das-reunioes/reuniao4/" class="md-nav__link">
+        Reunião 4 - 01/12/2022
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_8" type="checkbox" id="__nav_8" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_8" tabindex="0" aria-expanded="false">
+          Apresentações
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Apresentações" data-md-level="1">
+        <label class="md-nav__title" for="__nav_8">
+          <span class="md-nav__icon md-icon"></span>
+          Apresentações
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/etapa1/" class="md-nav__link">
+        Etapa 1 - 21/11/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/etapa2/" class="md-nav__link">
+        Etapa 2 - 30/11/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/etapa3/" class="md-nav__link">
+        Etapa 3 - 12/12/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/etapa4/" class="md-nav__link">
+        Etapa 4 - 04/01/2023
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/etapa5/" class="md-nav__link">
+        Etapa 5 - 09/01/2023
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    Metodologia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#casos-de-uso-especificacao" class="md-nav__link">
+    Casos de Uso &amp; Especificação
+  </a>
+  
+    <nav class="md-nav" aria-label="Casos de Uso &amp; Especificação">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#uc01-fazer-login" class="md-nav__link">
+    UC01 - Fazer Login
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc02-realizar-aula" class="md-nav__link">
+    UC02 - Realizar Aula
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc03-menu-de-opcoes" class="md-nav__link">
+    UC03 - Menu de opções
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc04-configuracoes" class="md-nav__link">
+    UC04 - Configurações
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc05-conquistas" class="md-nav__link">
+    UC05 - Conquistas
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencias" class="md-nav__link">
+    Referências
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    Histórico de versão
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+
+  <h1>Casos de Uso</h1>
+
+<h2 id="introducao">Introdução</h2>
+<p>Um caso de uso é uma descrição das maneiras pelas quais um usuário interage com um sistema ou produto. Um caso de uso pode estabelecer os cenários de sucesso, os cenários de falha e quaisquer variações críticas ou exceções.</p>
+<h2 id="metodologia">Metodologia</h2>
+<p>Para elaborar dos casos de uso foram verificados e analisados os documentos de elicitação de requisitos. A partir disso, foram feitos os casos de uso utilizando a ferramenta Lucidchart.</p>
+<h2 id="casos-de-uso-especificacao">Casos de Uso &amp; Especificação</h2>
+<h3 id="uc01-fazer-login"><strong>UC01 - Fazer Login</strong></h3>
+<p>Primeiro Caso de Uso(<i>Figura 1</i>) que representa o subconjunto <strong>Realizar login</strong>, seguido da tabela de especificação(Tabela 1).</p>
+<p><img alt="Caso-Login" src="../assest/UC1-login.jpeg" /></p>
+<figcaption align='center'>
+ <h6> <b>Figura 1 – UC01</b><br>
+  Fonte: Philipe de Sousa</h6>
+</figcaption>
+
+<table>
+<thead>
+<tr>
+<th>UC01</th>
+<th align="left">Fazer Login</th>
+<th>Rastreabilidade</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Descrição</strong></td>
+<td align="left">Fazer Login no Grasshopper</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Ator(es)</strong></td>
+<td align="left">&gt; Usuário <br> &gt; Serviço de autenticação Google</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Pré condições</strong></td>
+<td align="left">&gt; Usuário estar deslogado no aplicativo</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Fluxo principal</strong></td>
+<td align="left">&gt; Usuário acessa o Grasshopper <br> &gt; Usuário clica no botão "Fazer login com o Google" <br> &gt; Usuário escolhe a conta para continuar no Grasshopper <br> &gt; Os dados de login são autenticados</td>
+<td>OBS17<br>OBS02, ST06<br>OBS02, ST06<br>OBS02, ST06</td>
+</tr>
+<tr>
+<td><strong>Fluxos alternativos</strong></td>
+<td align="left"><strong>Fluxo Alternativo 1 - Iniciar sem fazer login:</strong> <br> &gt; Usuário acessa o Grasshopper <br> &gt; Usuário clica no botão "Iniciar sem fazer login" <br> &gt; Usuário segue os passos e responde as perguntas de nivelamento <br> &gt; O usuário é logado automaticamente</td>
+<td><br>OBS17<br>OBS01<br>ST11, BS05</td>
+</tr>
+<tr>
+<td></td>
+<td align="left"></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Fluxos de exceção</strong></td>
+<td align="left"><strong>Fluxo de Exceção 1 - Desconectado:</strong> <br> &gt; Aplicativo apresentar uma mensagem de erro avisando que não foi possível fazer o Login pois está sem conexão com a internet<br> <br></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Pós condições</strong></td>
+<td align="left">Usuário fica logado no Grasshopper e é direcionado para a aula tutorial</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<figcaption align='center'>
+ <h6> <b>Tabela 1 – UC01</b><br>
+  Fonte: Philipe de Sousa</h6>
+</figcaption>
+
+<h3 id="uc02-realizar-aula"><strong>UC02 - Realizar Aula</strong></h3>
+<p>Segundo Caso de Uso(<i>Figura 2</i>) que representa o subconjunto <strong>Realziar Aulas</strong>, seguido da tabela de especificação(Tabela 2).</p>
+<p><img alt="Caso-aulas" src="../assest/UC2-Realiza-aula.jpeg" /></p>
+<figcaption align='center'>
+ <h6> <b>Figura 2 – UC02</b><br>
+  Fonte: Philipe de Sousa</h6>
+</figcaption>
+
+<table>
+<thead>
+<tr>
+<th>UC02</th>
+<th align="left">Aulas</th>
+<th>Rastreabilidae</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Descrição</strong></td>
+<td align="left">Usuário deve selecionar aula disponível e realizar a tarefa solicitada</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Ator(es)</strong></td>
+<td align="left">&gt; Usuário</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Pré condições</strong></td>
+<td align="left">&gt; Usuário deve ter finalizado a aula anterior do curso</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Fluxo principal</strong></td>
+<td align="left">&gt; Usuário acessa o Grasshopper <br> &gt; Usuário clica na aula disponível do curso escolhido <br> &gt; Usuário clica no nome da aula <br> &gt; E as tarefas solicitadas são listadas</td>
+<td>BS17<br><br>ST12<br>ST03</td>
+</tr>
+<tr>
+<td><strong>Fluxos alternativos</strong></td>
+<td align="left"><strong>Fluxos alternativos - Aula Opcional</strong> <br> &gt; Usuário acessa o Grasshopper <br> &gt; Usuário clica na aula disponível do curso escolhido <br> &gt; Usuário clica no nome da aula <br> &gt; O Grasshopper libera duas aulas em sequência (aula opcional)</td>
+<td><br>BS17<br>OBS10, ST08</td>
+</tr>
+<tr>
+<td><strong>Fluxos de exceção</strong></td>
+<td align="left">---</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Pós condições</strong></td>
+<td align="left">Usuário pode sair da aula e finalizar tarefa depois</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<figcaption align='center'>
+ <h6> <b>Tabela 2 – UC02</b><br>
+  Fonte: Philipe de Sousa</h6>
+</figcaption>
+
+<h3 id="uc03-menu-de-opcoes"><strong>UC03 - Menu de opções</strong></h3>
+<p>Terceiro Caso de Uso(<i>Figura 3</i>) que representa o subconjunto <strong>Menu de opções</strong>, seguido da tabela de especificação(Tabela 3).</p>
+<p><img alt="Caso-menu" src="../assest/UC03-Menu.jpeg" /></p>
+<figcaption align='center'>
+ <h6> <b>Figura 3 – UC03</b><br>
+  Fonte: Philipe de Sousa</h6>
+</figcaption>
+
+<table>
+<thead>
+<tr>
+<th>UC03</th>
+<th align="left">Menu de opções</th>
+<th>Rastreabilidade</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Descrição</strong></td>
+<td align="left">Usuário deve selecionar a barra lateral para acessar o menu de opções</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Ator(es)</strong></td>
+<td align="left">&gt; Usuário</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Pré condições</strong></td>
+<td align="left">&gt; Usuário deve ter finalizado a aula tutorial, logo após ter respondido  o nivelamento</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Fluxo principal</strong></td>
+<td align="left">&gt; Usuário acessa o Grasshopper <br> &gt; Usuário clica na barra lateral no canto superior esquerdo  <br> &gt; Usuário clica sobre o cursos desejado <br> &gt; E realiza as tarefas da aula</td>
+<td>BS17<br>OBS33<br>OBS08<br>ST03</td>
+</tr>
+<tr>
+<td><strong>Fluxos alternativos</strong></td>
+<td align="left"><strong>Fluxo alternativos 1 - Personalizar mascote</strong> <br> &gt; Usuário acessa o Grasshopper   <br> &gt; Usuário clica na barra lateral no canto superior esquerdo <br> &gt; Usuário clica no mascote do Grasshopper <br> &gt; O Usuário escolhe um adereço para o mascote <br> <br> <strong>Fluxo alternativos 2 - Praticar no playground</strong> <br> &gt; Usuário acessa o Grasshopper <br> &gt; Usuário clica na barra lateral no canto superior esquerdo <br> &gt; Usuário clica na opção playground de código <br> &gt; O Usuário faz práticas de javascript com mais liberdade, não se limitando a uma tarefa específica.</td>
+<td><br>BS17<br>OBS33<br>OBS06<br>OBS07, BS09<br><br><br>BS17<br>OBS33<br><br>BS07</td>
+</tr>
+<tr>
+<td><strong>Fluxos de exceção</strong></td>
+<td align="left">---</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Pós condições</strong></td>
+<td align="left">Usuário volta para tela do curso</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<figcaption align='center'>
+ <h6> <b>Tabela 3 – UC03</b><br>
+  Fonte: Philipe de Sousa</h6>
+</figcaption>
+
+<h3 id="uc04-configuracoes"><strong>UC04 - Configurações</strong></h3>
+<p>Quarto Caso de Uso(<i>Figura 4</i>) que representa o subconjunto <strong>Configurações</strong>, seguido da tabela de especificação(Tabela 4).</p>
+<p><img alt="Caso-config" src="../assest/UC04-Config.jpeg" /></p>
+<figcaption align='center'>
+ <h6> <b>Figura 4 – UC04</b><br>
+  Fonte: Philipe de Sousa</h6>
+</figcaption>
+
+<table>
+<thead>
+<tr>
+<th>UC04</th>
+<th align="left">Configurações</th>
+<th align="left">Rastreabilidade</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Descrição</strong></td>
+<td align="left">Usuário deve selecionar a barra lateral para acessar o menu de opções para ir para as configurações do Grasshopper</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td><strong>Ator(es)</strong></td>
+<td align="left">&gt; Usuário</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td><strong>Pré condições</strong></td>
+<td align="left">&gt; Usuário deve ter finalizado a aula tutorial, logo após ter respondido o nivelamento</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td><strong>Fluxo principal</strong></td>
+<td align="left">&gt; Usuário acessa o Grasshopper <br> &gt; Usuário clica na barra lateral no canto superior esquerdo  <br> &gt; Usuário clica sobre em configurações <br> &gt; Navega até Notificações de apps <br> &gt; O usuário desativa as notificações e lembretes</td>
+<td align="left">OBS17<br>OBS33<br>BS25<br><br>OBS19</td>
+</tr>
+<tr>
+<td><strong>Fluxos alternativos</strong></td>
+<td align="left"><strong>Fluxo alternativos 1 - Troca de idioma</strong> <br> &gt; Usuário acessa o Grasshopper <br> &gt; Usuário clica na barra lateral no canto superior esquerdo <br> &gt; Usuário clica em configurações <br> &gt; O Usuário escolhe o idioma de sua preferência<br> <br> <strong>Fluxo alternativos 2 - Pesquisa demográfica</strong> <br> &gt; Usuário acessa o Grasshopper <br> &gt; Usuário clica na barra lateral no canto superior esquerdo <br> &gt; Usuário clica na opção de responder a pesquisa <br> &gt; O Usuário responde o questionário.<br> &gt; E enviar os resultados <br> <br> <strong>Fluxo alternativos 3 - Enviar feedback</strong> <br> &gt; Usuário acessa o Grasshopper <br> &gt; Usuário clica na barra lateral no canto superior esquerdo <br> &gt; Usuário clica na opção de enviar feedback <br> &gt; O Usuário escolhe uma nota de 0 a 10, sobre a probabilidade de recomenddar o Grasshooper para um amigo <br> &gt; E envia o feedback</td>
+<td align="left"><br>OBS17<br>OBS33<br>BS25<br>OBS26<br><br><br>OBS17<br>OBS33<br><br><br><br><br><br>OBS17<br>OBS33<br>OBS23</td>
+</tr>
+<tr>
+<td><strong>Fluxos de exceção</strong></td>
+<td align="left">---</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td><strong>Pós condições</strong></td>
+<td align="left">As modificações feitas no menu de configuração são aplicadas</td>
+<td align="left"></td>
+</tr>
+</tbody>
+</table>
+<figcaption align='center'>
+ <h6> <b>Tabela 4 – UC04</b><br>
+  Fonte: Philipe de Sousa</h6>
+</figcaption>
+
+<h3 id="uc05-conquistas"><strong>UC05 - Conquistas</strong></h3>
+<p>Quinto Caso de Uso(<i>Figura 5</i>) que representa o subconjunto <strong>Conquistas</strong>, seguido da tabela de especificação(Tabela 5).</p>
+<p><img alt="Caso-conquista" src="../assest/UC05-conquistas.jpeg" /></p>
+<figcaption align='center'>
+ <h6> <b>Figura 5 – UC05</b><br>
+  Fonte: Philipe de Sousa</h6>
+</figcaption>
+
+<table>
+<thead>
+<tr>
+<th>UC05</th>
+<th align="left">Conquistas</th>
+<th>Rastreabilidade</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Descrição</strong></td>
+<td align="left">Usuário irá ver a suas conquistas</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Ator(es)</strong></td>
+<td align="left">&gt; Usuário</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Pré condições</strong></td>
+<td align="left">&gt; Usuário deve ter completado no mínimo uma tarefa para conseguir visualizar</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Fluxo principal</strong></td>
+<td align="left">&gt; Usuário acessa o Grasshopper <br> &gt; Usuário clica no icone de um troféu no canto superior direito <br> &gt; E visualiza os conceitos desbloqueados <br></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Fluxos alternativos</strong></td>
+<td align="left"><strong>Fluxo Alternativo 1 - Visualizar Sequência do dia:</strong> <br> &gt; Usuário acessa o Grasshopper <br> &gt; Usuário clica no icone de um troféu no canto superior direito <br> &gt; Seleciona Sequência do dia <br> &gt; E visualiza tela com as datas e sequências <br></td>
+<td><br>OBS17<br>OBS33<br>OBS30, BS04</td>
+</tr>
+<tr>
+<td><strong>Fluxos de exceção</strong></td>
+<td align="left">---</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Pós condições</strong></td>
+<td align="left">Usuário irá ver as suas conquistas</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<figcaption align='center'>
+ <h6> <b>Tabela 5 – UC05</b><br>
+  Fonte: Philipe de Sousa</h6>
+</figcaption>
+
+<h2 id="referencias">Referências</h2>
+<blockquote>
+<p>SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 11;</p>
+<p>UML Use Case Diagrams. UML Diagrams. Disponível em:  https://www.uml-diagrams.org/use-case-diagrams.html. Acesso em: 08/12/2022.</p>
+</blockquote>
+<h2 id="historico-de-versao">Histórico de versão</h2>
+<table>
+<thead>
+<tr>
+<th align="center">Versão</th>
+<th align="center">Data</th>
+<th align="center">Descrição</th>
+<th align="center">Autor</th>
+<th align="center">Revisor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">1.0</td>
+<td align="center">08/12/2022</td>
+<td align="center">Início da página e casos de uso</td>
+<td align="center">Philipe de Sousa</td>
+<td align="center">--</td>
+</tr>
+<tr>
+<td align="center">1.1</td>
+<td align="center">08/12/2022</td>
+<td align="center">Casos de uso correção</td>
+<td align="center">Philipe de Sousa</td>
+<td align="center">--</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.tabs"], "search": "../../assets/javascripts/workers/search.e5c33ebb.min.js", "translations": {"clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "search.result.more.one": "Mais 1 nesta p\u00e1gina", "search.result.more.other": "Mais # nesta p\u00e1gina", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.placeholder": "Digite para iniciar a busca", "search.result.term.missing": "Ausente", "select.version": "Selecione a vers\u00e3o"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.ba449ae6.min.js"></script>
+      
+    
+  </body>
+</html>
