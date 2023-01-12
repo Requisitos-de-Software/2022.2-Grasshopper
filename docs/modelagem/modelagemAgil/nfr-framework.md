@@ -14,7 +14,6 @@
 
 - Usabilidade;
 - Desempenho;
-- Confiabilidade;
 - Suportabilidade;
 
 &emsp;&emsp;Feitas as devidas análises e definas as softgoals, para o desenvolvimento dos gráficos foi elaborada um padrão de representação que está representado na legenda abaixo.(<i>Figura 1</i>). A ferramenta utilizada para a confecção dos diagramas foi o <a href="https://app.diagrams.net">draw.io</a>.
@@ -49,7 +48,7 @@
 
 &emsp;&emsp;Agora na (<i>Figura 4</i>) o SIG 02 que é voltado para o estruturação do SIG para o desempenho da aplicação.
 
-![NFR02](../assest/NFR-DESEM.png)
+![NFR02](../assest/11desem-nfr-sem.png.png)
 <figcaption align='center'>
  <h6> <b>Figura 4 – Diagrama SIG 02 - Desempenho </b><br>
   Fonte: Philipe </h6>
@@ -59,45 +58,28 @@
 
 &emsp;&emsp; Na (<i>Figura 5</i>) temos a o SIG 02 com a propagação.
 
-![NFR02](../assest/NFRdes-propa.png)
+![NFR02](../assest/11desem-nfr.png)
 <figcaption align='center'>
  <h6> <b>Figura 5 –  Análise diagrama SIG 02 - Desempenho </b><br>
   Fonte: Philipe, João Pedro </h6>
 </figcaption>
 
-### SIG 03 - Confiabilidade
+
+### SIG 03 - Suportabilidade
 
 &emsp;&emsp; Na (<i>Figura 6</i>) temos a o SIG 03 sem a propagação.
-![NFR02](../assest/NFR-conf.png)
-<figcaption align='center'>
- <h6> <b>Figura 6 – Diagrama SIG 03 - Confiabilidade </b><br>
-  Fonte: Philipe, João Pedro </h6>
-</figcaption>
-
-### Análise SIG 03 - Confiabilidade
-&emsp;&emsp; Na (<i>Figura 7</i>) temos a o SIG 03 com a propagação.
-
-![NFR02](../assest/NFRconfanalise.png)
-<figcaption align='center'>
- <h6> <b>Figura 7 – Análise do diagrama SIG 03 - Confiabilidade </b><br>
-  Fonte: Philipe, João Pedro </h6>
-</figcaption>
-
-### SIG 04 - Suportabilidade
-
-&emsp;&emsp; Na (<i>Figura 8</i>) temos a o SIG 04 sem a propagação.
 ![NFR02](../assest/NRF-supp.png)
 <figcaption align='center'>
- <h6> <b>Figura 8 – Diagrama SIG 04 - Suportabilidade </b><br>
+ <h6> <b>Figura 8 – Diagrama SIG 03 - Suportabilidade </b><br>
   Fonte: Philipe, João Pedro </h6>
 </figcaption>
 
-### Análise SIG 04 - Suportabilidade
-&emsp;&emsp; Na (<i>Figura 9</i>) temos a o SIG 04 referente a suportabilidade do aplicativo Grasshopper, com a propagação.
+### Análise SIG 03 - Suportabilidade
+&emsp;&emsp; Na (<i>Figura 7</i>) temos a o SIG 03 referente a suportabilidade do aplicativo Grasshopper, com a propagação.
 
 ![NFR02](../assest/NRF-suppanalise.png)
 <figcaption align='center'>
- <h6> <b>Figura 9 – Análise do diagrama SIG 04 - Suportabilidade </b><br>
+ <h6> <b>Figura 9 – Análise do diagrama SIG 03 - Suportabilidade </b><br>
   Fonte: Philipe, João Pedro </h6>
 </figcaption>
 
